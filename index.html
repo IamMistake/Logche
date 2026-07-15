@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Logche is a local-first research prototype for turning shorthand into structured personal logs, fine-tuning Qwen models, and quantizing them with Rust.">
+  <meta name="description" content="Logche is a local-first design and research project for turning shorthand into structured personal logs with a planned Qwen and Rust research direction.">
   <meta property="og:title" content="Logche - Local-first shorthand logging">
-  <meta property="og:description" content="A research prototype for private structured logging with local Qwen models and Rust quantization.">
+  <meta property="og:description" content="A design and research project for private structured logging with planned Qwen, Rust, GGUF, and local storage research.">
   <meta property="og:url" content="https://IamMistake.github.io/Logche/">
   <link rel="canonical" href="https://IamMistake.github.io/Logche/">
   <title>Logche - Local-first shorthand logging</title>
@@ -59,8 +59,8 @@
           <p class="eyebrow"><i class="fa-solid fa-flask"></i> Research prototype / local AI</p>
           <h1>Log<span>che</span></h1>
           <p class="hero-subtitle">Turn quick shorthand into structured life logs without handing everyday data to a remote service.</p>
-          <p class="hero-description">Logche explores fine-tuning Qwen-family models and quantizing them with Rust for a small, private, local-first logging system. The site documents the system direction and the working model-engineering tools in this repository.</p>
-          <p class="hero-project-note">Logche is my graduation project, and it will be implemented very very soon.</p>
+          <p class="hero-description">Logche explores a small, private, local-first logging system. Its planned research direction includes Qwen model comparison, LoRA or QLoRA fine-tuning, Rust systems work, GGUF packaging, and SQLite or Turso storage.</p>
+          <p class="hero-project-note">Graduation project / design and research phase. No implementation is claimed here.</p>
           <div class="hero-meta"><a href="https://github.com/IamMistake" target="_blank" rel="noopener">Nikola Jagurinoski</a><span>University “Ss. Cyril and Methodius” in Skopje</span><span>Faculty of Computer Science and Engineering</span></div>
           <div class="hero-actions"><a class="button button-primary" href="#architecture">Follow the system <i class="fa-solid fa-arrow-down"></i></a><a class="button button-secondary" href="https://github.com/IamMistake/Logche" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> View repository</a></div>
         </div>
@@ -69,7 +69,7 @@
           <div class="input-line"><span class="prompt">&gt;</span> ran 5k 26</div>
           <div class="output-arrow"><i class="fa-solid fa-arrow-down"></i> expand locally</div>
           <div class="json-card"><span>{</span><p>"intent": "movement",<br>"type": "run",<br>"distance_km": 5,<br>"duration_min": 26,<br>"pace": "5:12/km"</p><span>}</span></div>
-          <small>raw shorthand stays alongside the structured result</small>
+          <small>conceptual structured result; implementation is not claimed</small>
         </div>
       </div>
     </header>
@@ -83,7 +83,7 @@
         <figure class="diagram-card large"><img src="assets/logche-flow.png" alt="Logche mobile wireframe showing category selection and the shorthand input run 5k 26 expanded into a running log"><figcaption>The product flow starts with categories and a compact shorthand entry, then shows the interpreted running record for confirmation.</figcaption></figure>
         <div class="three-grid">
           <article><i class="fa-solid fa-bolt"></i><h3>Fast capture</h3><p>Shorthand reduces the friction of filling out a dedicated form for every kind of event.</p></article>
-          <article><i class="fa-solid fa-shield-halved"></i><h3>Local by default</h3><p>The intended normal logging path works offline, keeping personal entries on the device.</p></article>
+          <article><i class="fa-solid fa-shield-halved"></i><h3>Local by design</h3><p>The intended normal logging path should work offline and keep personal entries on the device.</p></article>
           <article><i class="fa-solid fa-table-list"></i><h3>Structured history</h3><p>Raw text, expanded fields, timestamps, corrections, and statistics-ready values stay together.</p></article>
         </div>
       </div>
@@ -118,12 +118,12 @@
       <div class="container">
         <p class="eyebrow"><i class="fa-solid fa-diagram-project"></i> How it works</p>
         <h2>A thin app around a local model and local storage.</h2>
-        <p class="section-intro">The architecture diagram keeps the boundaries explicit. The mobile app is the user-facing runtime; Rust is the proposed local systems layer; the fine-tuned local model expands shorthand; and SQLite or Turso stores the structured history.</p>
-        <p class="how-why"><strong>How:</strong> the app sends shorthand to the local model through the Rust layer, receives structured data, and saves it in the local database. <strong>Why:</strong> keeping inference and storage local makes normal logging offline, fast, and private while leaving the UI thin.</p>
-        <p class="status-note"><strong>Status:</strong> documented technical direction. The UI framework is still open between Kotlin and Flutter, and the mobile application is not shipped in this checkout.</p>
+        <p class="section-intro">The proposed architecture keeps the boundaries explicit. A future mobile app would be the user-facing runtime; Rust is being considered as the local systems layer; a selected Qwen model would expand shorthand; and SQLite or Turso are storage options.</p>
+        <p class="how-why"><strong>How:</strong> the intended flow sends shorthand through a local model layer, returns structured data, and stores it locally. <strong>Why:</strong> keeping inference and storage local supports the project goal of offline, private logging while leaving the UI thin.</p>
+        <p class="status-note"><strong>Status:</strong> design direction only. No mobile app, local model, Rust core, or database integration is implemented here.</p>
         <div class="split-layout">
           <figure class="diagram-card"><img src="assets/architecture.png" alt="Logche architecture diagram connecting the app through Rust to a fine-tuned local LLM model and Turso or SQLite"><figcaption>Architecture direction from <code>Logche/Excalidraw/architecture.excalidraw.md</code>.</figcaption></figure>
-          <div class="note-stack"><div class="note"><span class="number">01</span><div><h3>Input and confirmation</h3><p>The user enters shorthand and can correct the model's structured expansion before saving.</p></div></div><div class="note"><span class="number">02</span><div><h3>Local inference</h3><p>Candidate Qwen models are evaluated as the parsing layer rather than relying on a cloud API.</p></div></div><div class="note"><span class="number">03</span><div><h3>Queryable storage</h3><p>Local storage supports review, filtering, search, statistics, and future personalization.</p></div></div></div>
+          <div class="note-stack"><div class="note"><span class="number">01</span><div><h3>Input and confirmation</h3><p>The intended flow lets a user review and correct a structured expansion before saving.</p></div></div><div class="note"><span class="number">02</span><div><h3>Local inference</h3><p>Qwen candidates are research options for the parsing layer rather than a selected deployed model.</p></div></div><div class="note"><span class="number">03</span><div><h3>Queryable storage</h3><p>SQLite or Turso are being considered for review, filtering, search, and statistics.</p></div></div></div>
         </div>
       </div>
     </section>
@@ -143,7 +143,7 @@
       <div class="container">
         <p class="eyebrow"><i class="fa-solid fa-sliders"></i> Model training</p>
         <h2>Compare Qwen candidates before committing to one.</h2>
-        <p class="section-intro">The current candidates are <strong>Qwen3.5-0.8B</strong>, <strong>Qwen3-0.6B</strong>, and <strong>Qwen2.5-0.5B-Instruct</strong>. The repository treats the choice as an experiment: compare output quality and local resource use on the same held-out examples.</p>
+        <p class="section-intro">The research candidates are <strong>Qwen3.5-0.8B</strong>, <strong>Qwen3-0.6B</strong>, and <strong>Qwen2.5-0.5B-Instruct</strong>. No model has been selected or fine-tuned yet; the intended study compares output quality and local resource use.</p>
         <p class="how-why"><strong>How:</strong> establish prompting as a baseline, then compare LoRA, QLoRA, and full fine-tuning with the same held-out shorthand examples. <strong>Why:</strong> the smallest model or adapter is useful only if it preserves valid structured output while reducing local memory and startup cost.</p>
         <div class="model-row"><span>Qwen3.5-0.8B</span><span>Qwen3-0.6B</span><span>Qwen2.5-0.5B-Instruct</span></div>
         <figure class="diagram-card wide"><img src="assets/fine-tuning.png" alt="Fine-tuning diagram showing general fine-tuning with full fine-tuning, LoRA, and QLoRA, and personalized fine-tuning from personal data"><figcaption>The documented diagram uses Qwen2.5-0.5B-Instruct as the base example; the project is comparing it with Qwen3-0.6B and Qwen3.5-0.8B.</figcaption></figure>
@@ -157,9 +157,9 @@
         <h2>Fine-tune first. Quantize after the model works.</h2>
         <p class="section-intro">The notes describe a Rust quantization engine as the deployment path. Post-training quantization is the practical first option: validate the unquantized model, convert it to a compact runtime format such as GGUF, and run the same test set again.</p>
         <p class="how-why"><strong>How:</strong> the proposed path quantizes a merged fine-tuned model into 8-bit or 4-bit weights, or keeps a quantized base with adapters for runtime composition. <strong>Why:</strong> post-training quantization is simpler to validate first, and repeating the golden tests exposes quality, latency, RAM, and load-time tradeoffs.</p>
-        <p class="status-note"><strong>Status:</strong> research direction. The current Rust implementation is a GGUF metadata reader; a completed quantization engine is not claimed here.</p>
+        <p class="status-note"><strong>Status:</strong> planned research direction. No Rust quantization engine or quantized model is implemented or published here.</p>
         <figure class="diagram-card narrow"><img src="assets/quantization.png" alt="Rust quantization engine diagram showing a fine-tuned model becoming an 8-bit or 4-bit quantized model, with merged or adapter-based paths"><figcaption>Quantization direction from the Excalidraw notes, including merged-model and base-plus-adapter paths.</figcaption></figure>
-        <div class="process-line"><span><b>1</b> Fine-tuned model</span><i class="fa-solid fa-arrow-right"></i><span><b>2</b> Rust quantization engine</span><i class="fa-solid fa-arrow-right"></i><span><b>3</b> Compact local model</span></div>
+        <div class="process-line"><span><b>1</b> Proposed fine-tuned model</span><i class="fa-solid fa-arrow-right"></i><span><b>2</b> Proposed Rust quantization</span><i class="fa-solid fa-arrow-right"></i><span><b>3</b> Proposed compact model</span></div>
       </div>
     </section>
 
@@ -167,30 +167,31 @@
       <div class="container">
         <p class="eyebrow"><i class="fa-solid fa-chart-line"></i> Evaluation methodology</p>
         <h2>Compare quality and local cost on the same examples.</h2>
-        <p class="section-intro">The project notes define what should be measured when comparing prompting, LoRA, QLoRA, full fine-tuning, model candidates, and quantized outputs. This page does not claim benchmark results that are not documented.</p>
+        <p class="section-intro">The project notes define what should be measured when comparing prompting, LoRA, QLoRA, full fine-tuning, model candidates, and quantized outputs. No benchmark has been run or reported here.</p>
         <p class="how-why"><strong>How:</strong> use one held-out set for every method, then repeat the test after quantization. <strong>Why:</strong> a smaller local model is useful only when its structured output remains reliable enough for correction, storage, and later analysis.</p>
         <div class="evaluation-grid">
           <article><h3>Output quality</h3><p>Valid JSON rate, intent accuracy, field accuracy, and numeric accuracy.</p></article>
           <article><h3>Error behavior</h3><p>Hallucinated-field rate and the quality of corrections needed before saving.</p></article>
           <article><h3>Local cost</h3><p>Latency, RAM usage, model size, and startup or load time.</p></article>
         </div>
-        <div class="status-note"><strong>Evidence status:</strong> no formal accuracy or benchmark result is published in the project materials yet.</div>
+        <div class="status-note"><strong>Evidence status:</strong> evaluation remains part of the planned research; there are no reported accuracy, latency, RAM, size, or load-time results.</div>
       </div>
     </section>
 
     <section id="prototype" class="section tinted">
       <div class="container">
-        <p class="eyebrow"><i class="fa-solid fa-terminal"></i> What is working here</p>
-        <h2>Separate the documented direction from the code.</h2>
-        <p class="section-intro">The project is an early prototype and design repository. The product notes describe the mobile logging system, while the repository README identifies the Rust GGUF metadata reader as the main implemented code.</p>
-        <p class="how-why"><strong>How:</strong> the model work is supported by local model inspection and prompt-testing workflows. <strong>Why:</strong> making the boundary visible helps reviewers understand which claims are implemented artifacts and which claims describe the research system.</p>
+        <p class="eyebrow"><i class="fa-solid fa-flask"></i> Project status</p>
+        <h2>Design and research only.</h2>
+        <p class="section-intro">The current project materials define the product experience, data shape, architecture, model candidates, training methods, and quantization direction. They do not describe a completed application or completed model pipeline.</p>
+        <p class="how-why"><strong>How:</strong> the design notes establish the problem and research questions before implementation. <strong>Why:</strong> keeping the boundary explicit prevents a wireframe or technical proposal from being mistaken for a working product.</p>
         <div class="status-table">
           <div class="status-row status-head"><strong>Area</strong><strong>Status</strong><strong>What the sources support</strong></div>
           <div class="status-row"><strong>Product and user flows</strong><span>Documented design</span><p>Category logging, shorthand expansion, correction, saving, review, and statistics.</p></div>
-          <div class="status-row"><strong>GGUF inspection</strong><span>Local implementation</span><p>Rust metadata reader for inspecting local model files.</p></div>
-          <div class="status-row"><strong>Mobile application</strong><span>Not shipped</span><p>Kotlin or Flutter remains an open UI choice in the notes.</p></div>
-          <div class="status-row"><strong>Fine-tuned model</strong><span>Under comparison</span><p>Qwen candidates and prompting, LoRA, QLoRA, and full fine-tuning are described.</p></div>
-          <div class="status-row"><strong>Quantization engine</strong><span>Research direction</span><p>The notes describe Rust quantization and GGUF deployment paths.</p></div>
+          <div class="status-row"><strong>Qwen model</strong><span>Planned research</span><p>Qwen3.5-0.8B, Qwen3-0.6B, and Qwen2.5-0.5B-Instruct are candidates only.</p></div>
+          <div class="status-row"><strong>Fine-tuning</strong><span>Planned research</span><p>Prompting, LoRA, QLoRA, and full fine-tuning are methods to compare.</p></div>
+          <div class="status-row"><strong>Rust and GGUF</strong><span>Planned direction</span><p>Rust and GGUF are proposed parts of the local model and deployment work.</p></div>
+          <div class="status-row"><strong>Mobile and storage</strong><span>Design only</span><p>Kotlin or Flutter and SQLite or Turso remain open technical choices.</p></div>
+          <div class="status-row"><strong>Benchmarks</strong><span>Not available</span><p>No model, app, quantization, or benchmark result is reported here.</p></div>
         </div>
         <div class="scope-box"><strong>Read more</strong><span>Repository documentation</span><span>Thesis source</span><a href="https://github.com/IamMistake/Logche" target="_blank" rel="noopener">Open GitHub <i class="fa-solid fa-arrow-up-right-from-square"></i></a></div>
       </div>
