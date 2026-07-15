@@ -1,0 +1,11 @@
+# Changes
+
+Chronological development index for Logche and the thesis.
+
+Newest entries should be added at the top.
+Each meaningful commit should update this file or a related development-log entry.
+
+## Unreleased
+
+- Added a GitHub Pages showcase for the Logche research prototype, including the local architecture, Qwen model comparison, fine-tuning workflows, and Rust quantization path.
+- Initialized thesis structure with a project-based LaTeX skeleton, writing-style guide, appendix placeholders, and development-log directory.

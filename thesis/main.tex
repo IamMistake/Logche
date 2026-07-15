@@ -1,0 +1,92 @@
+% !TeX document-id = {12c6323a-98cf-43c8-a318-209ceaa30562}
+% !TeX program = xelatex
+\documentclass[12pt,a4paper]{report}
+
+\usepackage{iftex}
+
+\ifPDFTeX
+  \usepackage[T2A]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage[macedonian,english]{babel}
+  \newenvironment{thesisenglish}{\begin{otherlanguage}{english}}{\end{otherlanguage}}
+\else
+  \usepackage[no-math]{fontspec}
+  \usepackage{polyglossia}
+  \setmainlanguage{macedonian}
+  \setotherlanguage{english}
+
+  \setmainfont{Noto Serif}
+  \setsansfont{Noto Sans}
+  \setmonofont{Noto Sans Mono}
+  \newenvironment{thesisenglish}{\begin{english}}{\end{english}}
+\fi
+
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{csquotes}
+
+\makeatletter
+\providecommand{\xpg@aux}[2]{}
+\makeatother
+
+\onehalfspacing
+
+\title{Интелигентен локален систем за структурирано лично логирање со fine-tuned LLM модел и Rust механизам за квантизација}
+\author{Име Презиме}
+\date{Скопје, \the\year}
+
+\begin{document}
+
+\begin{titlepage}
+  \centering
+  {\large Универзитет „Св. Кирил и Методиј“ -- Скопје\\}
+  {\large Факултет за информатички науки и компјутерско инженерство\\[3cm]}
+
+  {\LARGE\bfseries Интелигентен локален систем за структурирано лично логирање со fine-tuned LLM модел и Rust механизам за квантизација\\[0.8cm]}
+  {\Large Дипломски труд\\[3cm]}
+
+  \begin{flushleft}
+    \textbf{Студент:} Име Презиме\\
+    \textbf{Индекс:} XXXXX\\[0.5cm]
+    \textbf{Ментор:} проф. д-р XXXXX
+  \end{flushleft}
+
+  \vfill
+  {Скопје, \the\year}
+\end{titlepage}
+
+\pagenumbering{roman}
+
+\input{chapters/01-apstrakt}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\clearpage
+\pagenumbering{arabic}
+
+\input{chapters/03-voved}
+\input{chapters/04-srodni-istrazhuvanja}
+\input{chapters/05-metodologija}
+\input{chapters/06-arhitektura-na-sistemot}
+\input{chapters/07-implementacija}
+\input{chapters/08-evaluacija}
+\input{chapters/09-zaklucok}
+\input{chapters/10-idna-rabota}
+
+\appendix
+\input{appendices/razvojna-istorija}
+\input{appendices/recnik-na-poimi}
+
+\begin{thebibliography}{9}
+\addcontentsline{toc}{chapter}{Користена литература}
+
+\bibitem{placeholder}
+Референците ќе бидат додадени во следните верзии на трудот.
+
+\end{thebibliography}
+
+\end{document}

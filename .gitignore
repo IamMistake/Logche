@@ -1,0 +1,46 @@
+# Agent-local instructions and generated notes
+/AGENTS.md
+/agents.md
+/docs/
+/logs/
+
+# Rust build output
+target/
+
+# Thesis build output
+/thesis/build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Python local state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local app/model data
+*.db
+*.sqlite
+*.sqlite3
+*.gguf
+*.safetensors
+/models/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+quant-test/*
+Logche/*
