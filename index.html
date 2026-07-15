@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Logche is a local-first research prototype for turning shorthand into structured personal logs, fine-tuning Qwen models, and quantizing them with Rust.">
+  <meta property="og:title" content="Logche - Local-first shorthand logging">
+  <meta property="og:description" content="A research prototype for private structured logging with local Qwen models and Rust quantization.">
+  <meta property="og:url" content="https://IamMistake.github.io/Logche/">
+  <link rel="canonical" href="https://IamMistake.github.io/Logche/">
+  <title>Logche - Local-first shorthand logging</title>
+  <meta name="theme-color" content="#173f5f">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="toc-section" aria-label="Contents">
+    <div class="toc-rail is-collapsed" id="toc-rail">
+      <button type="button" class="toc-head" id="toc-toggle" aria-expanded="false" aria-controls="toc-links">
+        <span class="toc-badge"><i class="fa-solid fa-bars"></i></span>
+        <span class="toc-title">Contents</span>
+        <span class="toc-expand"><i class="fa-solid fa-angle-down"></i></span>
+      </button>
+      <div class="toc-links" id="toc-links">
+        <a href="#overview" class="toc-link"><i class="fa-solid fa-compass"></i> Overview</a>
+        <a href="#task" class="toc-link"><i class="fa-solid fa-crosshairs"></i> Research task</a>
+        <a href="#architecture" class="toc-link"><i class="fa-solid fa-diagram-project"></i> Architecture</a>
+        <a href="#data" class="toc-link"><i class="fa-solid fa-database"></i> Data</a>
+        <a href="#training" class="toc-link"><i class="fa-solid fa-sliders"></i> Fine-tuning</a>
+        <a href="#quantization" class="toc-link"><i class="fa-solid fa-microchip"></i> Quantization</a>
+        <a href="#evaluation" class="toc-link"><i class="fa-solid fa-chart-line"></i> Evaluation</a>
+        <a href="#prototype" class="toc-link"><i class="fa-solid fa-terminal"></i> Prototype</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="more-works-container">
+    <button type="button" class="more-works-btn" id="works-toggle" aria-expanded="false" aria-controls="moreWorksDropdown">
+      <i class="fa-solid fa-link"></i><span>Other Works</span><i class="fa-solid fa-chevron-down dropdown-arrow"></i>
+    </button>
+    <div class="more-works-dropdown" id="moreWorksDropdown" hidden>
+      <div class="dropdown-header"><h4>Links</h4><button type="button" class="close-btn" id="works-close" aria-label="Close links"><i class="fa-solid fa-xmark"></i></button></div>
+      <div class="works-list">
+        <a href="https://github.com/IamMistake/graphrag-pipeline" class="work-item" target="_blank" rel="noopener"><span><strong>GraphRAG Pipeline</strong><small>Knowledge graph QA with provenance</small></span><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <a href="https://github.com/IamMistake/ai-ad-request-safety-pipeline" class="work-item" target="_blank" rel="noopener"><span><strong>AI Ad Request Safety</strong><small>Ad request fraud and safety pipeline</small></span><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <a href="https://adstract.ai" class="work-item" target="_blank" rel="noopener"><span><strong>Adstract.ai</strong><small>Startup website</small></span><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <a href="https://github.com/IamMistake" class="work-item" target="_blank" rel="noopener"><span><strong>Nikola Jagurinoski</strong><small>GitHub profile</small></span><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <header class="hero-banner">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow"><i class="fa-solid fa-flask"></i> Research prototype / local AI</p>
+          <h1>Log<span>che</span></h1>
+          <p class="hero-subtitle">Turn quick shorthand into structured life logs without handing everyday data to a remote service.</p>
+          <p class="hero-description">Logche explores fine-tuning Qwen-family models and quantizing them with Rust for a small, private, local-first logging system. The site documents the system direction and the working model-engineering tools in this repository.</p>
+          <div class="hero-meta"><a href="https://github.com/IamMistake" target="_blank" rel="noopener">Nikola Jagurinoski</a><span>University “Ss. Cyril and Methodius” in Skopje</span><span>Faculty of Computer Science and Engineering</span></div>
+          <div class="hero-actions"><a class="button button-primary" href="#architecture">Follow the system <i class="fa-solid fa-arrow-down"></i></a><a class="button button-secondary" href="https://github.com/IamMistake/Logche" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> View repository</a></div>
+        </div>
+        <div class="hero-card">
+          <div class="terminal-top"><span></span><span></span><span></span><code>logche.input</code></div>
+          <div class="input-line"><span class="prompt">&gt;</span> ran 5k 26</div>
+          <div class="output-arrow"><i class="fa-solid fa-arrow-down"></i> expand locally</div>
+          <div class="json-card"><span>{</span><p>"intent": "movement",<br>"type": "run",<br>"distance_km": 5,<br>"duration_min": 26,<br>"pace": "5:12/km"</p><span>}</span></div>
+          <small>raw shorthand stays alongside the structured result</small>
+        </div>
+      </div>
+    </header>
+
+    <section id="overview" class="section">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-compass"></i> The idea</p>
+        <h2>One small input instead of many tracking forms.</h2>
+        <p class="section-intro">Daily tracking is fragmented across workout, money, food, health, media, and productivity apps. Logche keeps the interaction compact: write what happened, review the interpretation, and retain a structured history for later search and statistics.</p>
+        <p class="how-why"><strong>How:</strong> category screens provide context, then one shorthand entry is expanded into fields such as type, distance, duration, and pace. <strong>Why:</strong> the same quick interaction can cover many kinds of life events without forcing each event into a separate form.</p>
+        <figure class="diagram-card large"><img src="assets/logche-flow.png" alt="Logche mobile wireframe showing category selection and the shorthand input run 5k 26 expanded into a running log"><figcaption>The product flow starts with categories and a compact shorthand entry, then shows the interpreted running record for confirmation.</figcaption></figure>
+        <div class="three-grid">
+          <article><i class="fa-solid fa-bolt"></i><h3>Fast capture</h3><p>Shorthand reduces the friction of filling out a dedicated form for every kind of event.</p></article>
+          <article><i class="fa-solid fa-shield-halved"></i><h3>Local by default</h3><p>The intended normal logging path works offline, keeping personal entries on the device.</p></article>
+          <article><i class="fa-solid fa-table-list"></i><h3>Structured history</h3><p>Raw text, expanded fields, timestamps, corrections, and statistics-ready values stay together.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="task" class="section tinted">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-crosshairs"></i> Research task</p>
+        <h2>Teach a small local model to read messy shorthand.</h2>
+        <p class="section-intro">Logche is not only a generic text-generation problem. The documented ML task is joint intent classification and slot filling: identify the kind of log, then extract the typed fields needed for search and statistics.</p>
+        <p class="how-why"><strong>How:</strong> an input such as <code>run 5k 26min felt strong</code> becomes a movement record with a type, distance, duration, pace, and feeling. <strong>Why:</strong> shorthand is compact for the user but ambiguous for a model, so the output contract must make the intended fields explicit.</p>
+        <div class="task-definition">
+          <article class="task-card"><span class="task-label">Intent</span><h3>Which log is this?</h3><p>Classify inputs as movement, sleep, meal, health, money, media, or another documented log type.</p></article>
+          <article class="task-card"><span class="task-label">Slots</span><h3>Which fields does it contain?</h3><p>Extract typed values such as times, amounts, units, locations, ratings, sets, reps, and other normalized fields.</p></article>
+        </div>
+        <div class="examples-grid">
+          <article class="example-card"><code>zz 11-7 woke 2x</code><span>Sleep | bed 23:00 | woke 07:00 | duration 8h | interruptions 2</span></article>
+          <article class="example-card"><code>m 120 coffee</code><span>Money | spent 120 MKD | item coffee</span></article>
+          <article class="example-card"><code>run 5k 26min felt strong</code><span>Movement | run | 5km | 26min | 5:12/km | feeling strong</span></article>
+        </div>
+        <div class="flow-rail">
+          <div><b>1</b><strong>Capture</strong><span>Write shorthand.</span></div><i class="fa-solid fa-arrow-right"></i>
+          <div><b>2</b><strong>Expand</strong><span>Produce fields.</span></div><i class="fa-solid fa-arrow-right"></i>
+          <div><b>3</b><strong>Correct</strong><span>Review before save.</span></div><i class="fa-solid fa-arrow-right"></i>
+          <div><b>4</b><strong>Store</strong><span>Keep raw and structured data.</span></div><i class="fa-solid fa-arrow-right"></i>
+          <div><b>5</b><strong>Analyze</strong><span>Search and statistics.</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="architecture" class="section tinted">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-diagram-project"></i> How it works</p>
+        <h2>A thin app around a local model and local storage.</h2>
+        <p class="section-intro">The architecture diagram keeps the boundaries explicit. The mobile app is the user-facing runtime; Rust is the proposed local systems layer; the fine-tuned local model expands shorthand; and SQLite or Turso stores the structured history.</p>
+        <p class="how-why"><strong>How:</strong> the app sends shorthand to the local model through the Rust layer, receives structured data, and saves it in the local database. <strong>Why:</strong> keeping inference and storage local makes normal logging offline, fast, and private while leaving the UI thin.</p>
+        <p class="status-note"><strong>Status:</strong> documented technical direction. The UI framework is still open between Kotlin and Flutter, and the mobile application is not shipped in this checkout.</p>
+        <div class="split-layout">
+          <figure class="diagram-card"><img src="assets/architecture.png" alt="Logche architecture diagram connecting the app through Rust to a fine-tuned local LLM model and Turso or SQLite"><figcaption>Architecture direction from <code>Logche/Excalidraw/architecture.excalidraw.md</code>.</figcaption></figure>
+          <div class="note-stack"><div class="note"><span class="number">01</span><div><h3>Input and confirmation</h3><p>The user enters shorthand and can correct the model's structured expansion before saving.</p></div></div><div class="note"><span class="number">02</span><div><h3>Local inference</h3><p>Candidate Qwen models are evaluated as the parsing layer rather than relying on a cloud API.</p></div></div><div class="note"><span class="number">03</span><div><h3>Queryable storage</h3><p>Local storage supports review, filtering, search, statistics, and future personalization.</p></div></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="data" class="section">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-database"></i> Training data</p>
+        <h2>Start from real shorthand, then make the labels precise.</h2>
+        <p class="section-intro">The data workflow separates a general model that should work across users from personal adaptation that learns one user's vocabulary, habits, corrections, and repeated patterns. Personal data is intended to stay local whenever possible.</p>
+        <p class="how-why"><strong>How:</strong> real notes become examples, manual labeling turns them into structured targets, and larger or local models can help produce additional training data. <strong>Why:</strong> explicit labels teach the model the exact fields Logche needs, while separating general and personal data protects user-specific patterns.</p>
+        <figure class="diagram-card wide"><img src="assets/data-gathering.png" alt="Excalidraw workflow showing general fine-tuning data from real examples, manual labels, and possible synthetic data, plus personal fine-tuning data from old notes"><figcaption>General and personal data gathering: raw shorthand is transformed into labeled structured examples before fine-tuning.</figcaption></figure>
+        <div class="callout"><strong>Example label</strong><code>"walked 8k steps park 45"</code><span>Movement | type walk | distance 8000 steps | location park | duration 45 min</span></div>
+      </div>
+    </section>
+
+    <section id="training" class="section tinted">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-sliders"></i> Model training</p>
+        <h2>Compare Qwen candidates before committing to one.</h2>
+        <p class="section-intro">The current candidates are <strong>Qwen3.5-0.8B</strong>, <strong>Qwen3-0.6B</strong>, and <strong>Qwen2.5-0.5B-Instruct</strong>. The repository treats the choice as an experiment: compare output quality and local resource use on the same held-out examples.</p>
+        <p class="how-why"><strong>How:</strong> establish prompting as a baseline, then compare LoRA, QLoRA, and full fine-tuning with the same held-out shorthand examples. <strong>Why:</strong> the smallest model or adapter is useful only if it preserves valid structured output while reducing local memory and startup cost.</p>
+        <div class="model-row"><span>Qwen3.5-0.8B</span><span>Qwen3-0.6B</span><span>Qwen2.5-0.5B-Instruct</span></div>
+        <figure class="diagram-card wide"><img src="assets/fine-tuning.png" alt="Fine-tuning diagram showing general fine-tuning with full fine-tuning, LoRA, and QLoRA, and personalized fine-tuning from personal data"><figcaption>The documented diagram uses Qwen2.5-0.5B-Instruct as the base example; the project is comparing it with Qwen3-0.6B and Qwen3.5-0.8B.</figcaption></figure>
+        <div class="method-grid"><article><h3>Baseline</h3><p>Prompt the base model and measure what the system can do before training.</p></article><article><h3>LoRA first</h3><p>Keep the base model stable and test a small adapter as the practical first training path.</p></article><article><h3>QLoRA or full tuning</h3><p>Compare lower-memory QLoRA and full fine-tuning when the evaluation justifies the extra cost.</p></article></div>
+      </div>
+    </section>
+
+    <section id="quantization" class="section">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-microchip"></i> Rust deployment path</p>
+        <h2>Fine-tune first. Quantize after the model works.</h2>
+        <p class="section-intro">The notes describe a Rust quantization engine as the deployment path. Post-training quantization is the practical first option: validate the unquantized model, convert it to a compact runtime format such as GGUF, and run the same test set again.</p>
+        <p class="how-why"><strong>How:</strong> the proposed path quantizes a merged fine-tuned model into 8-bit or 4-bit weights, or keeps a quantized base with adapters for runtime composition. <strong>Why:</strong> post-training quantization is simpler to validate first, and repeating the golden tests exposes quality, latency, RAM, and load-time tradeoffs.</p>
+        <p class="status-note"><strong>Status:</strong> research direction. The current Rust implementation is a GGUF metadata reader; a completed quantization engine is not claimed here.</p>
+        <figure class="diagram-card narrow"><img src="assets/quantization.png" alt="Rust quantization engine diagram showing a fine-tuned model becoming an 8-bit or 4-bit quantized model, with merged or adapter-based paths"><figcaption>Quantization direction from the Excalidraw notes, including merged-model and base-plus-adapter paths.</figcaption></figure>
+        <div class="process-line"><span><b>1</b> Fine-tuned model</span><i class="fa-solid fa-arrow-right"></i><span><b>2</b> Rust quantization engine</span><i class="fa-solid fa-arrow-right"></i><span><b>3</b> Compact local model</span></div>
+      </div>
+    </section>
+
+    <section id="evaluation" class="section tinted">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-chart-line"></i> Evaluation methodology</p>
+        <h2>Compare quality and local cost on the same examples.</h2>
+        <p class="section-intro">The project notes define what should be measured when comparing prompting, LoRA, QLoRA, full fine-tuning, model candidates, and quantized outputs. This page does not claim benchmark results that are not documented.</p>
+        <p class="how-why"><strong>How:</strong> use one held-out set for every method, then repeat the test after quantization. <strong>Why:</strong> a smaller local model is useful only when its structured output remains reliable enough for correction, storage, and later analysis.</p>
+        <div class="evaluation-grid">
+          <article><h3>Output quality</h3><p>Valid JSON rate, intent accuracy, field accuracy, and numeric accuracy.</p></article>
+          <article><h3>Error behavior</h3><p>Hallucinated-field rate and the quality of corrections needed before saving.</p></article>
+          <article><h3>Local cost</h3><p>Latency, RAM usage, model size, and startup or load time.</p></article>
+        </div>
+        <div class="status-note"><strong>Evidence status:</strong> no formal accuracy or benchmark result is published in the project materials yet.</div>
+      </div>
+    </section>
+
+    <section id="prototype" class="section tinted">
+      <div class="container">
+        <p class="eyebrow"><i class="fa-solid fa-terminal"></i> What is working here</p>
+        <h2>Separate the documented direction from the code.</h2>
+        <p class="section-intro">The project is an early prototype and design repository. The product notes describe the mobile logging system, while the repository README identifies the Rust GGUF metadata reader as the main implemented code.</p>
+        <p class="how-why"><strong>How:</strong> the model work is supported by local model inspection and prompt-testing workflows. <strong>Why:</strong> making the boundary visible helps reviewers understand which claims are implemented artifacts and which claims describe the research system.</p>
+        <div class="status-table">
+          <div class="status-row status-head"><strong>Area</strong><strong>Status</strong><strong>What the sources support</strong></div>
+          <div class="status-row"><strong>Product and user flows</strong><span>Documented design</span><p>Category logging, shorthand expansion, correction, saving, review, and statistics.</p></div>
+          <div class="status-row"><strong>GGUF inspection</strong><span>Local implementation</span><p>Rust metadata reader for inspecting local model files.</p></div>
+          <div class="status-row"><strong>Mobile application</strong><span>Not shipped</span><p>Kotlin or Flutter remains an open UI choice in the notes.</p></div>
+          <div class="status-row"><strong>Fine-tuned model</strong><span>Under comparison</span><p>Qwen candidates and prompting, LoRA, QLoRA, and full fine-tuning are described.</p></div>
+          <div class="status-row"><strong>Quantization engine</strong><span>Research direction</span><p>The notes describe Rust quantization and GGUF deployment paths.</p></div>
+        </div>
+        <div class="scope-box"><strong>Read more</strong><span>Repository documentation</span><span>Thesis source</span><a href="https://github.com/IamMistake/Logche" target="_blank" rel="noopener">Open GitHub <i class="fa-solid fa-arrow-up-right-from-square"></i></a></div>
+      </div>
+    </section>
+  </main>
+
+  <footer><div class="container"><span>Logche / local-first research prototype</span><span><a href="https://IamMistake.github.io/Logche/">GitHub Pages</a> · <a href="https://github.com/IamMistake/Logche">GitHub</a></span></div></footer>
+  <script src="script.js"></script>
+</body>
+</html>
