@@ -2,6 +2,8 @@
 
 Logche is a local-first personal logging app that turns short shorthand inputs into structured life logs.
 
+Logche is my graduation project, and it will be implemented very very soon.
+
 The product source of truth is the Obsidian vault in `Logche/`. Start with `Logche/Logche.md` for the overview and `Logche/Logche Architecture.md` for the current technical direction.
 
 ## Repository Contents
