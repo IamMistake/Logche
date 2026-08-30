@@ -7,6 +7,7 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
+- Prepared the movie and book rating datasets: 1,878 shorthand training examples for ratings and favorites.
 - Prepared the USDA FoodData Central Foundation Foods dataset: 347 shorthand training examples for food and calorie logging.
 - Prepared a curated USDA multi-food dataset: 1,000 shorthand training examples with source-grounded item lists and calorie totals.
 - Prepared the Kaggle money dataset: 1,129 shorthand training examples for income, expenses, and transfers.
