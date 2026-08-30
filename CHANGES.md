@@ -7,6 +7,8 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
+- Prepared the USDA FoodData Central Foundation Foods dataset: 347 shorthand training examples for food and calorie logging.
+- Prepared a curated USDA multi-food dataset: 1,000 shorthand training examples with source-grounded item lists and calorie totals.
 - Prepared the Kaggle money dataset: 1,129 shorthand training examples for income, expenses, and transfers.
 - Prepared the Strong gym dataset: 1,868 set-level examples with shortnames, relative weight notation, and previous-input context.
 - Prepared the PMData movement dataset for initial fine-tuning: 2,246 shorthand training rows.
