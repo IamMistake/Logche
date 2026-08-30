@@ -7,6 +7,7 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
+- Prepared the Kaggle money dataset: 1,129 shorthand training examples for income, expenses, and transfers.
 - Prepared the Strong gym dataset: 1,868 set-level examples with shortnames, relative weight notation, and previous-input context.
 - Prepared the PMData movement dataset for initial fine-tuning: 2,246 shorthand training rows.
 - Added a GitHub Pages showcase for the Logche research prototype, including the local architecture, Qwen model comparison, fine-tuning workflows, and Rust quantization path.
