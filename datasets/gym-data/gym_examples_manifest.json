@@ -1,0 +1,38 @@
+{
+  "seed": 20260829,
+  "maxInputCharacters": 49,
+  "modelColumns": [
+    "previousInput",
+    "input",
+    "exercise",
+    "setNumber",
+    "reps",
+    "weightKg"
+  ],
+  "excludedModelFields": [
+    "sessionTimestamp",
+    "duration",
+    "workoutName"
+  ],
+  "source": "Strong App Analytics strong.csv",
+  "sourceStats": {
+    "sourceRows": 1903,
+    "sourceSessions": 86,
+    "strengthSourceRows": 1882,
+    "cleanSetRows": 1868,
+    "validExerciseGroups": 297,
+    "excludedRows": 21,
+    "quarantineEntries": 14,
+    "quarantinedRows": 14
+  },
+  "trainingRows": 1868,
+  "inputModeCounts": {
+    "absolute": 1296,
+    "bodyweight": 27,
+    "relative": 545
+  },
+  "inputLength": {
+    "minimum": 4,
+    "maximum": 25
+  }
+}

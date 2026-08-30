@@ -1,0 +1,380 @@
+[
+  {
+    "sourceIndex": 865,
+    "reason": "excluded activity: Swimming",
+    "record": {
+      "Date": "2021-05-13 12:00:00",
+      "Workout Name": "Evening Workout",
+      "Duration": "5m",
+      "Exercise Name": "Swimming",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "1.0",
+      "Seconds": "30",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1347,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-07-17 18:49:17",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 8m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1366,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-07-26 17:50:20",
+      "Workout Name": "Afternoon Workout",
+      "Duration": "2h 32m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1400,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-07-28 18:12:40",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 14m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1429,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-07-31 13:24:37",
+      "Workout Name": "Midday Workout",
+      "Duration": "1h 49m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1456,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-02 18:51:09",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 42m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1482,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-03 18:26:44",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 39m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1506,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-04 18:34:53",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 44m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1536,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-06 18:27:50",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 10m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1565,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-09 18:24:30",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 6m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1596,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-10 18:25:31",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1622,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-11 18:43:58",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 50m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1646,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-13 18:05:09",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 3m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1671,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-16 18:32:14",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 55m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1698,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-17 19:04:58",
+      "Workout Name": "Evening Workout",
+      "Duration": "1h 23m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1716,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-19 18:18:38",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 35m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1749,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-20 17:15:19",
+      "Workout Name": "Afternoon Workout",
+      "Duration": "2h 17m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1777,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-08-30 18:33:08",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 11m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1805,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-09-01 18:24:38",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 21m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1838,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-09-02 18:54:45",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 5m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  },
+  {
+    "sourceIndex": 1873,
+    "reason": "excluded activity: Aerobics",
+    "record": {
+      "Date": "2021-09-06 18:21:27",
+      "Workout Name": "Evening Workout",
+      "Duration": "2h 2m",
+      "Exercise Name": "Aerobics",
+      "Set Order": "1",
+      "Weight": "0",
+      "Reps": "0",
+      "Distance": "0",
+      "Seconds": "12",
+      "Notes": "",
+      "Workout Notes": "",
+      "RPE": ""
+    }
+  }
+]
