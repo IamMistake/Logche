@@ -6,6 +6,12 @@ Output: {"transactionType":"expense","amount":2.4,"currency":"EUR","category":"f
 Input: +75 usd freelance
 Output: {"transactionType":"income","amount":75,"currency":"USD","category":"other_income","description":"Freelance","timeOffset":"PT0M"}
 
+Input: got +18 den adjust balance
+Output: {"transactionType":"income","amount":18,"currency":"MKD","category":"balance_adjustment","description":"Adjust balance","timeOffset":"PT0M"}
+
+Input: +9 eur family gift
+Output: {"transactionType":"income","amount":9,"currency":"EUR","category":"family_support","description":"Family gift","timeOffset":"PT0M"}
+
 Input: move 20 mkd cash to savings bank
 Output: {"transactionType":"transfer","amount":20,"currency":"MKD","category":"transfer","description":"Transfer","timeOffset":"PT0M","fromAccount":"Cash","toAccount":"Savings Bank"}
 

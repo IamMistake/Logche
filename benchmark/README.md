@@ -42,7 +42,7 @@ Run a small category-specific smoke test:
 ```bash
 python -m benchmark run --model qwen3-0.6b \
   --dataset gym-data.csv \
-  --prompt gym-strict --prompt gym-fewshot \
+  --prompt gym-fewshot \
   --limit 2
 ```
 
@@ -162,17 +162,18 @@ Every `.txt` file in `benchmark/prompts/` is included by default. The filename
 without `.txt` becomes the prompt ID.
 
 ```text
-benchmark/prompts/baseline.txt      -> baseline
-benchmark/prompts/strict-json.txt   -> strict-json
+benchmark/prompts/food-fewshot.txt  -> food-fewshot
+benchmark/prompts/gym-fewshot.txt   -> gym-fewshot
 benchmark/prompts/my-prompt.txt     -> my-prompt
 ```
 
 Add or remove prompt files without changing the Python code.
 
-The category-specific prompts have `strict`, `fewshot`, and `questions` variants for
-food, gym, movement, money, and media. They use extraction-only contracts;
-deterministic app code handles calorie lookup, totals, unit/time normalization, and
-derived values.
+The active category-specific prompts are the tested `fewshot` variants for food,
+gym, movement, money, and media. Retired `strict` and `questions` variants are kept
+under `benchmark/prompts-tested/` and are not discovered by the runner. The active
+prompts use extraction-only contracts; deterministic app code handles calorie
+lookup, totals, unit/time normalization, and derived values.
 The food prompts support both `food-data.csv` and
 `multi-food-data.csv` because they share one output schema. Select matching prompts
 with repeatable `--prompt` options when the input category is known:
@@ -180,7 +181,7 @@ with repeatable `--prompt` options when the input category is known:
 ```bash
 python -m benchmark run --model qwen3-0.6b \
   --dataset money-data.csv \
-  --prompt money-strict --prompt money-fewshot
+  --prompt money-fewshot
 ```
 
 An unknown prompt ID is rejected. Omitting `--prompt` runs all matching category
