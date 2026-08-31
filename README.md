@@ -2,7 +2,7 @@
 
 Logche is a local-first personal logging concept and research project for turning short shorthand inputs into structured life logs.
 
-Logche is my graduation project. It is currently design and research only; implementation has not started.
+Logche is my graduation project. The product is still in design and research, with a local benchmark harness now implemented for model evaluation.
 
 The product source of truth is the Obsidian vault in `Logche/`. Start with `Logche/Logche.md` for the overview and `Logche/Logche Architecture.md` for the current technical direction.
 
@@ -10,6 +10,7 @@ The product source of truth is the Obsidian vault in `Logche/`. Start with `Logc
 
 - `Logche/` contains the Obsidian product documentation.
 - `scripts/` contains helper scripts for prompt, hardware, and thesis workflows.
+- `benchmark/` contains the prompt and dataset benchmark harness.
 - `thesis/` contains the local LaTeX bachelor thesis material.
 - `CHANGES.md` tracks meaningful development progress for thesis evidence.
 
@@ -44,4 +45,4 @@ Agent-specific rules live in `AGENTS.md`.
 
 ## Status
 
-This is a design and research repository. The mobile app, fine-tuned model, Rust quantization engine, GGUF tooling, and benchmark results are not implemented or published here.
+This is a design and research repository. The mobile app, fine-tuned model, and Rust inference/quantization engine are not implemented here. The Python benchmark harness is implemented under `benchmark/`; generated benchmark results are not committed.

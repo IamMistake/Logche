@@ -1,0 +1,15 @@
+The input is always a Logche money record. Return one compact JSON extraction object only. Required keys are transactionType, amount, currency, category, and description. Only transfers add fromAccount and toAccount. Do not output timeOffset; the app normalizes it later. amount is always positive.
+
+Input: juice 0.44 eur
+Output: {"transactionType":"expense","amount":0.44,"currency":"EUR","category":"food_drink","description":"Juice"}
+
+Input: got +8005.48 MKD salary 23h ago
+Output: {"transactionType":"income","amount":8005.48,"currency":"MKD","category":"salary","description":"Salary"}
+
+Input: grocery -0.33 eur 26d ago
+Output: {"transactionType":"expense","amount":0.33,"currency":"EUR","category":"groceries","description":"Grocery"}
+
+Input: transfer salary bank 35.54 eur to savings bank -12d
+Output: {"transactionType":"transfer","amount":35.54,"currency":"EUR","category":"transfer","description":"Transfer","fromAccount":"Salary Bank","toAccount":"Savings Bank"}
+
+Normalize e/eur to EUR, den/mkd to MKD, and dollar/usd to USD. Negative/spent forms are expenses; positive/got forms are income; transfer routes are transfers. Use canonical categories and description capitalization. Never add an account to income or expense. Omit timeOffset. Emit valid JSON only, with numbers unquoted and no null or extra fields.
