@@ -53,7 +53,8 @@ def run(model_id, model, datasets, prompt_dir, output_dir, split_name="validatio
         for line in result_file.read_text(encoding="utf-8").splitlines():
             try:
                 record = json.loads(line)
-                done.add((record["promptId"], record["datasetId"], record["caseId"]))
+                if record.get("status") == "ok":
+                    done.add((record["promptId"], record["datasetId"], record["caseId"]))
             except (json.JSONDecodeError, KeyError):
                 pass
     prompt_list = prompts(prompt_dir)
