@@ -1,0 +1,89 @@
+{
+  "foodGroups": {
+    "yogurt": [
+      {"fdcId": "330137", "inputName": "plain nonfat greek yogurt"},
+      {"fdcId": "2259793", "inputName": "plain whole milk yogurt"},
+      {"fdcId": "2647437", "inputName": "plain nonfat yogurt"}
+    ],
+    "fruit": [
+      {"fdcId": "327699", "inputName": "strawberries"},
+      {"fdcId": "2263888", "inputName": "raspberries"},
+      {"fdcId": "2263889", "inputName": "blueberries"},
+      {"fdcId": "1105430", "inputName": "red delicious apple"}
+    ],
+    "nuts": [
+      {"fdcId": "2346393", "inputName": "whole raw almonds"},
+      {"fdcId": "2346394", "inputName": "raw english walnut halves"},
+      {"fdcId": "2515376", "inputName": "raw peanuts"}
+    ],
+    "oats": [
+      {"fdcId": "2346396", "inputName": "rolled whole grain oats"}
+    ],
+    "bread": [
+      {"fdcId": "335240", "inputName": "whole wheat bread"},
+      {"fdcId": "325871", "inputName": "white bread"}
+    ],
+    "ham": [
+      {"fdcId": "332397", "inputName": "ham"}
+    ],
+    "cheese": [
+      {"fdcId": "328637", "inputName": "cheddar cheese"},
+      {"fdcId": "326135", "inputName": "swiss cheese"},
+      {"fdcId": "747429", "inputName": "american cheese"}
+    ],
+    "salad": [
+      {"fdcId": "1750354", "inputName": "raw roma tomato"},
+      {"fdcId": "2346406", "inputName": "raw cucumber with peel"},
+      {"fdcId": "2346389", "inputName": "raw romaine lettuce"}
+    ],
+    "hummus": [
+      {"fdcId": "321358", "inputName": "commercial hummus"}
+    ],
+    "cottage": [
+      {"fdcId": "328841", "inputName": "2% cottage cheese"}
+    ],
+    "cottageGram": [
+      {"fdcId": "2346384", "inputName": "full fat cottage cheese"}
+    ],
+    "milk": [
+      {"fdcId": "322892", "inputName": "whole milk"},
+      {"fdcId": "321359", "inputName": "2% milk"}
+    ],
+    "chicken": [
+      {"fdcId": "331960", "inputName": "cooked skinless boneless chicken breast"}
+    ],
+    "chickenGram": [
+      {"fdcId": "331897", "inputName": "cooked meat-only chicken drumstick"}
+    ],
+    "tuna": [
+      {"fdcId": "334194", "inputName": "light canned tuna in water"}
+    ],
+    "beans": [
+      {"fdcId": "2644285", "inputName": "canned black beans"}
+    ],
+    "friedRice": [
+      {"fdcId": "334536", "inputName": "chinese fried rice without meat"}
+    ],
+    "sweetSourPork": [
+      {"fdcId": "334462", "inputName": "sweet and sour pork"}
+    ]
+  },
+  "templates": [
+    {"name": "fruit_nuts", "roles": [{"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}], "mealTypes": ["unknown", "snack", "breakfast", "late_night"]},
+    {"name": "milk_fruit", "roles": [{"group": "milk", "quantities": ["1", "2"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "yogurt_fruit_nuts", "roles": [{"group": "yogurt", "quantities": ["100", "150", "200"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "yogurt_fruit_oats", "roles": [{"group": "yogurt", "quantities": ["100", "150", "200"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "oats", "quantities": ["30", "50", "70"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "cottage_fruit_nuts", "roles": [{"group": "cottage", "quantities": ["0.5", "1"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "cottage_gram_fruit_nuts", "roles": [{"group": "cottageGram", "quantities": ["100", "150", "200"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "chicken_salad", "roles": [{"group": "chicken", "quantities": ["1", "2"]}, {"group": "salad", "quantities": ["50", "100", "150"]}], "mealTypes": ["unknown", "lunch", "dinner"]},
+    {"name": "chicken_drumstick_salad", "roles": [{"group": "chickenGram", "quantities": ["100", "150", "200"]}, {"group": "salad", "quantities": ["50", "100", "150"]}], "mealTypes": ["unknown", "lunch", "dinner"]},
+    {"name": "tuna_beans_salad", "roles": [{"group": "tuna", "quantities": ["100", "150"]}, {"group": "beans", "quantities": ["100", "150"]}, {"group": "salad", "quantities": ["50", "100", "150"]}], "mealTypes": ["unknown", "lunch", "dinner"]},
+    {"name": "bread_ham_cheese_salad", "roles": [{"group": "bread", "quantities": ["1", "2"]}, {"group": "ham", "quantities": ["1", "2"]}, {"group": "cheese", "quantities": ["1", "2"]}, {"group": "salad", "quantities": ["50", "100"]}], "mealTypes": ["unknown", "breakfast", "lunch", "dinner"]},
+    {"name": "yogurt_fruit_nuts_oats", "roles": [{"group": "yogurt", "quantities": ["100", "150", "200"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}, {"group": "oats", "quantities": ["30", "50", "70"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "hummus_salad_bread_cheese", "roles": [{"group": "hummus", "quantities": ["1", "2", "3"]}, {"group": "salad", "quantities": ["50", "100", "150"]}, {"group": "bread", "quantities": ["1", "2"]}, {"group": "cheese", "quantities": ["1", "2"]}], "mealTypes": ["unknown", "snack", "lunch"]},
+    {"name": "cottage_fruit_nuts_oats", "roles": [{"group": "cottage", "quantities": ["0.5", "1"]}, {"group": "fruit", "quantities": ["100", "150", "200"]}, {"group": "nuts", "quantities": ["15", "20", "30"]}, {"group": "oats", "quantities": ["30", "50", "70"]}], "mealTypes": ["unknown", "breakfast", "snack"]},
+    {"name": "bread_tuna_salad", "roles": [{"group": "bread", "quantities": ["1", "2"]}, {"group": "tuna", "quantities": ["100", "150"]}, {"group": "salad", "quantities": ["50", "100", "150"]}], "mealTypes": ["unknown", "lunch", "dinner"]},
+    {"name": "hummus_salad_bread", "roles": [{"group": "hummus", "quantities": ["1", "2", "3"]}, {"group": "salad", "quantities": ["50", "100", "150"]}, {"group": "bread", "quantities": ["1", "2"]}], "mealTypes": ["unknown", "snack", "lunch"]},
+    {"name": "fried_rice_sweet_sour_pork", "roles": [{"group": "friedRice", "quantities": ["1", "2"]}, {"group": "sweetSourPork", "quantities": ["3", "6"]}], "mealTypes": ["unknown", "lunch", "dinner"]}
+  ]
+}

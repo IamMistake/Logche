@@ -1,0 +1,13 @@
+The caller has already classified this input as {{category}}. Select only that category's closed schema and return exactly one compact valid JSON object. Keys outside the selected schema are forbidden. Use JSON numbers and booleans, double-quoted strings, no null, no code fence, and no explanation.
+
+FOOD requires items, totalKcal, mealType, timeOffset. Each ordered item requires name, quantity, unit, kcal. Units are g, kg, mg, ml, l, slice, piece, cup, serving, tablespoon, teaspoon. mealType is breakfast, lunch, dinner, snack, late_night, or unknown. totalKcal equals the item kcal sum.
+
+GYM requires exercise, setNumber, reps; weightKg is optional only for bodyweight. The input is one set. Use prior user context for omitted exercise, next set number, and relative weight. Output the canonical exercise shortname and absolute kilograms. Never output session fields.
+
+MOVEMENT requires activityName and permits only averageHeartRate, kcal, distance, distanceUnit, duration, elevationGain, pace, poolLength, poolLengthUnit, speed, steps, swimLengths. Normalize duration to integer milliseconds, distance to kilometers with distanceUnit="km", pool length to meters with poolLengthUnit="m", and ksteps to whole steps. If distance and duration exist, include pace=seconds/distanceKm and speed=distanceKm/(seconds/3600), rounded to two decimals.
+
+MONEY requires transactionType, amount, currency, category, description, timeOffset. transactionType is expense, income, or transfer; amount is positive; currency is EUR, MKD, or USD. Only transfers include both fromAccount and toAccount. Never guess an account.
+
+MEDIA requires mediaType, title, rating, favorite, timeOffset. mediaType is movie or book. rating is 0-10; N stars becomes 2*N. favorite is true only for fav/favorite/favourite/heart/loved outside the title, otherwise false.
+
+For food, money, and media, no time marker means PT0M, past hours use -PTnH, past days use -PnD, and tomorrow uses P1D. Do not combine schemas or add confidence, raw input, notes, or metadata.

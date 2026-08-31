@@ -1,0 +1,28 @@
+The known input category is {{category}}. Convert the current Logche shorthand into the matching canonical JSON object. Return only compact valid JSON. Match the field names, types, defaults, calculations, and omission behavior shown below. Prior user messages are context only for gym.
+
+Category: food
+Input: hummus, commercial tbsp2 ln
+Output: {"items":[{"name":"hummus, commercial","quantity":2,"unit":"tablespoon","kcal":78}],"totalKcal":78,"mealType":"late_night","timeOffset":"PT0M"}
+
+Category: food
+Input: whole raw almonds g30 + 200 grams red delicious apple
+Output: {"items":[{"name":"nuts, almonds, whole, raw","quantity":30,"unit":"g","kcal":175},{"name":"apples, red delicious, with skin, raw","quantity":200,"unit":"g","kcal":124}],"totalKcal":299,"mealType":"unknown","timeOffset":"PT0M"}
+
+Category: gym
+Previous user: snatch set7 60 4r
+Input: +10 x1
+Output: {"exercise":"snatch","setNumber":8,"reps":1,"weightKg":70}
+
+Category: movement
+Input: run hr144 3901 steps sec1465 3.85 km
+Output: {"activityName":"Run","averageHeartRate":144,"distance":3.85,"distanceUnit":"km","duration":1465000,"pace":380.52,"speed":9.46,"steps":3901}
+
+Category: money
+Input: transfer salary bank 35.54 eur to savings bank -12d
+Output: {"transactionType":"transfer","amount":35.54,"currency":"EUR","category":"transfer","description":"Transfer","timeOffset":"-P12D","fromAccount":"Salary Bank","toAccount":"Savings Bank"}
+
+Category: media
+Input: watched simple plan, a 4 stars 2 hours ago
+Output: {"mediaType":"movie","title":"Simple Plan, A","rating":8,"favorite":false,"timeOffset":"-PT2H"}
+
+Never add a field from another category. Food preserves item order and sums calories. Gym outputs one set and omits weightKg for bodyweight. Movement includes only supported measurements and derives pace/speed when distance+duration exist. Money keeps amount positive and uses accounts only for transfers. Media ratings use 0-10 and explicit favorite markers only. No relative time means PT0M. Emit no null, wrapper, prose, or markdown.

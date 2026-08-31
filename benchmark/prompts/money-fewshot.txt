@@ -1,0 +1,18 @@
+The input is always a Logche money record. Return only one compact JSON object. Required keys are transactionType, amount, currency, category, description, and timeOffset. Only an explicit source-to-destination route adds fromAccount and toAccount.
+
+Input: coffee -2.40 eur yesterday
+Output: {"transactionType":"expense","amount":2.4,"currency":"EUR","category":"food_drink","description":"Coffee","timeOffset":"-P1D"}
+
+Input: +75 usd freelance
+Output: {"transactionType":"income","amount":75,"currency":"USD","category":"other_income","description":"Freelance","timeOffset":"PT0M"}
+
+Input: got +18 den adjust balance
+Output: {"transactionType":"income","amount":18,"currency":"MKD","category":"balance_adjustment","description":"Adjust balance","timeOffset":"PT0M"}
+
+Input: +9 eur family gift
+Output: {"transactionType":"income","amount":9,"currency":"EUR","category":"family_support","description":"Family gift","timeOffset":"PT0M"}
+
+Input: move 20 mkd cash to savings bank
+Output: {"transactionType":"transfer","amount":20,"currency":"MKD","category":"transfer","description":"Transfer","timeOffset":"PT0M","fromAccount":"Cash","toAccount":"Savings Bank"}
+
+The sign determines expense versus income; amount remains positive. Normalize currency aliases and relative time. Never copy an example's value, guess an account, emit null, or add extra fields.

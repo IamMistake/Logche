@@ -1,0 +1,1879 @@
+input,mediaType,title,rating,favorite,timeOffset
+"watched simple plan, a 4 stars 2 hours ago",movie,"Simple Plan, A",8,False,-PT2H
+saw deep impact 3 stars,movie,Deep Impact,6,False,PT0M
+watched mister roberts 3 stars -15h,movie,Mister Roberts,6,False,-PT15H
+watched beauty and the beast (1991) 5 stars,movie,Beauty and the Beast (1991),10,False,PT0M
+"movie italian job, the (2003) 4/10",movie,"Italian Job, The (2003)",4,False,PT0M
+watched elf 2.5 stars,movie,Elf,5,False,PT0M
+movie braveheart 5 stars,movie,Braveheart,10,False,PT0M
+watched rat race 3 stars -25d,movie,Rat Race,6,False,-P25D
+film austin powers in goldmember 2.5 stars -2h,movie,Austin Powers in Goldmember,5,False,-PT2H
+"movie lock, stock & two smoking barrels 4 stars -5d",movie,"Lock, Stock & Two Smoking Barrels",8,False,-P5D
+movie french kiss 8 favorite,movie,French Kiss,8,True,PT0M
+"movie nightmare on elm street, a (1984) 7/10",movie,"Nightmare on Elm Street, A (1984)",7,False,PT0M
+"film quick and the dead, the 4 stars",movie,"Quick and the Dead, The",8,False,PT0M
+saw captain fantastic 4.5 stars heart,movie,Captain Fantastic,9,True,PT0M
+film powder 4 stars,movie,Powder,8,False,PT0M
+watched seven (a.k.a. se7en) 6/10,movie,Seven (a.k.a. Se7en),6,False,PT0M
+film kill bill: vol. 1 8,movie,Kill Bill: Vol. 1,8,False,PT0M
+film man of steel 4 stars heart,movie,Man of Steel,8,True,PT0M
+film cool hand luke 8,movie,Cool Hand Luke,8,False,PT0M
+film blade runner 4 stars -21h,movie,Blade Runner,8,False,-PT21H
+watched singin' in the rain 4 stars 19 hours ago,movie,Singin' in the Rain,8,False,-PT19H
+movie captain america: the first avenger 3.5 stars 11h ago,movie,Captain America: The First Avenger,7,False,-PT11H
+film frailty 8,movie,Frailty,8,False,PT0M
+watched v for vendetta 4 stars 19 hours ago,movie,V for Vendetta,8,False,-PT19H
+watched puss in boots (nagagutsu o haita neko) 8/10,movie,Puss in Boots (Nagagutsu o haita neko),8,False,PT0M
+"movie bodyguard, the 2 stars",movie,"Bodyguard, The",4,False,PT0M
+saw star trek: generations 6/10 -26d,movie,Star Trek: Generations,6,False,-P26D
+saw pawn sacrifice 5/10 -25d,movie,Pawn Sacrifice,5,False,-P25D
+watched austin powers: international man of mystery 3 stars,movie,Austin Powers: International Man of Mystery,6,False,PT0M
+"watched wild bunch, the 10 21 days ago",movie,"Wild Bunch, The",10,False,-P21D
+watched spider-man 9/10,movie,Spider-Man,9,False,PT0M
+saw let the right one in (låt den rätte komma in) 7,movie,Let the Right One In (Låt den rätte komma in),7,False,PT0M
+film groundhog day 2.5 stars loved,movie,Groundhog Day,5,True,PT0M
+movie a bad moms christmas 3.5 stars,movie,A Bad Moms Christmas,7,False,PT0M
+watched sudden death 3 stars,movie,Sudden Death,6,False,PT0M
+saw burn after reading 8/10 fav -8h,movie,Burn After Reading,8,True,-PT8H
+movie henry v 4.5 stars,movie,Henry V,9,False,PT0M
+watched elf 6/10,movie,Elf,6,False,PT0M
+saw jacob's ladder 2/10 16h ago,movie,Jacob's Ladder,2,False,-PT16H
+movie horrors of spider island (ein toter hing im netz) 0.5 stars heart 5h ago,movie,Horrors of Spider Island (Ein Toter Hing im Netz),1,True,-PT5H
+saw shark tale 1.5 stars heart,movie,Shark Tale,3,True,PT0M
+"movie walk to remember, a 3 stars",movie,"Walk to Remember, A",6,False,PT0M
+saw old school 3 11d ago,movie,Old School,3,False,-P11D
+film slumdog millionaire 8/10 -10d,movie,Slumdog Millionaire,8,False,-P10D
+"saw game, the 4 stars 7 hours ago",movie,"Game, The",8,False,-PT7H
+"saw secret of roan inish, the 4 stars",movie,"Secret of Roan Inish, The",8,False,PT0M
+watched misery 4 stars,movie,Misery,8,False,PT0M
+movie star wars: episode v - the empire strikes back 10/10,movie,Star Wars: Episode V - The Empire Strikes Back,10,False,PT0M
+film open range 3.5 stars -14h,movie,Open Range,7,False,-PT14H
+"watched clockwork orange, a 10/10",movie,"Clockwork Orange, A",10,False,PT0M
+watched brazil 3.5 stars,movie,Brazil,7,False,PT0M
+saw get shorty 2 stars,movie,Get Shorty,4,False,PT0M
+film stealing harvard 2 stars loved,movie,Stealing Harvard,4,True,PT0M
+film harry potter and the chamber of secrets 9/10,movie,Harry Potter and the Chamber of Secrets,9,False,PT0M
+film pleasantville 4 stars,movie,Pleasantville,8,False,PT0M
+movie quiz show 8,movie,Quiz Show,8,False,PT0M
+"watched rudolph, the red-nosed reindeer 8",movie,"Rudolph, the Red-Nosed Reindeer",8,False,PT0M
+"movie lion in winter, the 10",movie,"Lion in Winter, The",10,False,PT0M
+saw oz the great and powerful 4 stars,movie,Oz the Great and Powerful,8,False,PT0M
+watched star wars: episode iv - a new hope 4 stars -11h,movie,Star Wars: Episode IV - A New Hope,8,False,-PT11H
+"film godfather, the 10/10",movie,"Godfather, The",10,False,PT0M
+saw batman returns 5,movie,Batman Returns,5,False,PT0M
+film severance 3 stars,movie,Severance,6,False,PT0M
+"saw lion king, the 4 13d ago",movie,"Lion King, The",4,False,-P13D
+watched galaxy quest 8,movie,Galaxy Quest,8,False,PT0M
+film 40 days and 40 nights 8/10 30 days ago,movie,40 Days and 40 Nights,8,False,-P30D
+"film lion king, the 8/10 23h ago",movie,"Lion King, The",8,False,-PT23H
+film fantastic four: rise of the silver surfer 3 stars -4h,movie,Fantastic Four: Rise of the Silver Surfer,6,False,-PT4H
+"film mummy returns, the 3.5 stars",movie,"Mummy Returns, The",7,False,PT0M
+film once were warriors 4 stars,movie,Once Were Warriors,8,False,PT0M
+watched die hard 2 5,movie,Die Hard 2,5,False,PT0M
+film escape from new york 4 stars,movie,Escape from New York,8,False,PT0M
+movie 2010: the year we make contact 4.5 stars,movie,2010: The Year We Make Contact,9,False,PT0M
+film lifeforce 4 7d ago,movie,Lifeforce,4,False,-P7D
+movie almost famous 9 -13h,movie,Almost Famous,9,False,-PT13H
+"film hangover, the 7",movie,"Hangover, The",7,False,PT0M
+"movie curious case of benjamin button, the 7/10 19h ago",movie,"Curious Case of Benjamin Button, The",7,False,-PT19H
+movie reality bites 2/10,movie,Reality Bites,2,False,PT0M
+saw equilibrium 8,movie,Equilibrium,8,False,PT0M
+watched deadfall 3/10,movie,Deadfall,3,False,PT0M
+film the amazing spider-man 2 2 stars,movie,The Amazing Spider-Man 2,4,False,PT0M
+movie austin powers: the spy who shagged me 4 stars 7d ago,movie,Austin Powers: The Spy Who Shagged Me,8,False,-P7D
+saw amadeus 10 13 days ago,movie,Amadeus,10,False,-P13D
+watched shaft (2000) 4,movie,Shaft (2000),4,False,PT0M
+watched lake placid 4 stars heart,movie,Lake Placid,8,True,PT0M
+movie walk hard: the dewey cox story 3 stars favorite,movie,Walk Hard: The Dewey Cox Story,6,True,PT0M
+"saw dark crystal, the 3 stars",movie,"Dark Crystal, The",6,False,PT0M
+saw andre 6,movie,Andre,6,False,PT0M
+film ocean's eleven 8/10,movie,Ocean's Eleven,8,False,PT0M
+watched as good as it gets 3 stars heart,movie,As Good as It Gets,6,True,PT0M
+film star trek ii: the wrath of khan 8/10 5d ago,movie,Star Trek II: The Wrath of Khan,8,False,-P5D
+film man bites dog (c'est arrivé près de chez vous) 3.5 stars -23d,movie,Man Bites Dog (C'est arrivé près de chez vous),7,False,-P23D
+movie thor 4.5 stars 19h ago,movie,Thor,9,False,-PT19H
+saw another thin man 7/10 -11h,movie,Another Thin Man,7,False,-PT11H
+saw 50/50 7 favorite,movie,50/50,7,True,PT0M
+"saw slums of beverly hills, the 4 stars favourite",movie,"Slums of Beverly Hills, The",8,True,PT0M
+saw guardians of the galaxy 3.5 stars,movie,Guardians of the Galaxy,7,False,PT0M
+movie snatch 3.5 stars loved 12 hours ago,movie,Snatch,7,True,-PT12H
+"film crouching tiger, hidden dragon (wo hu cang long) 5 stars fav -8d",movie,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",10,True,-P8D
+saw thirteen ghosts (a.k.a. thir13en ghosts) 4,movie,Thirteen Ghosts (a.k.a. Thir13en Ghosts),4,False,PT0M
+saw milagro beanfield war 8/10 30 days ago,movie,Milagro Beanfield War,8,False,-P30D
+watched life is beautiful (la vita è bella) 10,movie,Life Is Beautiful (La Vita è bella),10,False,PT0M
+watched dirty dancing 8/10 22 hours ago,movie,Dirty Dancing,8,False,-PT22H
+movie face/off 5,movie,Face/Off,5,False,PT0M
+movie forrest gump 3.5 stars,movie,Forrest Gump,7,False,PT0M
+"saw pianist, the 9",movie,"Pianist, The",9,False,PT0M
+movie harry potter and the half-blood prince 4.5 stars,movie,Harry Potter and the Half-Blood Prince,9,False,PT0M
+watched moulin rouge 4 stars,movie,Moulin Rouge,8,False,PT0M
+watched mission to mars 3.5 stars 22h ago,movie,Mission to Mars,7,False,-PT22H
+saw thor: the dark world 7/10 -26d,movie,Thor: The Dark World,7,False,-P26D
+film jay and silent bob strike back 9/10,movie,Jay and Silent Bob Strike Back,9,False,PT0M
+film forrest gump 6 favourite -25d,movie,Forrest Gump,6,True,-P25D
+watched catch a fire 8/10 21 days ago,movie,Catch a Fire,8,False,-P21D
+film office space 2 stars,movie,Office Space,4,False,PT0M
+"watched bodyguard, the 3.5 stars -1h",movie,"Bodyguard, The",7,False,-PT1H
+movie indiana jones and the temple of doom 4,movie,Indiana Jones and the Temple of Doom,4,False,PT0M
+movie apocalypse now 3.5 stars fav -4h,movie,Apocalypse Now,7,True,-PT4H
+movie harry potter and the deathly hallows: part 1 10,movie,Harry Potter and the Deathly Hallows: Part 1,10,False,PT0M
+"movie purple rose of cairo, the 10/10",movie,"Purple Rose of Cairo, The",10,False,PT0M
+watched up 6/10,movie,Up,6,False,PT0M
+watched police academy 6: city under siege 0.5 stars,movie,Police Academy 6: City Under Siege,1,False,PT0M
+"film lives of others, the (das leben der anderen) 10 heart -17h",movie,"Lives of Others, The (Das leben der Anderen)",10,True,-PT17H
+movie alien: resurrection 2,movie,Alien: Resurrection,2,False,PT0M
+movie stardust 4 stars,movie,Stardust,8,False,PT0M
+film sweet home alabama 3.5 stars,movie,Sweet Home Alabama,7,False,PT0M
+film pride and prejudice (1995) 5 stars,movie,Pride and Prejudice (1995),10,False,PT0M
+film ocean's twelve 2 stars fav,movie,Ocean's Twelve,4,True,PT0M
+film rudy 6/10,movie,Rudy,6,False,PT0M
+movie looper 7/10 -4d,movie,Looper,7,False,-P4D
+film monty python and the holy grail 4 stars,movie,Monty Python and the Holy Grail,8,False,PT0M
+movie mars attacks! 6,movie,Mars Attacks!,6,False,PT0M
+saw goldfinger 5 stars,movie,Goldfinger,10,False,PT0M
+"saw matrix, the 4 stars 9d ago",movie,"Matrix, The",8,False,-P9D
+saw diamonds are forever 3 stars,movie,Diamonds Are Forever,6,False,PT0M
+movie star wars: episode i - the phantom menace 4 stars favorite,movie,Star Wars: Episode I - The Phantom Menace,8,True,PT0M
+"saw texas chainsaw massacre, the (1974) 6/10 22 hours ago",movie,"Texas Chainsaw Massacre, The (1974)",6,False,-PT22H
+film men in black ii (a.k.a. miib) (a.k.a. mib 2) 4,movie,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),4,False,PT0M
+saw prince of persia: the sands of time 7/10,movie,Prince of Persia: The Sands of Time,7,False,PT0M
+"movie tale of two sisters, a (janghwa, hongryeon) 4.5 stars 7 hours ago",movie,"Tale of Two Sisters, A (Janghwa, Hongryeon)",9,False,-PT7H
+movie charlie's angels: full throttle 3.5 stars fav,movie,Charlie's Angels: Full Throttle,7,True,PT0M
+movie mr. magoo 3 stars 22 days ago,movie,Mr. Magoo,6,False,-P22D
+watched abraham lincoln: vampire hunter 6,movie,Abraham Lincoln: Vampire Hunter,6,False,PT0M
+movie full metal jacket 4 stars heart,movie,Full Metal Jacket,8,True,PT0M
+film high school high 1/10,movie,High School High,1,False,PT0M
+film tales from the crypt presents: demon knight 4/10 favorite,movie,Tales from the Crypt Presents: Demon Knight,4,True,PT0M
+watched jaws 2 1 star heart -15d,movie,Jaws 2,2,True,-P15D
+movie rocky balboa 2 stars 13 hours ago,movie,Rocky Balboa,4,False,-PT13H
+"saw bank job, the 3.5 stars",movie,"Bank Job, The",7,False,PT0M
+movie lethal weapon 4 stars 11 hours ago,movie,Lethal Weapon,8,False,-PT11H
+saw short circuit 8/10,movie,Short Circuit,8,False,PT0M
+movie mo' money 6/10 loved 3 days ago,movie,Mo' Money,6,True,-P3D
+film solyaris 4 stars,movie,Solyaris,8,False,PT0M
+movie finding nemo 4 stars,movie,Finding Nemo,8,False,PT0M
+"saw mask, the 3 stars loved",movie,"Mask, The",6,True,PT0M
+film down with love 3 stars loved,movie,Down with Love,6,True,PT0M
+"saw great gatsby, the (2013) 3.5 stars",movie,"Great Gatsby, The (2013)",7,False,PT0M
+saw rocknrolla 7,movie,RocknRolla,7,False,PT0M
+watched catch me if you can 7,movie,Catch Me If You Can,7,False,PT0M
+watched american psycho 8/10 26 days ago,movie,American Psycho,8,False,-P26D
+movie fatal attraction 4 stars favorite 20 days ago,movie,Fatal Attraction,8,True,-P20D
+"watched jewel of the nile, the 4",movie,"Jewel of the Nile, The",4,False,PT0M
+"movie hustler, the 10",movie,"Hustler, The",10,False,PT0M
+film bedknobs and broomsticks 3 stars fav,movie,Bedknobs and Broomsticks,6,True,PT0M
+film star wars: episode vi - return of the jedi 7/10,movie,Star Wars: Episode VI - Return of the Jedi,7,False,PT0M
+saw dracula (bram stoker's dracula) 3.5 stars,movie,Dracula (Bram Stoker's Dracula),7,False,PT0M
+saw fight club 10 favourite,movie,Fight Club,10,True,PT0M
+"movie world is not enough, the 1.5 stars",movie,"World Is Not Enough, The",3,False,PT0M
+"movie usual suspects, the 10/10 favorite 14 hours ago",movie,"Usual Suspects, The",10,True,-PT14H
+saw casino 4 stars,movie,Casino,8,False,PT0M
+"saw bridge at remagen, the 8 favorite",movie,"Bridge at Remagen, The",8,True,PT0M
+saw mickey blue eyes 4 20h ago,movie,Mickey Blue Eyes,4,False,-PT20H
+"watched bourne ultimatum, the 4 stars heart",movie,"Bourne Ultimatum, The",8,True,PT0M
+watched little nicky 1 star,movie,Little Nicky,2,False,PT0M
+movie catch me if you can 8/10,movie,Catch Me If You Can,8,False,PT0M
+"film big lebowski, the 6",movie,"Big Lebowski, The",6,False,PT0M
+saw fright night part ii 6/10,movie,Fright Night Part II,6,False,PT0M
+movie scarface (1983) 9/10,movie,Scarface (1983),9,False,PT0M
+watched dave 3 stars,movie,Dave,6,False,PT0M
+film gremlins 3 stars favorite,movie,Gremlins,6,True,PT0M
+film they call me bruce? (a.k.a. a fistful of chopsticks) 6/10 13h ago,movie,They Call Me Bruce? (a.k.a. A Fistful of Chopsticks),6,False,-PT13H
+movie bound 3 stars 18 hours ago,movie,Bound,6,False,-PT18H
+saw maze runner: scorch trials 7,movie,Maze Runner: Scorch Trials,7,False,PT0M
+"saw lord of the rings: the return of the king, the 5 stars -27d",movie,"Lord of the Rings: The Return of the King, The",10,False,-P27D
+watched creepshow 4 stars heart,movie,Creepshow,8,True,PT0M
+"movie shining, the 5 stars",movie,"Shining, The",10,False,PT0M
+saw scream 2 6/10 24d ago,movie,Scream 2,6,False,-P24D
+"saw secret of nimh, the 3 stars",movie,"Secret of NIMH, The",6,False,PT0M
+film cast away 6,movie,Cast Away,6,False,PT0M
+watched godzilla (1998) 1.5 stars 1h ago,movie,Godzilla (1998),3,False,-PT1H
+watched strangers on a train 4 stars -10h,movie,Strangers on a Train,8,False,-PT10H
+movie captain america: the winter soldier 2.5 stars 18 days ago,movie,Captain America: The Winter Soldier,5,False,-P18D
+watched man on fire 4/10,movie,Man on Fire,4,False,PT0M
+saw while you were fighting: a thor mockumentary 4 stars -10d,movie,While You Were Fighting: A Thor Mockumentary,8,False,-P10D
+movie sixteen candles 8/10 -3d,movie,Sixteen Candles,8,False,-P3D
+film courage under fire 7,movie,Courage Under Fire,7,False,PT0M
+"movie karate kid, part iii, the 5/10 favourite",movie,"Karate Kid, Part III, The",5,True,PT0M
+"saw last boy scout, the 7 loved 27 days ago",movie,"Last Boy Scout, The",7,True,-P27D
+"film patriot, the (2000) 3 stars",movie,"Patriot, The (2000)",6,False,PT0M
+film brazil 10/10 loved,movie,Brazil,10,True,PT0M
+"saw very long engagement, a (un long dimanche de fiançailles) 6",movie,"Very Long Engagement, A (Un long dimanche de fiançailles)",6,False,PT0M
+saw doctor strange 4/10,movie,Doctor Strange,4,False,PT0M
+"saw negotiator, the 3 stars -18d",movie,"Negotiator, The",6,False,-P18D
+"movie others, the 3.5 stars -17h",movie,"Others, The",7,False,-PT17H
+saw chinatown 4.5 stars loved,movie,Chinatown,9,True,PT0M
+film mortal kombat 8,movie,Mortal Kombat,8,False,PT0M
+"watched score, the 2 stars",movie,"Score, The",4,False,PT0M
+film star trek iv: the voyage home 3 stars favourite,movie,Star Trek IV: The Voyage Home,6,True,PT0M
+film he's just not that into you 6/10 16h ago,movie,He's Just Not That Into You,6,False,-PT16H
+saw interstellar 8,movie,Interstellar,8,False,PT0M
+saw state of play 4 stars 9 hours ago,movie,State of Play,8,False,-PT9H
+watched trial and error 2 stars,movie,Trial and Error,4,False,PT0M
+saw pixels 4,movie,Pixels,4,False,PT0M
+film eraser 6/10,movie,Eraser,6,False,PT0M
+movie crimson tide 4 stars,movie,Crimson Tide,8,False,PT0M
+"saw planes, trains & automobiles 6/10",movie,"Planes, Trains & Automobiles",6,False,PT0M
+film batman (1989) 4/10,movie,Batman (1989),4,False,PT0M
+watched american history x 9 heart 17h ago,movie,American History X,9,True,-PT17H
+movie milk 5 stars,movie,Milk,10,False,PT0M
+saw alien 4.5 stars,movie,Alien,9,False,PT0M
+saw american beauty 3 stars favourite,movie,American Beauty,6,True,PT0M
+film liar liar 6,movie,Liar Liar,6,False,PT0M
+"film bourne identity, the (2002) 8/10",movie,"Bourne Identity, The (2002)",8,False,PT0M
+saw ghostbusters (a.k.a. ghost busters) 4 -25d,movie,Ghostbusters (a.k.a. Ghost Busters),4,False,-P25D
+saw meet the robinsons 6/10 favourite 9 days ago,movie,Meet the Robinsons,6,True,-P9D
+watched fever pitch (2005) 7,movie,Fever Pitch (2005),7,False,PT0M
+movie rambo: first blood part ii 7/10 17 hours ago,movie,Rambo: First Blood Part II,7,False,-PT17H
+movie animal house 4 stars,movie,Animal House,8,False,PT0M
+movie scream 5 stars,movie,Scream,10,False,PT0M
+watched immortals 10 favorite,movie,Immortals,10,True,PT0M
+watched daria: is it college yet? 1 star,movie,Daria: Is It College Yet?,2,False,PT0M
+"watched elephant man, the 8 -7d",movie,"Elephant Man, The",8,False,-P7D
+saw being john malkovich 7,movie,Being John Malkovich,7,False,PT0M
+watched donnie brasco 4.5 stars -29d,movie,Donnie Brasco,9,False,-P29D
+movie wall·e 8,movie,WALL·E,8,False,PT0M
+"watched italian job, the (2003) 9/10",movie,"Italian Job, The (2003)",9,False,PT0M
+saw the scorpion king 6,movie,The Scorpion King,6,False,PT0M
+film jurassic park 6 heart -17d,movie,Jurassic Park,6,True,-P17D
+film batman forever 8,movie,Batman Forever,8,False,PT0M
+watched willow 5 -21d,movie,Willow,5,False,-P21D
+saw vantage point 8/10,movie,Vantage Point,8,False,PT0M
+"film aviator, the 10 -28d",movie,"Aviator, The",10,False,-P28D
+"saw corporation, the 7/10",movie,"Corporation, The",7,False,PT0M
+"film view to a kill, a 3.5 stars",movie,"View to a Kill, A",7,False,PT0M
+"film avengers, the (2012) 2.5 stars 18 days ago",movie,"Avengers, The (2012)",5,False,-P18D
+"saw maltese falcon, the (a.k.a. dangerous female) 10 -3h",movie,"Maltese Falcon, The (a.k.a. Dangerous Female)",10,False,-PT3H
+"watched jungle book, the (1967) 10",movie,"Jungle Book, The (1967)",10,False,PT0M
+film i.q. 4 9 days ago,movie,I.Q.,4,False,-P9D
+movie donnie darko 9 -8h,movie,Donnie Darko,9,False,-PT8H
+movie wag the dog 4 stars,movie,Wag the Dog,8,False,PT0M
+"movie simpsons movie, the 8",movie,"Simpsons Movie, The",8,False,PT0M
+watched apocalypse now 10,movie,Apocalypse Now,10,False,PT0M
+"watched incredible hulk, the 6/10",movie,"Incredible Hulk, The",6,False,PT0M
+film independence day (a.k.a. id4) 5/10 21d ago,movie,Independence Day (a.k.a. ID4),5,False,-P21D
+movie avatar 3 stars ye,movie,Avatar,6,False,-P1D
+saw wayne's world 3.5 stars,movie,Wayne's World,7,False,PT0M
+movie breakfast at tiffany's 8/10,movie,Breakfast at Tiffany's,8,False,PT0M
+film (500) days of summer 9/10,movie,(500) Days of Summer,9,False,PT0M
+saw sleepless in seattle 7 favourite,movie,Sleepless in Seattle,7,True,PT0M
+movie serenity 9/10 5h ago,movie,Serenity,9,False,-PT5H
+"film adventures of rocky and bullwinkle, the 6/10 18 hours ago",movie,"Adventures of Rocky and Bullwinkle, The",6,False,-PT18H
+"film lord of the rings: the return of the king, the 3.5 stars",movie,"Lord of the Rings: The Return of the King, The",7,False,PT0M
+watched coffee and cigarettes 7/10,movie,Coffee and Cigarettes,7,False,PT0M
+watched sunshine (2007) 7 favourite -29d,movie,Sunshine (2007),7,True,-P29D
+watched snatch 1.5 stars favourite,movie,Snatch,3,True,PT0M
+movie private benjamin 8/10 favorite,movie,Private Benjamin,8,True,PT0M
+film sabrina (1954) 4 stars,movie,Sabrina (1954),8,False,PT0M
+saw erin brockovich 6,movie,Erin Brockovich,6,False,PT0M
+"watched big lebowski, the 3.5 stars",movie,"Big Lebowski, The",7,False,PT0M
+saw maximum risk 4 stars 22 hours ago,movie,Maximum Risk,8,False,-PT22H
+saw sweet november 4 stars,movie,Sweet November,8,False,PT0M
+"movie fish called wanda, a 8/10 14h ago",movie,"Fish Called Wanda, A",8,False,-PT14H
+"watched hunt, the (jagten) 8/10 loved 15d ago",movie,"Hunt, The (Jagten)",8,True,-P15D
+film indiana jones and the last crusade 8/10,movie,Indiana Jones and the Last Crusade,8,False,PT0M
+saw tron 2 stars,movie,Tron,4,False,PT0M
+watched requiem for a dream 5 stars,movie,Requiem for a Dream,10,False,PT0M
+"movie dance of reality, the (danza de la realidad, la) 7",movie,"Dance of Reality, The (Danza de la realidad, La)",7,False,PT0M
+saw band of brothers 5 stars 17 days ago,movie,Band of Brothers,10,False,-P17D
+movie howards end 4.5 stars 10d ago,movie,Howards End,9,False,-P10D
+saw honeymoon in vegas 4 stars,movie,Honeymoon in Vegas,8,False,PT0M
+watched bridge of spies 8/10,movie,Bridge of Spies,8,False,PT0M
+"film full monty, the 2/10 9 days ago",movie,"Full Monty, The",2,False,-P9D
+film predator 10 10 days ago,movie,Predator,10,False,-P10D
+"film world is not enough, the 2 stars 16 hours ago",movie,"World Is Not Enough, The",4,False,-PT16H
+"film 2 fast 2 furious (fast and the furious 2, the) 7/10 18d ago",movie,"2 Fast 2 Furious (Fast and the Furious 2, The)",7,False,-P18D
+saw alien 6/10,movie,Alien,6,False,PT0M
+saw pulp fiction 3 stars,movie,Pulp Fiction,6,False,PT0M
+film every secret thing 4,movie,Every Secret Thing,4,False,PT0M
+movie deadpool 3.5 stars -20h,movie,Deadpool,7,False,-PT20H
+"movie nutty professor, the (1996) 2.5 stars fav 17 hours ago",movie,"Nutty Professor, The (1996)",5,True,-PT17H
+film assassins 1 star -28d,movie,Assassins,2,False,-P28D
+movie beavis and butt-head do america 3,movie,Beavis and Butt-Head Do America,3,False,PT0M
+movie groundhog day 9/10 -11d,movie,Groundhog Day,9,False,-P11D
+film ace ventura: pet detective 3 stars,movie,Ace Ventura: Pet Detective,6,False,PT0M
+movie fantastic beasts and where to find them 4.5 stars,movie,Fantastic Beasts and Where to Find Them,9,False,PT0M
+film resident evil 8/10 fav 8 hours ago,movie,Resident Evil,8,True,-PT8H
+"saw mummy returns, the 6/10",movie,"Mummy Returns, The",6,False,PT0M
+movie madagascar 7,movie,Madagascar,7,False,PT0M
+"saw maltese falcon, the 3.5 stars",movie,"Maltese Falcon, The",7,False,PT0M
+saw being there 10/10,movie,Being There,10,False,PT0M
+saw on a clear day 4/10 1h ago,movie,On a Clear Day,4,False,-PT1H
+film taxi driver 3.5 stars,movie,Taxi Driver,7,False,PT0M
+saw dungeons & dragons 2/10 1 hour ago,movie,Dungeons & Dragons,2,False,-PT1H
+"watched beautiful mind, a 6",movie,"Beautiful Mind, A",6,False,PT0M
+movie lolita (1997) 6 fav,movie,Lolita (1997),6,True,PT0M
+saw entrapment 3.5 stars,movie,Entrapment,7,False,PT0M
+"movie blind swordsman: zatoichi, the (zatôichi) 4 stars",movie,"Blind Swordsman: Zatoichi, The (Zatôichi)",8,False,PT0M
+watched mortal kombat 6/10 favourite -26d,movie,Mortal Kombat,6,True,-P26D
+movie monkeybone 4 13h ago,movie,Monkeybone,4,False,-PT13H
+saw harry potter and the prisoner of azkaban 8/10,movie,Harry Potter and the Prisoner of Azkaban,8,False,PT0M
+"watched faculty, the 5/10",movie,"Faculty, The",5,False,PT0M
+saw riding giants 8/10 favorite,movie,Riding Giants,8,True,PT0M
+saw superman iii 1.5 stars,movie,Superman III,3,False,PT0M
+"watched lust, caution (se, jie) 8/10 13 days ago",movie,"Lust, Caution (Se, jie)",8,False,-P13D
+movie groundhog day 5 stars 3 hours ago,movie,Groundhog Day,10,False,-PT3H
+saw mulan 4 stars,movie,Mulan,8,False,PT0M
+"film edge of heaven, the (auf der anderen seite) 3.5 stars",movie,"Edge of Heaven, The (Auf der anderen Seite)",7,False,PT0M
+watched gladiator (2000) 4 stars 14h ago,movie,Gladiator (2000),8,False,-PT14H
+movie dawn of the dead (2004) 10 fav,movie,Dawn of the Dead (2004),10,True,PT0M
+watched steel magnolias 2 stars,movie,Steel Magnolias,4,False,PT0M
+"movie girl with the dragon tattoo, the 10 17h ago",movie,"Girl with the Dragon Tattoo, The",10,False,-PT17H
+saw some like it hot 3 stars,movie,Some Like It Hot,6,False,PT0M
+saw for a few dollars more (per qualche dollaro in più) 10/10,movie,For a Few Dollars More (Per qualche dollaro in più),10,False,PT0M
+"saw terminal, the 2 stars",movie,"Terminal, The",4,False,PT0M
+watched 1984 (nineteen eighty-four) 3 stars,movie,1984 (Nineteen Eighty-Four),6,False,PT0M
+saw national lampoon's vacation 4 stars,movie,National Lampoon's Vacation,8,False,PT0M
+watched patton 8 14 days ago,movie,Patton,8,False,-P14D
+film stand by me 7/10,movie,Stand by Me,7,False,PT0M
+movie conspiracy theory 4/10,movie,Conspiracy Theory,4,False,PT0M
+film girl with a pearl earring 7/10 -5d,movie,Girl with a Pearl Earring,7,False,-P5D
+film batman returns 5 stars,movie,Batman Returns,10,False,PT0M
+"saw silence of the lambs, the 10/10 favorite 8 hours ago",movie,"Silence of the Lambs, The",10,True,-PT8H
+"film black cat, white cat (crna macka, beli macor) 4 stars 10 hours ago",movie,"Black Cat, White Cat (Crna macka, beli macor)",8,False,-PT10H
+movie geri's game 3.5 stars 18d ago,movie,Geri's Game,7,False,-P18D
+watched goodfellas 10,movie,Goodfellas,10,False,PT0M
+movie death proof 4 stars,movie,Death Proof,8,False,PT0M
+watched twin peaks: fire walk with me 4 stars,movie,Twin Peaks: Fire Walk with Me,8,False,PT0M
+"saw matrix reloaded, the 8",movie,"Matrix Reloaded, The",8,False,PT0M
+saw reservoir dogs 10/10,movie,Reservoir Dogs,10,False,PT0M
+saw spider-man 4 stars 3 days ago,movie,Spider-Man,8,False,-P3D
+movie harry potter and the prisoner of azkaban 7/10 22h ago,movie,Harry Potter and the Prisoner of Azkaban,7,False,-PT22H
+"saw amityville horror, the (2005) 6 -9d",movie,"Amityville Horror, The (2005)",6,False,-P9D
+movie ever after: a cinderella story 6 favorite,movie,Ever After: A Cinderella Story,6,True,PT0M
+film braveheart 3 stars,movie,Braveheart,6,False,PT0M
+watched places in the heart 8/10,movie,Places in the Heart,8,False,PT0M
+movie problem child 1.5 stars 21 days ago,movie,Problem Child,3,False,-P21D
+movie billy madison 4 stars 20 days ago,movie,Billy Madison,8,False,-P20D
+saw grease 9,movie,Grease,9,False,PT0M
+watched beautiful people 10/10 favorite,movie,Beautiful People,10,True,PT0M
+film you only live twice 8/10,movie,You Only Live Twice,8,False,PT0M
+"film abyss, the 4 stars",movie,"Abyss, The",8,False,PT0M
+watched holes 4,movie,Holes,4,False,PT0M
+saw star trek: nemesis 5,movie,Star Trek: Nemesis,5,False,PT0M
+"film big lebowski, the 10/10 fav",movie,"Big Lebowski, The",10,True,PT0M
+"movie adventures of priscilla, queen of the desert, the 7/10 25 days ago",movie,"Adventures of Priscilla, Queen of the Desert, The",7,False,-P25D
+movie anna karenina (1935) 3.5 stars,movie,Anna Karenina (1935),7,False,PT0M
+movie hot shots! part deux 3 stars,movie,Hot Shots! Part Deux,6,False,PT0M
+movie saving silverman (evil woman) 5/10 fav 11d ago,movie,Saving Silverman (Evil Woman),5,True,-P11D
+"movie unbearable lightness of being, the 10/10 -11d",movie,"Unbearable Lightness of Being, The",10,False,-P11D
+"saw jackal, the 6 10h ago",movie,"Jackal, The",6,False,-PT10H
+watched sleepy hollow 7/10 6h ago,movie,Sleepy Hollow,7,False,-PT6H
+watched beneath the planet of the apes 3 stars loved,movie,Beneath the Planet of the Apes,6,True,PT0M
+watched whiplash (2014) 9/10 loved,movie,Whiplash (2014),9,True,PT0M
+"film war zone, the 2.5 stars 2h ago",movie,"War Zone, The",5,False,-PT2H
+watched how the grinch stole christmas (a.k.a. the grinch) 4 stars favorite,movie,How the Grinch Stole Christmas (a.k.a. The Grinch),8,True,PT0M
+film hackers 4/10,movie,Hackers,4,False,PT0M
+saw austin powers: international man of mystery 8,movie,Austin Powers: International Man of Mystery,8,False,PT0M
+saw dead man walking 8/10,movie,Dead Man Walking,8,False,PT0M
+movie avatar 9 15 hours ago,movie,Avatar,9,False,-PT15H
+movie armageddon 1.5 stars 22h ago,movie,Armageddon,3,False,-PT22H
+movie october sky 4 stars,movie,October Sky,8,False,PT0M
+"movie time machine, the (2002) 3 stars",movie,"Time Machine, The (2002)",6,False,PT0M
+saw spaceballs 8/10,movie,Spaceballs,8,False,PT0M
+movie home alone 2: lost in new york 4,movie,Home Alone 2: Lost in New York,4,False,PT0M
+saw desperado 2 stars,movie,Desperado,4,False,PT0M
+saw eat drink man woman (yin shi nan nu) 4 -19d,movie,Eat Drink Man Woman (Yin shi nan nu),4,False,-P19D
+"watched lost boys, the 1",movie,"Lost Boys, The",1,False,PT0M
+"movie aristocats, the 6/10",movie,"Aristocats, The",6,False,PT0M
+"watched dark knight, the 10/10 heart",movie,"Dark Knight, The",10,True,PT0M
+film sliver 1 star favourite,movie,Sliver,2,True,PT0M
+"watched matrix revolutions, the 10/10 6h ago",movie,"Matrix Revolutions, The",10,False,-PT6H
+watched pootie tang 6/10 7h ago,movie,Pootie Tang,6,False,-PT7H
+watched outbreak 3 stars loved 10d ago,movie,Outbreak,6,True,-P10D
+movie citizen kane 3 stars heart,movie,Citizen Kane,6,True,PT0M
+film not without my daughter 5/10,movie,Not Without My Daughter,5,False,PT0M
+movie you've got mail 4 stars,movie,You've Got Mail,8,False,PT0M
+film cloudy with a chance of meatballs 3 stars fav,movie,Cloudy with a Chance of Meatballs,6,True,PT0M
+film fever pitch (2005) 0.5 stars,movie,Fever Pitch (2005),1,False,PT0M
+movie mitchell 2/10 -11h,movie,Mitchell,2,False,-PT11H
+movie hannibal 1.5 stars,movie,Hannibal,3,False,PT0M
+watched ice age 3.5 stars,movie,Ice Age,7,False,PT0M
+film you've got mail 4/10 favourite,movie,You've Got Mail,4,True,PT0M
+watched untitled spider-man reboot 9/10,movie,Untitled Spider-Man Reboot,9,False,PT0M
+film casablanca 5 stars 26d ago,movie,Casablanca,10,False,-P26D
+movie requiem for a dream 9/10,movie,Requiem for a Dream,9,False,PT0M
+saw wall·e 7/10,movie,WALL·E,7,False,PT0M
+film fraternity vacation 1 star loved 7 hours ago,movie,Fraternity Vacation,2,True,-PT7H
+"film girl with the dragon tattoo, the 8 loved",movie,"Girl with the Dragon Tattoo, The",8,True,PT0M
+saw pineapple express 2.5 stars fav -15d,movie,Pineapple Express,5,True,-P15D
+film battle royale (batoru rowaiaru) 9,movie,Battle Royale (Batoru rowaiaru),9,False,PT0M
+saw captain phillips 4 stars loved,movie,Captain Phillips,8,True,PT0M
+"movie full monty, the 4 stars",movie,"Full Monty, The",8,False,PT0M
+film dead poets society 8/10 fav 27d ago,movie,Dead Poets Society,8,True,-P27D
+movie sky captain and the world of tomorrow 3.5 stars,movie,Sky Captain and the World of Tomorrow,7,False,PT0M
+saw teenage mutant ninja turtles ii: the secret of the ooze 7 favorite,movie,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,7,True,PT0M
+watched cloudy with a chance of meatballs 10/10 favourite,movie,Cloudy with a Chance of Meatballs,10,True,PT0M
+watched dances with wolves 6/10 20 days ago,movie,Dances with Wolves,6,False,-P20D
+film missing in action 4/10 13d ago,movie,Missing in Action,4,False,-P13D
+saw big hero 6 3.5 stars,movie,Big Hero 6,7,False,PT0M
+saw red cliff (chi bi) 10,movie,Red Cliff (Chi bi),10,False,PT0M
+film baby driver 5 stars -16d,movie,Baby Driver,10,False,-P16D
+film argo 8/10,movie,Argo,8,False,PT0M
+saw spider-man 2 3.5 stars favorite,movie,Spider-Man 2,7,True,PT0M
+watched dr. horrible's sing-along blog 5 stars 18h ago,movie,Dr. Horrible's Sing-Along Blog,10,False,-PT18H
+movie limitless 3.5 stars favourite,movie,Limitless,7,True,PT0M
+"film krays, the 3.5 stars",movie,"Krays, The",7,False,PT0M
+watched home alone 4 22d ago,movie,Home Alone,4,False,-P22D
+film monster 4 stars,movie,Monster,8,False,PT0M
+saw paperman 8 -2h,movie,Paperman,8,False,-PT2H
+watched the handmaiden 1/10 fav,movie,The Handmaiden,1,True,PT0M
+film terminator 2: judgment day 4.5 stars,movie,Terminator 2: Judgment Day,9,False,PT0M
+movie chasing amy 9,movie,Chasing Amy,9,False,PT0M
+saw 40 days and 40 nights 0.5 stars,movie,40 Days and 40 Nights,1,False,PT0M
+watched butch cassidy and the sundance kid 5 stars 10 hours ago,movie,Butch Cassidy and the Sundance Kid,10,False,-PT10H
+saw titanic (1997) 4 stars heart,movie,Titanic (1997),8,True,PT0M
+"movie hunchback of notre dame, the (1996) 2 stars",movie,"Hunchback of Notre Dame, The (1996)",4,False,PT0M
+watched police academy 4: citizens on patrol 3 stars 2d ago,movie,Police Academy 4: Citizens on Patrol,6,False,-P2D
+"saw truman show, the 3.5 stars -22h",movie,"Truman Show, The",7,False,-PT22H
+"watched green mile, the 4.5 stars -12d",movie,"Green Mile, The",9,False,-P12D
+film rushmore 3 stars,movie,Rushmore,6,False,PT0M
+saw jerry maguire 7/10,movie,Jerry Maguire,7,False,PT0M
+film show me love (fucking åmål) 10,movie,Show Me Love (Fucking Åmål),10,False,PT0M
+"movie deer hunter, the 5 stars loved 10h ago",movie,"Deer Hunter, The",10,True,-PT10H
+watched unforgettable 3 stars,movie,Unforgettable,6,False,PT0M
+saw ben-hur 8/10,movie,Ben-Hur,8,False,PT0M
+film finding forrester 8 favourite,movie,Finding Forrester,8,True,PT0M
+watched fantastic four (2005) 4 stars,movie,Fantastic Four (2005),8,False,PT0M
+saw shooter 8,movie,Shooter,8,False,PT0M
+"film three musketeers, the (1993) 3 stars",movie,"Three Musketeers, The (1993)",6,False,PT0M
+watched reindeer games 4,movie,Reindeer Games,4,False,PT0M
+saw three colors: white (trzy kolory: bialy) 7,movie,Three Colors: White (Trzy kolory: Bialy),7,False,PT0M
+film toy story 8,movie,Toy Story,8,False,PT0M
+movie radio flyer 3 stars favourite,movie,Radio Flyer,6,True,PT0M
+"saw mission, the 5 stars 12 hours ago",movie,"Mission, The",10,False,-PT12H
+movie aladdin 4 stars -14d,movie,Aladdin,8,False,-P14D
+film safety last! 6 loved,movie,Safety Last!,6,True,PT0M
+film x-men 8 loved,movie,X-Men,8,True,PT0M
+watched skyfall 9,movie,Skyfall,9,False,PT0M
+saw megamind 8/10,movie,Megamind,8,False,PT0M
+film scott pilgrim vs. the world 5 stars 23h ago,movie,Scott Pilgrim vs. the World,10,False,-PT23H
+"movie twilight saga: breaking dawn - part 2, the 4",movie,"Twilight Saga: Breaking Dawn - Part 2, The",4,False,PT0M
+saw just married 6,movie,Just Married,6,False,PT0M
+"saw exorcist, the 6",movie,"Exorcist, The",6,False,PT0M
+film frozen (2013) 3 stars,movie,Frozen (2013),6,False,PT0M
+watched captain america: civil war 3 stars -6h,movie,Captain America: Civil War,6,False,-PT6H
+"saw green hornet, the 3 stars",movie,"Green Hornet, The",6,False,PT0M
+"film texas chainsaw massacre: the beginning, the 2 stars",movie,"Texas Chainsaw Massacre: The Beginning, The",4,False,PT0M
+"saw jerky boys, the 10/10",movie,"Jerky Boys, The",10,False,PT0M
+watched french kiss 5 stars loved 4d ago,movie,French Kiss,10,True,-P4D
+movie big 7/10 9 hours ago,movie,Big,7,False,-PT9H
+saw the alamo 6/10 6d ago,movie,The Alamo,6,False,-P6D
+saw naked gun 33 1/3: the final insult 3 stars favorite,movie,Naked Gun 33 1/3: The Final Insult,6,True,PT0M
+movie cliffhanger 4 stars,movie,Cliffhanger,8,False,PT0M
+watched mallrats 7/10,movie,Mallrats,7,False,PT0M
+movie alpha and omega 3: the great wolf games 4.5 stars,movie,Alpha and Omega 3: The Great Wolf Games,9,False,PT0M
+"watched forbidden kingdom, the 9",movie,"Forbidden Kingdom, The",9,False,PT0M
+"watched jungle book, the (1994) 6",movie,"Jungle Book, The (1994)",6,False,PT0M
+film lemony snicket's a series of unfortunate events 2.5 stars,movie,Lemony Snicket's A Series of Unfortunate Events,5,False,PT0M
+saw saving grace 7/10,movie,Saving Grace,7,False,PT0M
+movie pleasantville 3 stars,movie,Pleasantville,6,False,PT0M
+saw crash (2004) 9/10,movie,Crash (2004),9,False,PT0M
+saw murder at 1600 3 stars,movie,Murder at 1600,6,False,PT0M
+saw north dallas forty 2 stars,movie,North Dallas Forty,4,False,PT0M
+saw rush hour 2 4 stars -17d,movie,Rush Hour 2,8,False,-P17D
+watched his girl friday 9/10,movie,His Girl Friday,9,False,PT0M
+saw being there 6/10,movie,Being There,6,False,PT0M
+watched taxi driver 4 stars,movie,Taxi Driver,8,False,PT0M
+movie homeward bound ii: lost in san francisco 6/10,movie,Homeward Bound II: Lost in San Francisco,6,False,PT0M
+movie jon stewart has left the building 3.5 stars -15d,movie,Jon Stewart Has Left the Building,7,False,-P15D
+"movie shawshank redemption, the 5 stars",movie,"Shawshank Redemption, The",10,False,PT0M
+"film lust, caution (se, jie) 3.5 stars",movie,"Lust, Caution (Se, jie)",7,False,PT0M
+movie stuart little 2 stars heart 20h ago,movie,Stuart Little,4,True,-PT20H
+"film lion king, the 6/10",movie,"Lion King, The",6,False,PT0M
+film star trek v: the final frontier 6,movie,Star Trek V: The Final Frontier,6,False,PT0M
+watched dangerous liaisons 4 stars,movie,Dangerous Liaisons,8,False,PT0M
+film signs 4 stars,movie,Signs,8,False,PT0M
+watched real steel 3.5 stars 21 days ago,movie,Real Steel,7,False,-P21D
+film series 7: the contenders 3 stars 21d ago,movie,Series 7: The Contenders,6,False,-P21D
+watched house 5 stars,movie,House,10,False,PT0M
+saw national lampoon's van wilder 6 -2d,movie,National Lampoon's Van Wilder,6,False,-P2D
+film erin brockovich 8,movie,Erin Brockovich,8,False,PT0M
+film sabotage 3 stars,movie,Sabotage,6,False,PT0M
+saw home alone 3 stars,movie,Home Alone,6,False,PT0M
+film inception 4 stars,movie,Inception,8,False,PT0M
+watched iron man 3 4 stars,movie,Iron Man 3,8,False,PT0M
+"watched others, the 5 stars fav",movie,"Others, The",10,True,PT0M
+watched die hard 2 4.5 stars -8d,movie,Die Hard 2,9,False,-P8D
+movie as good as it gets 8/10,movie,As Good as It Gets,8,False,PT0M
+movie to kill a mockingbird 4.5 stars,movie,To Kill a Mockingbird,9,False,PT0M
+movie far from home: the adventures of yellow dog 10 -13h,movie,Far From Home: The Adventures of Yellow Dog,10,False,-PT13H
+"film visitors, the (visiteurs, les) 10/10",movie,"Visitors, The (Visiteurs, Les)",10,False,PT0M
+saw rosemary's baby 5 stars,movie,Rosemary's Baby,10,False,PT0M
+watched no man's land (2001) 5 stars 15h ago,movie,No Man's Land (2001),10,False,-PT15H
+saw city of angels 3 stars -1h,movie,City of Angels,6,False,-PT1H
+watched kiss kiss bang bang 5 stars,movie,Kiss Kiss Bang Bang,10,False,PT0M
+"saw nutty professor, the (1963) 3 stars favourite -6d",movie,"Nutty Professor, The (1963)",6,True,-P6D
+"film breakfast club, the 4 stars fav",movie,"Breakfast Club, The",8,True,PT0M
+"movie spy who loved me, the 7/10 11d ago",movie,"Spy Who Loved Me, The",7,False,-P11D
+"movie thomas crown affair, the (1968) 3.5 stars 24d ago",movie,"Thomas Crown Affair, The (1968)",7,False,-P24D
+"watched crouching tiger, hidden dragon (wo hu cang long) 9",movie,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",9,False,PT0M
+"film assassination of jesse james by the coward robert ford, the 6/10 -21d",movie,"Assassination of Jesse James by the Coward Robert Ford, The",6,False,-P21D
+watched entrapment 4/10 5 hours ago,movie,Entrapment,4,False,-PT5H
+saw hannibal 8/10,movie,Hannibal,8,False,PT0M
+movie lara croft tomb raider: the cradle of life 2.5 stars 25d ago,movie,Lara Croft Tomb Raider: The Cradle of Life,5,False,-P25D
+watched star wars: episode i - the phantom menace 10/10,movie,Star Wars: Episode I - The Phantom Menace,10,False,PT0M
+watched harley davidson and the marlboro man 6 5 hours ago,movie,Harley Davidson and the Marlboro Man,6,False,-PT5H
+film amityville: dollhouse 2 stars 10 days ago,movie,Amityville: Dollhouse,4,False,-P10D
+watched kill bill: vol. 2 10/10 23 days ago,movie,Kill Bill: Vol. 2,10,False,-P23D
+watched terminator 2: judgment day 3 stars favorite 3 days ago,movie,Terminator 2: Judgment Day,6,True,-P3D
+saw red 2 2 stars -11d,movie,Red 2,4,False,-P11D
+film wallace & gromit in the curse of the were-rabbit 3 1h ago,movie,Wallace & Gromit in The Curse of the Were-Rabbit,3,False,-PT1H
+"film producers, the (1968) 8/10",movie,"Producers, The (1968)",8,False,PT0M
+movie sunshine cleaning 7,movie,Sunshine Cleaning,7,False,PT0M
+saw total recall (1990) 5/10 fav 17 days ago,movie,Total Recall (1990),5,True,-P17D
+"movie 40-year-old virgin, the 8/10 favorite 28d ago",movie,"40-Year-Old Virgin, The",8,True,-P28D
+film teknolust 4/10,movie,Teknolust,4,False,PT0M
+watched schindler's list 10,movie,Schindler's List,10,False,PT0M
+watched jurassic park 4,movie,Jurassic Park,4,False,PT0M
+watched james and the giant peach 1 star,movie,James and the Giant Peach,2,False,PT0M
+watched lost in translation 4 stars,movie,Lost in Translation,8,False,PT0M
+film die hard 4 stars 3d ago,movie,Die Hard,8,False,-P3D
+saw good will hunting 8/10,movie,Good Will Hunting,8,False,PT0M
+movie amadeus 7/10 -13h,movie,Amadeus,7,False,-PT13H
+film candy 8/10 -9d,movie,Candy,8,False,-P9D
+movie fargo 8/10,movie,Fargo,8,False,PT0M
+saw ghost dog: the way of the samurai 5 stars,movie,Ghost Dog: The Way of the Samurai,10,False,PT0M
+"movie fifth element, the 5 stars 12 days ago",movie,"Fifth Element, The",10,False,-P12D
+saw goodfellas 4.5 stars -20h,movie,Goodfellas,9,False,-PT20H
+film westworld 6/10 -12h,movie,Westworld,6,False,-PT12H
+movie striptease 4,movie,Striptease,4,False,PT0M
+film fantastic beasts and where to find them 6/10 -15d,movie,Fantastic Beasts and Where to Find Them,6,False,-P15D
+watched 48 hrs. 4/10 fav,movie,48 Hrs.,4,True,PT0M
+"movie road warrior, the (mad max 2) 4 stars",movie,"Road Warrior, The (Mad Max 2)",8,False,PT0M
+movie shine 8,movie,Shine,8,False,PT0M
+movie red sonja 2.5 stars -13d,movie,Red Sonja,5,False,-P13D
+saw jumpin' jack flash 3 stars,movie,Jumpin' Jack Flash,6,False,PT0M
+film cast away 7/10 favorite 6h ago,movie,Cast Away,7,True,-PT6H
+"movie adventures of buckaroo banzai across the 8th dimension, the 5 stars -10d",movie,"Adventures of Buckaroo Banzai Across the 8th Dimension, The",10,False,-P10D
+"saw girl next door, the (2004) 7 -10d",movie,"Girl Next Door, The (2004)",7,False,-P10D
+movie titan a.e. 8 -1h,movie,Titan A.E.,8,False,-PT1H
+"watched reader, the 3.5 stars favorite -14d",movie,"Reader, The",7,True,-P14D
+watched blown away 8 15 days ago,movie,Blown Away,8,False,-P15D
+film pitch black 4 stars favourite,movie,Pitch Black,8,True,PT0M
+movie safe (2012) 8/10 11 hours ago,movie,Safe (2012),8,False,-PT11H
+movie birdman: or (the unexpected virtue of ignorance) 9/10 6h ago,movie,Birdman: Or (The Unexpected Virtue of Ignorance),9,False,-PT6H
+movie ¡three amigos! 5 stars,movie,¡Three Amigos!,10,False,PT0M
+"watched adventures of priscilla, queen of the desert, the 6 heart",movie,"Adventures of Priscilla, Queen of the Desert, The",6,True,PT0M
+"movie remains of the day, the 10",movie,"Remains of the Day, The",10,False,PT0M
+film dirty dancing 4.5 stars favorite,movie,Dirty Dancing,9,True,PT0M
+film zero effect 8/10 14d ago,movie,Zero Effect,8,False,-P14D
+"saw help, the 4 stars",movie,"Help, The",8,False,PT0M
+saw gandhi 6,movie,Gandhi,6,False,PT0M
+film only lovers left alive 10/10,movie,Only Lovers Left Alive,10,False,PT0M
+film sabrina (1995) 3 stars,movie,Sabrina (1995),6,False,PT0M
+"film green mile, the 4 stars favourite",movie,"Green Mile, The",8,True,PT0M
+"movie hurricane, the 3 stars",movie,"Hurricane, The",6,False,PT0M
+watched monsters university 4 stars,movie,Monsters University,8,False,PT0M
+"watched da vinci code, the 6/10 6d ago",movie,"Da Vinci Code, The",6,False,-P6D
+film road to perdition 8,movie,Road to Perdition,8,False,PT0M
+"movie producers, the (1968) 4.5 stars",movie,"Producers, The (1968)",9,False,PT0M
+film state property 2 1.5 stars -26d,movie,State Property 2,3,False,-P26D
+saw blue crush 6,movie,Blue Crush,6,False,PT0M
+watched thirty-two short films about glenn gould 4 stars,movie,Thirty-Two Short Films About Glenn Gould,8,False,PT0M
+watched dumbo 7/10,movie,Dumbo,7,False,PT0M
+saw goldfinger 6 8 days ago,movie,Goldfinger,6,False,-P8D
+"film last king of scotland, the 10",movie,"Last King of Scotland, The",10,False,PT0M
+"movie cell, the 7 favourite",movie,"Cell, The",7,True,PT0M
+film monty python's the meaning of life 6 15d ago,movie,Monty Python's The Meaning of Life,6,False,-P15D
+movie there's something about mary 6 8d ago,movie,There's Something About Mary,6,False,-P8D
+saw dumbo 5 stars -1h,movie,Dumbo,10,False,-PT1H
+movie pocahontas 9,movie,Pocahontas,9,False,PT0M
+film 101 dalmatians 5/10,movie,101 Dalmatians,5,False,PT0M
+watched planet of the apes (1968) 5 stars 3d ago,movie,Planet of the Apes (1968),10,False,-P3D
+movie four weddings and a funeral 5 18 days ago,movie,Four Weddings and a Funeral,5,False,-P18D
+film 2001: a space odyssey 8/10 21d ago,movie,2001: A Space Odyssey,8,False,-P21D
+saw cat ballou 6/10,movie,Cat Ballou,6,False,PT0M
+saw 12 years a slave 4.5 stars fav,movie,12 Years a Slave,9,True,PT0M
+movie x-men: the last stand 2.5 stars,movie,X-Men: The Last Stand,5,False,PT0M
+saw night at the museum 4 stars 22 hours ago,movie,Night at the Museum,8,False,-PT22H
+film bend it like beckham 2 stars,movie,Bend It Like Beckham,4,False,PT0M
+film leaving las vegas 2/10,movie,Leaving Las Vegas,2,False,PT0M
+"watched matrix revolutions, the 3.5 stars",movie,"Matrix Revolutions, The",7,False,PT0M
+"saw notorious bettie page, the 6 13h ago",movie,"Notorious Bettie Page, The",6,False,-PT13H
+movie cool runnings 6/10,movie,Cool Runnings,6,False,PT0M
+saw american beauty 8/10 fav 2 hours ago,movie,American Beauty,8,True,-PT2H
+watched lawrence of arabia 10/10,movie,Lawrence of Arabia,10,False,PT0M
+film sleepless in seattle 3 stars favorite,movie,Sleepless in Seattle,6,True,PT0M
+film easy a 4 stars 8 hours ago,movie,Easy A,8,False,-PT8H
+saw citizen ruth 3 stars,movie,Citizen Ruth,6,False,PT0M
+"movie people vs. larry flynt, the 4 stars fav",movie,"People vs. Larry Flynt, The",8,True,PT0M
+saw encino man 4,movie,Encino Man,4,False,PT0M
+saw wet hot american summer 5 stars 29 days ago,movie,Wet Hot American Summer,10,False,-P29D
+"watched thomas crown affair, the (1999) 6",movie,"Thomas Crown Affair, The (1999)",6,False,PT0M
+watched mamma mia! 2 stars,movie,Mamma Mia!,4,False,PT0M
+watched alien 5 stars,movie,Alien,10,False,PT0M
+watched limitless 6,movie,Limitless,6,False,PT0M
+watched sabrina (1995) 4 stars,movie,Sabrina (1995),8,False,PT0M
+film wayne's world 6 14h ago,movie,Wayne's World,6,False,-PT14H
+movie deadpool 9 17 days ago,movie,Deadpool,9,False,-P17D
+"film first beautiful thing, the (la prima cosa bella) 8/10",movie,"First Beautiful Thing, The (La prima cosa bella)",8,False,PT0M
+saw white men can't jump 3 stars,movie,White Men Can't Jump,6,False,PT0M
+watched swiss army man 4 stars 25 days ago,movie,Swiss Army Man,8,False,-P25D
+"watched simpsons: the longest daycare, the 9/10 9 days ago",movie,"Simpsons: The Longest Daycare, The",9,False,-P9D
+watched six degrees of separation 6/10,movie,Six Degrees of Separation,6,False,PT0M
+watched hidden figures 8 -22h,movie,Hidden Figures,8,False,-PT22H
+watched big top pee-wee 2 stars,movie,Big Top Pee-Wee,4,False,PT0M
+saw rise of the planet of the apes 0.5 stars,movie,Rise of the Planet of the Apes,1,False,PT0M
+saw collateral 7/10 favorite,movie,Collateral,7,True,PT0M
+movie close range 3 stars 12d ago,movie,Close Range,6,False,-P12D
+"saw rocker, the 3/10",movie,"Rocker, The",3,False,PT0M
+"saw beverly hillbillies, the 4 -12h",movie,"Beverly Hillbillies, The",4,False,-PT12H
+film envy 6 -15d,movie,Envy,6,False,-P15D
+watched war of the worlds (2005) 4.5 stars,movie,War of the Worlds (2005),9,False,PT0M
+saw home alone 2: lost in new york 2,movie,Home Alone 2: Lost in New York,2,False,PT0M
+movie coco 4/10 -26d,movie,Coco,4,False,-P26D
+watched hook 7/10,movie,Hook,7,False,PT0M
+film white man's burden 6,movie,White Man's Burden,6,False,PT0M
+watched die hard: with a vengeance 4 stars,movie,Die Hard: With a Vengeance,8,False,PT0M
+movie into the wild 3.5 stars,movie,Into the Wild,7,False,PT0M
+movie deep blue sea 4 stars,movie,Deep Blue Sea,8,False,PT0M
+"saw babysitter, the 6/10",movie,"Babysitter, The",6,False,PT0M
+film django unchained 10/10,movie,Django Unchained,10,False,PT0M
+watched troll 2 1 9d ago,movie,Troll 2,1,False,-P9D
+movie 3:10 to yuma (2007) 10,movie,3:10 to Yuma (2007),10,False,PT0M
+saw monty python's the meaning of life 5 stars,movie,Monty Python's The Meaning of Life,10,False,PT0M
+movie strictly ballroom 2 stars fav -4d,movie,Strictly Ballroom,4,True,-P4D
+watched teenage mutant ninja turtles iii 5/10,movie,Teenage Mutant Ninja Turtles III,5,False,PT0M
+film end of days 7,movie,End of Days,7,False,PT0M
+"movie mighty ducks, the 8",movie,"Mighty Ducks, The",8,False,PT0M
+watched pi 7 fav,movie,Pi,7,True,PT0M
+saw jungle2jungle (a.k.a. jungle 2 jungle) 2 stars,movie,Jungle2Jungle (a.k.a. Jungle 2 Jungle),4,False,PT0M
+"watched princess bride, the 8",movie,"Princess Bride, The",8,False,PT0M
+"film quiet man, the 2 stars",movie,"Quiet Man, The",4,False,PT0M
+"movie hunchback of notre dame, the (1996) 8/10",movie,"Hunchback of Notre Dame, The (1996)",8,False,PT0M
+saw bones 1 star 6 days ago,movie,Bones,2,False,-P6D
+watched 8 1/2 (8½) 6/10,movie,8 1/2 (8½),6,False,PT0M
+watched waking ned devine (a.k.a. waking ned) 8/10,movie,Waking Ned Devine (a.k.a. Waking Ned),8,False,PT0M
+movie 28 days later 3.5 stars,movie,28 Days Later,7,False,PT0M
+"saw boys from brazil, the 3 stars",movie,"Boys from Brazil, The",6,False,PT0M
+film waitress 3.5 stars favourite,movie,Waitress,7,True,PT0M
+movie cool hand luke 6 22h ago,movie,Cool Hand Luke,6,False,-PT22H
+film manhattan 7 -13d,movie,Manhattan,7,False,-P13D
+watched hocus pocus 6,movie,Hocus Pocus,6,False,PT0M
+"saw amelie (fabuleux destin d'amélie poulain, le) 10/10 -8h",movie,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",10,False,-PT8H
+saw babe 10/10,movie,Babe,10,False,PT0M
+"saw mask, the 2",movie,"Mask, The",2,False,PT0M
+"movie avengers, the (2012) 10/10",movie,"Avengers, The (2012)",10,False,PT0M
+film ip man 2 0.5 stars,movie,Ip Man 2,1,False,PT0M
+"watched others, the 6 8d ago",movie,"Others, The",6,False,-P8D
+film harold and kumar go to white castle 4 stars,movie,Harold and Kumar Go to White Castle,8,False,PT0M
+watched paperman 5 stars,movie,Paperman,10,False,PT0M
+movie snatch 6,movie,Snatch,6,False,PT0M
+film patch adams 8/10,movie,Patch Adams,8,False,PT0M
+saw men in black (a.k.a. mib) 7/10 -6h,movie,Men in Black (a.k.a. MIB),7,False,-PT6H
+film cinderella (1950) 6 favorite,movie,Cinderella (1950),6,True,PT0M
+"movie cable guy, the 1 -3d",movie,"Cable Guy, The",1,False,-P3D
+"film silence of the lambs, the 4 stars",movie,"Silence of the Lambs, The",8,False,PT0M
+"movie truman show, the 8",movie,"Truman Show, The",8,False,PT0M
+"saw grand day out with wallace and gromit, a 8",movie,"Grand Day Out with Wallace and Gromit, A",8,False,PT0M
+"movie 40-year-old virgin, the 10/10",movie,"40-Year-Old Virgin, The",10,False,PT0M
+saw batman begins 8/10 8 hours ago,movie,Batman Begins,8,False,-PT8H
+saw showgirls 10 16 hours ago,movie,Showgirls,10,False,-PT16H
+film star trek vi: the undiscovered country 2 12 days ago,movie,Star Trek VI: The Undiscovered Country,2,False,-P12D
+watched embrace of the serpent 7/10 17d ago,movie,Embrace of the Serpent,7,False,-P17D
+watched godzilla (1998) 2 loved 15 days ago,movie,Godzilla (1998),2,True,-P15D
+watched sicario 9,movie,Sicario,9,False,PT0M
+film rain man 6,movie,Rain Man,6,False,PT0M
+movie roman holiday 3 stars 27d ago,movie,Roman Holiday,6,False,-P27D
+film grease 4 stars,movie,Grease,8,False,PT0M
+movie harry potter and the order of the phoenix 3 stars,movie,Harry Potter and the Order of the Phoenix,6,False,PT0M
+movie legally blonde 7,movie,Legally Blonde,7,False,PT0M
+watched alien 8,movie,Alien,8,False,PT0M
+movie american history x 4 stars favorite -19h,movie,American History X,8,True,-PT19H
+watched the lego movie 5 stars 20d ago,movie,The Lego Movie,10,False,-P20D
+saw dances with wolves 2 stars,movie,Dances with Wolves,4,False,PT0M
+"movie animal, the 4/10 9 days ago",movie,"Animal, The",4,False,-P9D
+saw boxing helena 1 star -21d,movie,Boxing Helena,2,False,-P21D
+film blackbeard's ghost 6 favourite,movie,Blackbeard's Ghost,6,True,PT0M
+film 22 jump street 4 stars,movie,22 Jump Street,8,False,PT0M
+watched aladdin 9/10 favourite,movie,Aladdin,9,True,PT0M
+film guess who 3/10 favourite -9h,movie,Guess Who,3,True,-PT9H
+movie ghost 4,movie,Ghost,4,False,PT0M
+watched mission: impossible ii 8,movie,Mission: Impossible II,8,False,PT0M
+saw midnight in paris 6/10 favorite,movie,Midnight in Paris,6,True,PT0M
+movie babel 6/10,movie,Babel,6,False,PT0M
+film lost highway 4/10,movie,Lost Highway,4,False,PT0M
+film boomerang 2 stars -5h,movie,Boomerang,4,False,-PT5H
+movie lost in la mancha 6/10,movie,Lost in La Mancha,6,False,PT0M
+saw star wars: episode i - the phantom menace 3 stars,movie,Star Wars: Episode I - The Phantom Menace,6,False,PT0M
+film multiplicity 3 stars,movie,Multiplicity,6,False,PT0M
+"film magnificent seven, the 3.5 stars",movie,"Magnificent Seven, The",7,False,PT0M
+"watched family man, the 6/10 favourite",movie,"Family Man, The",6,True,PT0M
+movie juno 8,movie,Juno,8,False,PT0M
+saw 101 dalmatians 6/10,movie,101 Dalmatians,6,False,PT0M
+saw l.a. confidential 4.5 stars,movie,L.A. Confidential,9,False,PT0M
+film scary movie 2 1/10 loved 8d ago,movie,Scary Movie 2,1,True,-P8D
+saw spider-man 2 4 stars heart 14 days ago,movie,Spider-Man 2,8,True,-P14D
+watched lord of war 2.5 stars,movie,Lord of War,5,False,PT0M
+"movie maltese falcon, the 5 stars",movie,"Maltese Falcon, The",10,False,PT0M
+"saw perfect storm, the 4 stars 12h ago",movie,"Perfect Storm, The",8,False,-PT12H
+watched better off dead... 10,movie,Better Off Dead...,10,False,PT0M
+movie for love of the game 4/10 -17h,movie,For Love of the Game,4,False,-PT17H
+"film cable guy, the 6/10",movie,"Cable Guy, The",6,False,PT0M
+"saw out-of-towners, the 4 8h ago",movie,"Out-of-Towners, The",4,False,-PT8H
+movie highlander 5 stars,movie,Highlander,10,False,PT0M
+watched bridesmaids 8/10,movie,Bridesmaids,8,False,PT0M
+film donnie brasco 7/10 5 days ago,movie,Donnie Brasco,7,False,-P5D
+movie jeepers creepers 3 stars,movie,Jeepers Creepers,6,False,PT0M
+saw manhattan 6 -21d,movie,Manhattan,6,False,-P21D
+film bone tomahawk 4.5 stars -20d,movie,Bone Tomahawk,9,False,-P20D
+saw in the name of the father 6/10 10 hours ago,movie,In the Name of the Father,6,False,-PT10H
+watched halloween (1978) 5 stars -15h,movie,Halloween (1978),10,False,-PT15H
+watched jurassic park 5 stars 26d ago,movie,Jurassic Park,10,False,-P26D
+saw lost highway 1/10 17h ago,movie,Lost Highway,1,False,-PT17H
+saw get shorty 6 24 days ago,movie,Get Shorty,6,False,-P24D
+"watched grifters, the 5 stars loved",movie,"Grifters, The",10,True,PT0M
+"film river runs through it, a 10 -7d",movie,"River Runs Through It, A",10,False,-P7D
+watched babe 1 star 8 hours ago,movie,Babe,2,False,-PT8H
+watched road trip 7/10 6 days ago,movie,Road Trip,7,False,-P6D
+"saw birdcage, the 2 stars",movie,"Birdcage, The",4,False,PT0M
+movie abbott and costello meet frankenstein 7 2 hours ago,movie,Abbott and Costello Meet Frankenstein,7,False,-PT2H
+movie my neighbor totoro (tonari no totoro) 5 stars favorite 10h ago,movie,My Neighbor Totoro (Tonari no Totoro),10,True,-PT10H
+saw last man standing 6,movie,Last Man Standing,6,False,PT0M
+film bruce almighty 2 stars,movie,Bruce Almighty,4,False,PT0M
+saw stigmata 10/10,movie,Stigmata,10,False,PT0M
+film schindler's list 5 29d ago,movie,Schindler's List,5,False,-P29D
+"film knight's tale, a 6/10",movie,"Knight's Tale, A",6,False,PT0M
+"movie talented mr. ripley, the 8",movie,"Talented Mr. Ripley, The",8,False,PT0M
+movie snatch 10,movie,Snatch,10,False,PT0M
+"movie 40-year-old virgin, the 6 favorite",movie,"40-Year-Old Virgin, The",6,True,PT0M
+movie on her majesty's secret service 4 stars fav 5 hours ago,movie,On Her Majesty's Secret Service,8,True,-PT5H
+"film limey, the 5 9h ago",movie,"Limey, The",5,False,-PT9H
+movie enigma 5/10 favourite 30 days ago,movie,Enigma,5,True,-P30D
+movie lilo & stitch 4.5 stars -12h,movie,Lilo & Stitch,9,False,-PT12H
+watched o.j.: made in america 9/10 -13d,movie,O.J.: Made in America,9,False,-P13D
+"watched godfather: part ii, the 8 11d ago",movie,"Godfather: Part II, The",8,False,-P11D
+saw prince of persia: the sands of time 4 stars 14h ago,movie,Prince of Persia: The Sands of Time,8,False,-PT14H
+"film downfall (untergang, der) 7/10 2h ago",movie,"Downfall (Untergang, Der)",7,False,-PT2H
+movie death proof 3.5 stars 19 days ago,movie,Death Proof,7,False,-P19D
+watched spriggan (supurigan) 7,movie,Spriggan (Supurigan),7,False,PT0M
+saw rocket singh: salesman of the year 4 stars,movie,Rocket Singh: Salesman of the Year,8,False,PT0M
+"movie firm, the (1993) 6/10",movie,"Firm, The (1993)",6,False,PT0M
+film pearl harbor 7,movie,Pearl Harbor,7,False,PT0M
+film spanglish 2 stars heart,movie,Spanglish,4,True,PT0M
+film snow white and the seven dwarfs 10/10 fav 1h ago,movie,Snow White and the Seven Dwarfs,10,True,-PT1H
+watched sneakers 3 stars,movie,Sneakers,6,False,PT0M
+film f/x 3 stars -29d,movie,F/X,6,False,-P29D
+film ace ventura: when nature calls 7/10,movie,Ace Ventura: When Nature Calls,7,False,PT0M
+film the legend of tarzan 2 stars loved 21 days ago,movie,The Legend of Tarzan,4,True,-P21D
+movie godzilla (2014) 3.5 stars,movie,Godzilla (2014),7,False,PT0M
+watched twelve monkeys (a.k.a. 12 monkeys) 10,movie,Twelve Monkeys (a.k.a. 12 Monkeys),10,False,PT0M
+"movie ladykillers, the (2004) 0.5 stars",movie,"Ladykillers, The (2004)",1,False,PT0M
+film thx 1138 9/10,movie,THX 1138,9,False,PT0M
+film bikini beach 1 star favourite -18h,movie,Bikini Beach,2,True,-PT18H
+saw star trek: first contact 6/10,movie,Star Trek: First Contact,6,False,PT0M
+watched monty python and the holy grail 2 stars 17 hours ago,movie,Monty Python and the Holy Grail,4,False,-PT17H
+saw star trek ii: the wrath of khan 10/10 4 hours ago,movie,Star Trek II: The Wrath of Khan,10,False,-PT4H
+saw final fantasy: the spirits within 4,movie,Final Fantasy: The Spirits Within,4,False,PT0M
+movie valerian and the city of a thousand planets 4,movie,Valerian and the City of a Thousand Planets,4,False,PT0M
+"saw changeling, the 2.5 stars favorite -19h",movie,"Changeling, The",5,True,-PT19H
+film tiger raid 4,movie,Tiger Raid,4,False,PT0M
+watched children of men 1.5 stars 12 hours ago,movie,Children of Men,3,False,-PT12H
+movie dances with wolves 3.5 stars 15 days ago,movie,Dances with Wolves,7,False,-P15D
+film must love dogs 1/10,movie,Must Love Dogs,1,False,PT0M
+film twelve monkeys (a.k.a. 12 monkeys) 9/10 -14d,movie,Twelve Monkeys (a.k.a. 12 Monkeys),9,False,-P14D
+watched somewhere in time 2 stars 23 days ago,movie,Somewhere in Time,4,False,-P23D
+movie vertigo 8/10 favourite -6h,movie,Vertigo,8,True,-PT6H
+watched batman forever 6/10 -23h,movie,Batman Forever,6,False,-PT23H
+film saving private ryan 10,movie,Saving Private Ryan,10,False,PT0M
+saw talk radio 6,movie,Talk Radio,6,False,PT0M
+movie bad girls 4,movie,Bad Girls,4,False,PT0M
+movie fled 2 stars 16 days ago,movie,Fled,4,False,-P16D
+"watched perez family, the 3 stars",movie,"Perez Family, The",6,False,PT0M
+film laws of attraction 2/10,movie,Laws of Attraction,2,False,PT0M
+saw superman ii 4,movie,Superman II,4,False,PT0M
+movie chicago 8,movie,Chicago,8,False,PT0M
+saw kill bill: vol. 2 4 stars favourite,movie,Kill Bill: Vol. 2,8,True,PT0M
+"movie world's end, the 4 stars",movie,"World's End, The",8,False,PT0M
+watched on the waterfront 9 fav,movie,On the Waterfront,9,True,PT0M
+movie hide and seek 2,movie,Hide and Seek,2,False,PT0M
+movie along came a spider 3 stars,movie,Along Came a Spider,6,False,PT0M
+movie my blue heaven 3 stars 2 days ago,movie,My Blue Heaven,6,False,-P2D
+saw garden state 2 stars,movie,Garden State,4,False,PT0M
+watched moulin rouge 10 favourite 23h ago,movie,Moulin Rouge,10,True,-PT23H
+film shakespeare in love 2/10,movie,Shakespeare in Love,2,False,PT0M
+film guess who's coming to dinner 5 stars,movie,Guess Who's Coming to Dinner,10,False,PT0M
+watched hairspray (1988) 3 stars -19d,movie,Hairspray (1988),6,False,-P19D
+movie paul blart: mall cop 2 3.5 stars 7h ago,movie,Paul Blart: Mall Cop 2,7,False,-PT7H
+film drowning mona 4/10,movie,Drowning Mona,4,False,PT0M
+movie 3:10 to yuma (2007) 3 stars heart,movie,3:10 to Yuma (2007),6,True,PT0M
+movie wayne's world 5/10,movie,Wayne's World,5,False,PT0M
+watched von ryan's express 3.5 stars,movie,Von Ryan's Express,7,False,PT0M
+watched enemy mine 9/10,movie,Enemy Mine,9,False,PT0M
+film ip man 2 7 favorite,movie,Ip Man 2,7,True,PT0M
+watched flatliners 5/10 heart -15d,movie,Flatliners,5,True,-P15D
+saw star trek: the motion picture 3 stars -12d,movie,Star Trek: The Motion Picture,6,False,-P12D
+film across the universe 6,movie,Across the Universe,6,False,PT0M
+saw gattaca 3.5 stars heart,movie,Gattaca,7,True,PT0M
+film mission: impossible 6 4 days ago,movie,Mission: Impossible,6,False,-P4D
+"movie treasure of the sierra madre, the 10 favorite -4h",movie,"Treasure of the Sierra Madre, The",10,True,-PT4H
+saw king kong (1933) 10/10,movie,King Kong (1933),10,False,PT0M
+saw night at the museum: secret of the tomb 7/10,movie,Night at the Museum: Secret of the Tomb,7,False,PT0M
+"movie i, robot 7 21d ago",movie,"I, Robot",7,False,-P21D
+movie rumor has it... 3 stars,movie,Rumor Has It...,6,False,PT0M
+watched one flew over the cuckoo's nest 10,movie,One Flew Over the Cuckoo's Nest,10,False,PT0M
+watched boys don't cry 6/10,movie,Boys Don't Cry,6,False,PT0M
+film twister (1996) 1 star,movie,Twister (1996),2,False,PT0M
+"movie legend of bagger vance, the 3.5 stars",movie,"Legend of Bagger Vance, The",7,False,PT0M
+"film night at the opera, a 3.5 stars",movie,"Night at the Opera, A",7,False,PT0M
+film requiem for a dream 4 stars,movie,Requiem for a Dream,8,False,PT0M
+movie frozen (2013) 7/10,movie,Frozen (2013),7,False,PT0M
+"film man in the iron mask, the 8/10 22 days ago",movie,"Man in the Iron Mask, The",8,False,-P22D
+film men in black ii (a.k.a. miib) (a.k.a. mib 2) 6 fav,movie,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),6,True,PT0M
+movie goldeneye 2 stars 9 hours ago,movie,GoldenEye,4,False,-PT9H
+film local hero 4 stars 20h ago,movie,Local Hero,8,False,-PT20H
+movie hot fuzz 4.5 stars,movie,Hot Fuzz,9,False,PT0M
+"movie wizard of oz, the 8 -6h",movie,"Wizard of Oz, The",8,False,-PT6H
+"watched postman, the (postino, il) 8",movie,"Postman, The (Postino, Il)",8,False,PT0M
+movie memoirs of a geisha 3.5 stars,movie,Memoirs of a Geisha,7,False,PT0M
+"movie horse whisperer, the 7 14 days ago",movie,"Horse Whisperer, The",7,False,-P14D
+watched letters from iwo jima 7/10,movie,Letters from Iwo Jima,7,False,PT0M
+watched inception 5 stars -7d,movie,Inception,10,False,-P7D
+"watched lot like love, a 7",movie,"Lot Like Love, A",7,False,PT0M
+film varsity blues 4/10,movie,Varsity Blues,4,False,PT0M
+watched willy wonka & the chocolate factory 4 stars,movie,Willy Wonka & the Chocolate Factory,8,False,PT0M
+saw sin city 4.5 stars -10h,movie,Sin City,9,False,-PT10H
+movie land before time iii: the time of the great giving 6 -13d,movie,Land Before Time III: The Time of the Great Giving,6,False,-P13D
+watched superman 5/10,movie,Superman,5,False,PT0M
+saw billy madison 4,movie,Billy Madison,4,False,PT0M
+film a silent voice 5 stars 19d ago,movie,A Silent Voice,10,False,-P19D
+movie bowfinger 2.5 stars,movie,Bowfinger,5,False,PT0M
+"watched league of their own, a 4 stars favorite",movie,"League of Their Own, A",8,True,PT0M
+"saw amelie (fabuleux destin d'amélie poulain, le) 4.5 stars favorite",movie,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",9,True,PT0M
+watched rosemary's baby 9/10 4 hours ago,movie,Rosemary's Baby,9,False,-PT4H
+watched leave it to beaver 2 stars favourite -20h,movie,Leave It to Beaver,4,True,-PT20H
+saw moneyball 4 stars 16h ago,movie,Moneyball,8,False,-PT16H
+film sin city 10/10,movie,Sin City,10,False,PT0M
+movie mrs. doubtfire 8/10 18d ago,movie,Mrs. Doubtfire,8,False,-P18D
+watched maelström 8 16h ago,movie,Maelström,8,False,-PT16H
+movie rocky 10 favorite,movie,Rocky,10,True,PT0M
+film cliffhanger 3 stars fav 6 hours ago,movie,Cliffhanger,6,True,-PT6H
+movie total recall (1990) 10 loved,movie,Total Recall (1990),10,True,PT0M
+saw taxi driver 5 stars heart 16 hours ago,movie,Taxi Driver,10,True,-PT16H
+"film sixth sense, the 5 stars 12d ago",movie,"Sixth Sense, The",10,False,-P12D
+movie star trek: the motion picture 8 -4d,movie,Star Trek: The Motion Picture,8,False,-P4D
+film pulp fiction 8/10 loved,movie,Pulp Fiction,8,True,PT0M
+watched star wars: episode iv - a new hope 10,movie,Star Wars: Episode IV - A New Hope,10,False,PT0M
+movie good will hunting 3.5 stars favorite 16h ago,movie,Good Will Hunting,7,True,-PT16H
+movie pirates of the caribbean: on stranger tides 5 stars fav,movie,Pirates of the Caribbean: On Stranger Tides,10,True,PT0M
+watched searching for bobby fischer 6/10,movie,Searching for Bobby Fischer,6,False,PT0M
+watched jackie brown 8,movie,Jackie Brown,8,False,PT0M
+"watched color purple, the 8/10 20 days ago",movie,"Color Purple, The",8,False,-P20D
+watched spotlight 8/10,movie,Spotlight,8,False,PT0M
+movie blow 3 stars,movie,Blow,6,False,PT0M
+saw back to the future part ii 3 stars,movie,Back to the Future Part II,6,False,PT0M
+movie blazing saddles 4 stars,movie,Blazing Saddles,8,False,PT0M
+movie austin powers: the spy who shagged me 6/10,movie,Austin Powers: The Spy Who Shagged Me,6,False,PT0M
+saw stir of echoes 8 26 days ago,movie,Stir of Echoes,8,False,-P26D
+watched chicken little 8/10,movie,Chicken Little,8,False,PT0M
+watched igby goes down 3/10 loved,movie,Igby Goes Down,3,True,PT0M
+saw oliver! 6,movie,Oliver!,6,False,PT0M
+saw unprecedented: the 2000 presidential election 7 fav 16h ago,movie,Unprecedented: The 2000 Presidential Election,7,True,-PT16H
+saw home alone 2: lost in new york 10,movie,Home Alone 2: Lost in New York,10,False,PT0M
+"saw last dragon, the 1 star",movie,"Last Dragon, The",2,False,PT0M
+watched dangerous minds 4/10,movie,Dangerous Minds,4,False,PT0M
+"film godzilla, king of the monsters! (kaijû-ô gojira) 6/10",movie,"Godzilla, King of the Monsters! (Kaijû-ô Gojira)",6,False,PT0M
+movie olympus has fallen 7/10,movie,Olympus Has Fallen,7,False,PT0M
+"film new world, the 3 stars",movie,"New World, The",6,False,PT0M
+film saving private ryan 8 -20d,movie,Saving Private Ryan,8,False,-P20D
+film thursday 8/10 6h ago,movie,Thursday,8,False,-PT6H
+"watched blues brothers, the 10/10 3d ago",movie,"Blues Brothers, The",10,False,-P3D
+watched heat 7/10,movie,Heat,7,False,PT0M
+saw robin hood (1973) 6 23d ago,movie,Robin Hood (1973),6,False,-P23D
+film happy gilmore 4 stars,movie,Happy Gilmore,8,False,PT0M
+movie ghostbusters ii 8,movie,Ghostbusters II,8,False,PT0M
+film stan helsing 2/10 -25d,movie,Stan Helsing,2,False,-P25D
+movie desperado 10,movie,Desperado,10,False,PT0M
+watched 42nd street 10/10 loved,movie,42nd Street,10,True,PT0M
+"movie big lebowski, the 1 star 11h ago",movie,"Big Lebowski, The",2,False,-PT11H
+movie far from heaven 2.5 stars,movie,Far from Heaven,5,False,PT0M
+movie following 3.5 stars,movie,Following,7,False,PT0M
+"movie big blue, the (grand bleu, le) 6/10 12d ago",movie,"Big Blue, The (Grand bleu, Le)",6,False,-P12D
+film tremors ii: aftershocks 7 -22d,movie,Tremors II: Aftershocks,7,False,-P22D
+saw bridget jones: the edge of reason 6/10,movie,Bridget Jones: The Edge of Reason,6,False,PT0M
+"movie mummy, the (1999) 1",movie,"Mummy, The (1999)",1,False,PT0M
+"movie graduate, the 3 stars 12 hours ago",movie,"Graduate, The",6,False,-PT12H
+saw twelfth night 3 stars loved,movie,Twelfth Night,6,True,PT0M
+film red 6/10,movie,Red,6,False,PT0M
+film teenage mutant ninja turtles ii: the secret of the ooze 2,movie,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,2,False,PT0M
+movie my favorite martian 6/10,movie,My Favorite Martian,6,False,PT0M
+saw animal crackers 4 stars,movie,Animal Crackers,8,False,PT0M
+movie bananas 7/10,movie,Bananas,7,False,PT0M
+saw ace ventura: pet detective 5 stars -1h,movie,Ace Ventura: Pet Detective,10,False,-PT1H
+movie yojimbo 4.5 stars favourite,movie,Yojimbo,9,True,PT0M
+movie midnight in paris 7/10,movie,Midnight in Paris,7,False,PT0M
+watched little shop of horrors 6 heart,movie,Little Shop of Horrors,6,True,PT0M
+film sunset blvd. (a.k.a. sunset boulevard) 5 stars,movie,Sunset Blvd. (a.k.a. Sunset Boulevard),10,False,PT0M
+film mighty morphin power rangers: the movie 1 star,movie,Mighty Morphin Power Rangers: The Movie,2,False,PT0M
+watched team america: world police 3 stars favorite,movie,Team America: World Police,6,True,PT0M
+movie risky business 3.5 stars favourite,movie,Risky Business,7,True,PT0M
+"saw life aquatic with steve zissou, the 10",movie,"Life Aquatic with Steve Zissou, The",10,False,PT0M
+film love actually 7 28d ago,movie,Love Actually,7,False,-P28D
+"watched book of eli, the 7",movie,"Book of Eli, The",7,False,PT0M
+"watched paper, the 4 stars",movie,"Paper, The",8,False,PT0M
+film back to the future 10/10,movie,Back to the Future,10,False,PT0M
+watched independence day (a.k.a. id4) 8/10,movie,Independence Day (a.k.a. ID4),8,False,PT0M
+movie stargate 2 stars favourite,movie,Stargate,4,True,PT0M
+saw quiz show 6/10,movie,Quiz Show,6,False,PT0M
+"film godfather: part iii, the 8/10",movie,"Godfather: Part III, The",8,False,PT0M
+"movie magdalene sisters, the 10/10 -8d",movie,"Magdalene Sisters, The",10,False,-P8D
+watched notorious (1946) 8,movie,Notorious (1946),8,False,PT0M
+saw x-men origins: wolverine 0.5 stars,movie,X-Men Origins: Wolverine,1,False,PT0M
+film faces of death 2 stars 9 days ago,movie,Faces of Death,4,False,-P9D
+movie up in the air 7,movie,Up in the Air,7,False,PT0M
+"film manchurian candidate, the (1962) 4 stars",movie,"Manchurian Candidate, The (1962)",8,False,PT0M
+saw ed wood 5 stars,movie,Ed Wood,10,False,PT0M
+saw u.s. marshals 3 stars,movie,U.S. Marshals,6,False,PT0M
+watched catwoman 3 7h ago,movie,Catwoman,3,False,-PT7H
+movie tracers 2,movie,Tracers,2,False,PT0M
+saw austin powers in goldmember 4/10 16 hours ago,movie,Austin Powers in Goldmember,4,False,-PT16H
+saw stargate 4 stars fav,movie,Stargate,8,True,PT0M
+"watched great dictator, the 4.5 stars -11d",movie,"Great Dictator, The",9,False,-P11D
+"watched birdcage, the 10 -18d",movie,"Birdcage, The",10,False,-P18D
+watched turbo kid 8/10,movie,Turbo Kid,8,False,PT0M
+saw goldeneye 3.5 stars,movie,GoldenEye,7,False,PT0M
+movie bottle rocket 8/10 8 hours ago,movie,Bottle Rocket,8,False,-PT8H
+"watched hard day's night, a 10",movie,"Hard Day's Night, A",10,False,PT0M
+"saw fugitive, the (1993) 4.5 stars",movie,"Fugitive, The (1993)",9,False,PT0M
+watched orange county 3 stars favourite,movie,Orange County,6,True,PT0M
+watched toys 3 stars,movie,Toys,6,False,PT0M
+"movie godfather: part ii, the 10/10 19h ago",movie,"Godfather: Part II, The",10,False,-PT19H
+"saw touch of zen, a (xia nu) 4.5 stars heart",movie,"Touch of Zen, A (Xia nu)",9,True,PT0M
+"watched da vinci code, the 5/10",movie,"Da Vinci Code, The",5,False,PT0M
+movie frost/nixon 4 stars,movie,Frost/Nixon,8,False,PT0M
+saw star trek v: the final frontier 8,movie,Star Trek V: The Final Frontier,8,False,PT0M
+movie about last night... 3 stars 20h ago,movie,About Last Night...,6,False,-PT20H
+saw rounders 2 stars -11h,movie,Rounders,4,False,-PT11H
+film bio-dome 7,movie,Bio-Dome,7,False,PT0M
+watched disclosure 6 8d ago,movie,Disclosure,6,False,-P8D
+movie in bruges 9/10,movie,In Bruges,9,False,PT0M
+novel all-of-a-kind family 5 stars,book,All-of-a-Kind Family,10,False,PT0M
+finished the memory keeper's daughter 3 stars,book,The Memory Keeper's Daughter,6,False,PT0M
+book hatchet 4 stars,book,Hatchet,8,False,PT0M
+book ella enchanted 3 stars,book,Ella Enchanted,6,False,PT0M
+novel the gunslinger 5 stars loved,book,The Gunslinger,10,True,PT0M
+read the brethren 3 stars,book,The Brethren,6,False,PT0M
+finished little house in the big woods 8,book,Little House in the Big Woods,8,False,PT0M
+read martin the warrior 5 stars,book,Martin the Warrior,10,False,PT0M
+finished the brief wondrous life of oscar wao 8/10,book,The Brief Wondrous Life of Oscar Wao,8,False,PT0M
+finished the kite runner 5 stars 2h ago,book,The Kite Runner,10,False,-PT2H
+novel a canticle for leibowitz 2 stars,book,A Canticle for Leibowitz,4,False,PT0M
+novel devil in winter 4 stars 17h ago,book,Devil in Winter,8,False,-PT17H
+read the hobbit 3 stars,book,The Hobbit,6,False,PT0M
+finished in the miso soup 8 loved,book,In the Miso Soup,8,True,PT0M
+finished the ocean at the end of the lane 8,book,The Ocean at the End of the Lane,8,False,PT0M
+novel the metamorphosis 4 stars -2h,book,The Metamorphosis,8,False,-PT2H
+"book will grayson, will grayson 6",book,"Will Grayson, Will Grayson",6,False,PT0M
+book different seasons 5 stars,book,Different Seasons,10,False,PT0M
+read the book of laughter and forgetting 3 stars fav 14h ago,book,The Book of Laughter and Forgetting,6,True,-PT14H
+book the alchemist 5 stars fav,book,The Alchemist,10,True,PT0M
+read the merchant of death 6 4d ago,book,The Merchant of Death,6,False,-P4D
+book clockwork prince 4 stars,book,Clockwork Prince,8,False,PT0M
+book the harry potter collection 1-4 10/10,book,The Harry Potter Collection 1-4,10,False,PT0M
+novel the picture of dorian gray 6 6 hours ago,book,The Picture of Dorian Gray,6,False,-PT6H
+finished echo burning 4 stars 24d ago,book,Echo Burning,8,False,-P24D
+book love in the time of cholera 5 stars -15d,book,Love in the Time of Cholera,10,False,-P15D
+novel the lake house 5 stars,book,The Lake House,10,False,PT0M
+book it ends with us 4 stars,book,It Ends with Us,8,False,PT0M
+book the catcher in the rye 2 stars fav,book,The Catcher in the Rye,4,True,PT0M
+book delirium 3 stars,book,Delirium,6,False,PT0M
+finished twenty thousand leagues under the sea 10 3d ago,book,Twenty Thousand Leagues Under the Sea,10,False,-P3D
+novel swamplandia! 4,book,Swamplandia!,4,False,PT0M
+novel rome 10 -10h,book,Rome,10,False,-PT10H
+novel a long way down 10 23 days ago,book,A Long Way Down,10,False,-P23D
+book the hitchhiker's guide to the galaxy 10/10 6 days ago,book,The Hitchhiker's Guide to the Galaxy,10,False,-P6D
+novel curious george 10/10 -21d,book,Curious George,10,False,-P21D
+finished anna and the french kiss 4 stars 27 days ago,book,Anna and the French Kiss,8,False,-P27D
+book the house of the spirits 3 stars,book,The House of the Spirits,6,False,PT0M
+novel the book of life 5 stars favorite -23h,book,The Book of Life,10,True,-PT23H
+novel replay 10,book,Replay,10,False,PT0M
+read this is how you lose her 4 stars,book,This Is How You Lose Her,8,False,PT0M
+finished the saggy baggy elephant (a little golden book) 6 23 hours ago,book,The Saggy Baggy Elephant (A Little Golden Book),6,False,-PT23H
+novel the communist manifesto 6/10 favorite,book,The Communist Manifesto,6,True,PT0M
+novel the testament 6/10,book,The Testament,6,False,PT0M
+novel the nightingale 10,book,The Nightingale,10,False,PT0M
+read descent 4 stars ye,book,Descent,8,False,-P1D
+book the air he breathes 10/10,book,The Air He Breathes,10,False,PT0M
+novel house of leaves 3 stars 17 hours ago,book,House of Leaves,6,False,-PT17H
+book the catcher in the rye 10/10,book,The Catcher in the Rye,10,False,PT0M
+book a game of thrones 4 stars,book,A Game of Thrones,8,False,PT0M
+book the dead-tossed waves 2 stars,book,The Dead-Tossed Waves,4,False,PT0M
+novel out of the silent planet 10/10 -6h,book,Out of the Silent Planet,10,False,-PT6H
+book the aeronaut's windlass 8 14d ago,book,The Aeronaut's Windlass,8,False,-P14D
+finished the new drawing on the right side of the brain 3 stars,book,The New Drawing on the Right Side of the Brain,6,False,PT0M
+finished my horizontal life: a collection of one-night stands 2 stars -1h,book,My Horizontal Life: A Collection of One-Night Stands,4,False,-PT1H
+novel no country for old men 8,book,No Country for Old Men,8,False,PT0M
+book slaughterhouse-five 10/10,book,Slaughterhouse-Five,10,False,PT0M
+read the night before christmas 10/10,book,The Night Before Christmas,10,False,PT0M
+finished harry potter and the goblet of fire 10/10 fav,book,Harry Potter and the Goblet of Fire,10,True,PT0M
+book dreaming of you 8/10,book,Dreaming of You,8,False,PT0M
+book the amityville horror 2 stars 15 days ago,book,The Amityville Horror,4,False,-P15D
+finished the lies of locke lamora 4 stars heart,book,The Lies of Locke Lamora,8,True,PT0M
+finished peter pan 8,book,Peter Pan,8,False,PT0M
+book circus of the damned 4 stars,book,Circus of the Damned,8,False,PT0M
+book the art of racing in the rain 5 stars,book,The Art of Racing in the Rain,10,False,PT0M
+novel mr. maybe 3 stars 21h ago,book,Mr. Maybe,6,False,-PT21H
+finished mistral's kiss 3 stars,book,Mistral's Kiss,6,False,PT0M
+finished gilead 3 stars,book,Gilead,6,False,PT0M
+finished secrets of the dragon sanctuary 4 stars,book,Secrets of the Dragon Sanctuary,8,False,PT0M
+read persuasion 8/10 -16h,book,Persuasion,8,False,-PT16H
+read the fellowship of the ring 10/10 -18h,book,The Fellowship of the Ring,10,False,-PT18H
+read be here now 3 stars 18 hours ago,book,Be Here Now,6,False,-PT18H
+book little women 4,book,Little Women,4,False,PT0M
+read existence 8/10,book,Existence,8,False,PT0M
+read the samurai's garden 2 fav -27d,book,The Samurai's Garden,2,True,-P27D
+finished waiting 3 stars,book,Waiting,6,False,PT0M
+read cold mountain 5 stars 11 days ago,book,Cold Mountain,10,False,-P11D
+finished dracula 10,book,Dracula,10,False,PT0M
+read duma key 8 21 days ago,book,Duma Key,8,False,-P21D
+read curious george 4 stars loved,book,Curious George,8,True,PT0M
+finished tithe 10/10,book,Tithe,10,False,PT0M
+novel the historian 5 stars,book,The Historian,10,False,PT0M
+read the giver 3 stars favorite,book,The Giver,6,True,PT0M
+book harry potter and the order of the phoenix 4 stars 22h ago,book,Harry Potter and the Order of the Phoenix,8,False,-PT22H
+book a heartbreaking work of staggering genius 6,book,A Heartbreaking Work of Staggering Genius,6,False,PT0M
+read if tomorrow comes 8/10 -30d,book,If Tomorrow Comes,8,False,-P30D
+book emma 4/10 loved 5 days ago,book,Emma,4,True,-P5D
+read utopia 6/10 -17h,book,Utopia,6,False,-PT17H
+read harry potter and the half-blood prince 10/10,book,Harry Potter and the Half-Blood Prince,10,False,PT0M
+finished the wasp factory 6 -19h,book,The Wasp Factory,6,False,-PT19H
+finished marley and me: life and love with the world's worst dog 4 stars,book,Marley and Me: Life and Love With the World's Worst Dog,8,False,PT0M
+book a game of thrones 10/10,book,A Game of Thrones,10,False,PT0M
+read eligible: a modern retelling of pride and prejudice 10,book,Eligible: A Modern Retelling of Pride and Prejudice,10,False,PT0M
+book jurassic park 4 stars,book,Jurassic Park,8,False,PT0M
+novel cat's cradle 4 favorite,book,Cat's Cradle,4,True,PT0M
+book fathers and sons 5 stars,book,Fathers and Sons,10,False,PT0M
+finished the fault in our stars 6,book,The Fault in Our Stars,6,False,PT0M
+finished night 4 stars,book,Night,8,False,PT0M
+novel the remnant 6/10 12 hours ago,book,The Remnant,6,False,-PT12H
+novel shoeless joe 4 stars 12 hours ago,book,Shoeless Joe,8,False,-PT12H
+book paper towns 2 stars,book,Paper Towns,4,False,PT0M
+book red queen 4 stars,book,Red Queen,8,False,PT0M
+read harry potter and the deathly hallows 6,book,Harry Potter and the Deathly Hallows,6,False,PT0M
+read little earthquakes 6 favourite,book,Little Earthquakes,6,True,PT0M
+book oliver twist 3 stars,book,Oliver Twist,6,False,PT0M
+finished sandry's book 10/10,book,Sandry's Book,10,False,PT0M
+book the terminal man 4 favourite,book,The Terminal Man,4,True,PT0M
+finished a walk in the woods 10,book,A Walk in the Woods,10,False,PT0M
+book the lost prince 6/10,book,The Lost Prince,6,False,PT0M
+read the girl on the train 4 21h ago,book,The Girl on the Train,4,False,-PT21H
+novel apollyon 5 stars favorite 30d ago,book,Apollyon,10,True,-P30D
+read lock and key 4/10 29 days ago,book,Lock and Key,4,False,-P29D
+read mattimeo 6/10,book,Mattimeo,6,False,PT0M
+novel hollow city 4 stars,book,Hollow City,8,False,PT0M
+finished cat among the pigeons 3 stars,book,Cat Among the Pigeons,6,False,PT0M
+finished the alchemist 6,book,The Alchemist,6,False,PT0M
+novel the shining 10/10,book,The Shining,10,False,PT0M
+"book y: the last man, vol. 7: paper dolls 4 stars fav",book,"Y: The Last Man, Vol. 7: Paper Dolls",8,True,PT0M
+read the jungle 10/10,book,The Jungle,10,False,PT0M
+read unseen 8/10,book,Unseen,8,False,PT0M
+read catching fire 8,book,Catching Fire,8,False,PT0M
+book dune 6/10 favorite,book,Dune,6,True,PT0M
+read because of low 8 fav,book,Because of Low,8,True,PT0M
+read childhood's end 5 stars fav,book,Childhood's End,10,True,PT0M
+read the catcher in the rye 8,book,The Catcher in the Rye,8,False,PT0M
+read the great hunt 10/10 23d ago,book,The Great Hunt,10,False,-P23D
+book the diary of a young girl 3 stars,book,The Diary of a Young Girl,6,False,PT0M
+novel les misérables 5 stars,book,Les Misérables,10,False,PT0M
+book a morbid taste for bones 6/10,book,A Morbid Taste for Bones,6,False,PT0M
+finished franny and zooey 10 loved 20d ago,book,Franny and Zooey,10,True,-P20D
+finished before i go to sleep 10/10,book,Before I Go to Sleep,10,False,PT0M
+novel great expectations 5 stars,book,Great Expectations,10,False,PT0M
+book the girl with all the gifts 3 stars,book,The Girl with All the Gifts,6,False,PT0M
+novel 1st to die 6 loved,book,1st to Die,6,True,PT0M
+read shakespeare: the world as stage 4 stars,book,Shakespeare: The World as Stage,8,False,PT0M
+novel between the world and me 10 fav 15d ago,book,Between the World and Me,10,True,-P15D
+finished ugly love 5 stars,book,Ugly Love,10,False,PT0M
+finished the lorax 4 stars,book,The Lorax,8,False,PT0M
+book heart of darkness and the secret sharer 4 stars fav,book,Heart of Darkness and The Secret Sharer,8,True,PT0M
+read feet of clay 4 stars,book,Feet of Clay,8,False,PT0M
+finished the lost wife 8/10 -22h,book,The Lost Wife,8,False,-PT22H
+finished and then there were none 6/10 5d ago,book,And Then There Were None,6,False,-P5D
+read the queen of the damned 3 stars,book,The Queen of the Damned,6,False,PT0M
+finished neuromancer 3 stars,book,Neuromancer,6,False,PT0M
+read runaway 3 stars heart -25d,book,Runaway,6,True,-P25D
+book the hero with a thousand faces 6/10 heart,book,The Hero With a Thousand Faces,6,True,PT0M
+finished the kite runner 8/10 -16d,book,The Kite Runner,8,False,-P16D
+read the green mile 5 stars,book,The Green Mile,10,False,PT0M
+novel addicted 8 21 days ago,book,Addicted,8,False,-P21D
+finished atonement 5 stars,book,Atonement,10,False,PT0M
+book rebel angels 2 stars heart 10 days ago,book,Rebel Angels,4,True,-P10D
+finished gone girl 6/10 24d ago,book,Gone Girl,6,False,-P24D
+read a clash of kings 8 favorite,book,A Clash of Kings,8,True,PT0M
+finished northanger abbey 2 stars,book,Northanger Abbey,4,False,PT0M
+read the curious incident of the dog in the night-time 8/10,book,The Curious Incident of the Dog in the Night-Time,8,False,PT0M
+finished the eyre affair 10/10 fav,book,The Eyre Affair,10,True,PT0M
+finished winter moon 6/10,book,Winter Moon,6,False,PT0M
+novel enchanters' end game 4 stars,book,Enchanters' End Game,8,False,PT0M
+book the black stallion 8 loved,book,The Black Stallion,8,True,PT0M
+novel the piano teacher 4 stars,book,The Piano Teacher,8,False,PT0M
+read l.a. candy 6 -8h,book,L.A. Candy,6,False,-PT8H
+read the middlesteins 8,book,The Middlesteins,8,False,PT0M
+finished behind the scenes at the museum 5 stars favourite,book,Behind the Scenes at the Museum,10,True,PT0M
+book solaris 8/10,book,Solaris,8,False,PT0M
+novel friction 8,book,Friction,8,False,PT0M
+read wonder boys 8 24d ago,book,Wonder Boys,8,False,-P24D
+novel the golden compass 8/10 5 hours ago,book,The Golden Compass,8,False,-PT5H
+finished the princess and the goblin 10,book,The Princess and the Goblin,10,False,PT0M
+finished a thousand boy kisses 5 stars,book,A Thousand Boy Kisses,10,False,PT0M
+book the giver 5 stars 19 hours ago,book,The Giver,10,False,-PT19H
+book the circle 6 -9h,book,The Circle,6,False,-PT9H
+read monday mourning 3 stars,book,Monday Mourning,6,False,PT0M
+finished colorless tsukuru tazaki and his years of pilgrimage 4 stars,book,Colorless Tsukuru Tazaki and His Years of Pilgrimage,8,False,PT0M
+book the hitchhiker's guide to the galaxy 6 21 days ago,book,The Hitchhiker's Guide to the Galaxy,6,False,-P21D
+finished animal farm 8/10 heart,book,Animal Farm,8,True,PT0M
+finished the thorn birds 10,book,The Thorn Birds,10,False,PT0M
+finished prince caspian 5 stars loved,book,Prince Caspian,10,True,PT0M
+finished gone girl 8 fav 22 hours ago,book,Gone Girl,8,True,-PT22H
+read the diary of a young girl 4,book,The Diary of a Young Girl,4,False,PT0M
+novel shattered 1 star,book,Shattered,2,False,PT0M
+read red storm rising 8/10,book,Red Storm Rising,8,False,PT0M
+"novel in a dark, dark wood 2 stars 19d ago",book,"In a Dark, Dark Wood",4,False,-P19D
+book i know this much is true 10 1 hour ago,book,I Know This Much Is True,10,False,-PT1H
+book the amber spyglass 4 stars favorite 16h ago,book,The Amber Spyglass,8,True,-PT16H
+book half the world 8,book,Half the World,8,False,PT0M
+book crash & burn 8 -2h,book,Crash & Burn,8,False,-PT2H
+novel the confession 4 stars -19h,book,The Confession,8,False,-PT19H
+book night film 3 stars 13 days ago,book,Night Film,6,False,-P13D
+finished the sicilian 5 stars 25 days ago,book,The Sicilian,10,False,-P25D
+book disgrace 5 stars,book,Disgrace,10,False,PT0M
+finished the truth seeker 8,book,The Truth Seeker,8,False,PT0M
+read the boston girl 8,book,The Boston Girl,8,False,PT0M
+finished up country 3 stars,book,Up Country,6,False,PT0M
+finished tell the wolves i'm home 4 stars,book,Tell the Wolves I'm Home,8,False,PT0M
+novel nw 1 star 27d ago,book,NW,2,False,-P27D
+finished tinkers 4/10,book,Tinkers,4,False,PT0M
+novel flowers for algernon 5 stars favourite 22 days ago,book,Flowers for Algernon,10,True,-P22D
+novel lover awakened 5 stars,book,Lover Awakened,10,False,PT0M
+read no country for old men 6/10 14 days ago,book,No Country for Old Men,6,False,-P14D
+read the great gatsby 4 stars,book,The Great Gatsby,8,False,PT0M
+novel the lovely bones 3 stars,book,The Lovely Bones,6,False,PT0M
+read undead and unwed 4 favourite,book,Undead and Unwed,4,True,PT0M
+finished magic study 8/10 21 days ago,book,Magic Study,8,False,-P21D
+read fifty shades of grey 3 stars,book,Fifty Shades of Grey,6,False,PT0M
+finished bridget jones: the edge of reason 6 7 days ago,book,Bridget Jones: The Edge of Reason,6,False,-P7D
+read the human stain 5 stars,book,The Human Stain,10,False,PT0M
+novel digital fortress 2 stars,book,Digital Fortress,4,False,PT0M
+novel the serpent's shadow 4 stars,book,The Serpent's Shadow,8,False,PT0M
+book state of fear 3 stars,book,State of Fear,6,False,PT0M
+novel grave peril 10 -11h,book,Grave Peril,10,False,-PT11H
+read the mephisto club 3 stars loved 12h ago,book,The Mephisto Club,6,True,-PT12H
+book a wind in the door 4 stars,book,A Wind in the Door,8,False,PT0M
+read sideways stories from wayside school 10,book,Sideways Stories from Wayside School,10,False,PT0M
+novel the wrath of mulgarath 10/10,book,The Wrath of Mulgarath,10,False,PT0M
+book the catcher in the rye 3 stars,book,The Catcher in the Rye,6,False,PT0M
+finished a wrinkle in time 5 stars,book,A Wrinkle in Time,10,False,PT0M
+"read fullmetal alchemist, vol. 1 10",book,"Fullmetal Alchemist, Vol. 1",10,False,PT0M
+read wayward 5 stars 22 hours ago,book,Wayward,10,False,-PT22H
+novel harry potter: film wizardry 5 stars -23d,book,Harry Potter: Film Wizardry,10,False,-P23D
+read something blue 8/10 loved,book,Something Blue,8,True,PT0M
+book from here to eternity 5 stars favourite,book,From Here to Eternity,10,True,PT0M
+novel outlander 4 stars,book,Outlander,8,False,PT0M
+book faking it 3 stars,book,Faking It,6,False,PT0M
+book to kill a mockingbird 8,book,To Kill a Mockingbird,8,False,PT0M
+book the complete persepolis 10 fav,book,The Complete Persepolis,10,True,PT0M
+finished midnight in austenland 3 stars 27d ago,book,Midnight in Austenland,6,False,-P27D
+book sister carrie 8/10 13 hours ago,book,Sister Carrie,8,False,-PT13H
+novel the forgotten 10 26d ago,book,The Forgotten,10,False,-P26D
+novel the hunger games 10 -28d,book,The Hunger Games,10,False,-P28D
+"book ramona quimby, age 8 3 stars 18 days ago",book,"Ramona Quimby, Age 8",6,False,-P18D
+book dune 4 stars,book,Dune,8,False,PT0M
+finished mockingjay 8/10,book,Mockingjay,8,False,PT0M
+read rules of civility 4 stars,book,Rules of Civility,8,False,PT0M
+novel the 5th wave 5 stars -11h,book,The 5th Wave,10,False,-PT11H
+book hallowe'en party 4 stars,book,Hallowe'en Party,8,False,PT0M
+book who moved my cheese? 2 stars heart 10 hours ago,book,Who Moved My Cheese?,4,True,-PT10H
+read go set a watchman 8 favorite,book,Go Set a Watchman,8,True,PT0M
+finished royal assassin 5 stars,book,Royal Assassin,10,False,PT0M
+finished the odyssey 4/10 heart,book,The Odyssey,4,True,PT0M
+book cape fear 3 stars 25 days ago,book,Cape Fear,6,False,-P25D
+read a prayer for owen meany 5 stars 29d ago,book,A Prayer for Owen Meany,10,False,-P29D
+book forever in blue: the fourth summer of the sisterhood 6,book,Forever in Blue: The Fourth Summer of the Sisterhood,6,False,PT0M
+novel the sun also rises 5 stars 11h ago,book,The Sun Also Rises,10,False,-PT11H
+finished nutshell 8/10,book,Nutshell,8,False,PT0M
+novel soul of the fire 6/10,book,Soul of the Fire,6,False,PT0M
+finished ڤيرتيجو 8,book,ڤيرتيجو,8,False,PT0M
+novel vampire academy 4/10 3d ago,book,Vampire Academy,4,False,-P3D
+read the crown tower 5 stars,book,The Crown Tower,10,False,PT0M
+book where she went 10/10 loved 15 days ago,book,Where She Went,10,True,-P15D
+novel an abundance of katherines 4 stars,book,An Abundance of Katherines,8,False,PT0M
+read preludes & nocturnes 8/10,book,Preludes & Nocturnes,8,False,PT0M
+finished the book of mormon: another testament of jesus christ 1 star,book,The Book of Mormon: Another Testament of Jesus Christ,2,False,PT0M
+novel the phantom tollbooth 10/10,book,The Phantom Tollbooth,10,False,PT0M
+book the crimson campaign 4 stars,book,The Crimson Campaign,8,False,PT0M
+read the darkest kiss 8 30 days ago,book,The Darkest Kiss,8,False,-P30D
+read the summons 2 stars 4 hours ago,book,The Summons,4,False,-PT4H
+"finished nana, vol. 1 10",book,"Nana, Vol. 1",10,False,PT0M
+finished harry potter and the half-blood prince 3 stars 21h ago,book,Harry Potter and the Half-Blood Prince,6,False,-PT21H
+novel xenocide 2 stars 19h ago,book,Xenocide,4,False,-PT19H
+read the scarlet letter 4 stars heart,book,The Scarlet Letter,8,True,PT0M
+novel exodus 8 22d ago,book,Exodus,8,False,-P22D
+read down london road 3 stars 10 days ago,book,Down London Road,6,False,-P10D
+book a new earth: awakening to your life's purpose 4 stars,book,A New Earth: Awakening to Your Life's Purpose,8,False,PT0M
+finished petals on the wind 2 stars,book,Petals on the Wind,4,False,PT0M
+read sputnik sweetheart 4/10,book,Sputnik Sweetheart,4,False,PT0M
+novel the son of neptune 8,book,The Son of Neptune,8,False,PT0M
+book marvel 1602 4 stars favourite,book,Marvel 1602,8,True,PT0M
+novel fahrenheit 451 6,book,Fahrenheit 451,6,False,PT0M
+finished the body in the library 6/10,book,The Body in the Library,6,False,PT0M
+read world war z: an oral history of the zombie war 6,book,World War Z: An Oral History of the Zombie War,6,False,PT0M
+finished the titan's curse 8/10,book,The Titan's Curse,8,False,PT0M
+novel three to get deadly 3 stars 17 days ago,book,Three to Get Deadly,6,False,-P17D
+book inkdeath 6,book,Inkdeath,6,False,PT0M
+novel eclipse 8 2d ago,book,Eclipse,8,False,-P2D
+finished anne's house of dreams 6/10,book,Anne's House of Dreams,6,False,PT0M
+finished plain truth 4 stars,book,Plain Truth,8,False,PT0M
+read the secret garden 3 stars,book,The Secret Garden,6,False,PT0M
+novel the fault in our stars 10,book,The Fault in Our Stars,10,False,PT0M
+book snow falling on cedars 10,book,Snow Falling on Cedars,10,False,PT0M
+book night shift 8,book,Night Shift,8,False,PT0M
+finished brain on fire: my month of madness 2 stars,book,Brain on Fire: My Month of Madness,4,False,PT0M
+read island of the blue dolphins 8/10,book,Island of the Blue Dolphins,8,False,PT0M
+finished artemis fowl 10,book,Artemis Fowl,10,False,PT0M
+finished new moon 3 stars,book,New Moon,6,False,PT0M
+novel fang 3 stars,book,Fang,6,False,PT0M
+book things fall apart 8/10,book,Things Fall Apart,8,False,PT0M
+novel suzanne's diary for nicholas 2/10,book,Suzanne's Diary for Nicholas,2,False,PT0M
+"book the lion, the witch, and the wardrobe 6 -13h",book,"The Lion, the Witch, and the Wardrobe",6,False,-PT13H
+novel the maze runner 5 stars,book,The Maze Runner,10,False,PT0M
+novel trigger warning: short fictions and disturbances 8,book,Trigger Warning: Short Fictions and Disturbances,8,False,PT0M
+read the other boleyn girl 10,book,The Other Boleyn Girl,10,False,PT0M
+read blockade billy 4 stars,book,Blockade Billy,8,False,PT0M
+finished the last battle 4 stars,book,The Last Battle,8,False,PT0M
+finished the girl who played with fire 5 stars favourite,book,The Girl Who Played with Fire,10,True,PT0M
+novel wolfsbane 4 stars -5h,book,Wolfsbane,8,False,-PT5H
+book the gunslinger 4 stars,book,The Gunslinger,8,False,PT0M
+novel the sweetness at the bottom of the pie 5 stars 13d ago,book,The Sweetness at the Bottom of the Pie,10,False,-P13D
+book immortality 5 stars,book,Immortality,10,False,PT0M
+novel the rise of nine 4 stars,book,The Rise of Nine,8,False,PT0M
+read the woman upstairs 3 stars,book,The Woman Upstairs,6,False,PT0M
+book why evolution is true 6 6 days ago,book,Why Evolution Is True,6,False,-P6D
+novel animal farm 5 stars,book,Animal Farm,10,False,PT0M
+"finished moo, baa, la la la! 10/10",book,"Moo, Baa, La La La!",10,False,PT0M
+novel the burning room 3 stars 18d ago,book,The Burning Room,6,False,-P18D
+read bossypants 4 stars -22h,book,Bossypants,8,False,-PT22H
+read dandelion wine 8 4 days ago,book,Dandelion Wine,8,False,-P4D
+read the scrapbook of frankie pratt 8,book,The Scrapbook of Frankie Pratt,8,False,PT0M
+finished the witch of blackbird pond 10,book,The Witch of Blackbird Pond,10,False,PT0M
+read shadow and bone 8/10,book,Shadow and Bone,8,False,PT0M
+novel phantoms 3 stars heart,book,Phantoms,6,True,PT0M
+novel the empty chair 10,book,The Empty Chair,10,False,PT0M
+finished the name of the rose 6,book,The Name of the Rose,6,False,PT0M
+finished washington square 8 favorite,book,Washington Square,8,True,PT0M
+finished insomnia 8,book,Insomnia,8,False,PT0M
+novel schindler's list 5 stars,book,Schindler's List,10,False,PT0M
+finished one thousand gifts: a dare to live fully right where you are 2 stars,book,One Thousand Gifts: A Dare to Live Fully Right Where You Are,4,False,PT0M
+finished reaper's property 5 stars loved 2 days ago,book,Reaper's Property,10,True,-P2D
+novel the bfg 10,book,The BFG,10,False,PT0M
+book key of light 8/10,book,Key of Light,8,False,PT0M
+read down and out in paris and london 10/10,book,Down and Out in Paris and London,10,False,PT0M
+novel how to win friends and influence people 5 stars,book,How to Win Friends and Influence People,10,False,PT0M
+read under the dome 6/10,book,Under the Dome,6,False,PT0M
+read triptych 8 2 hours ago,book,Triptych,8,False,-PT2H
+book lord brocktree 4 stars,book,Lord Brocktree,8,False,PT0M
+read the lost hero 8/10 fav,book,The Lost Hero,8,True,PT0M
+read angels & demons 8/10 favourite,book,Angels & Demons,8,True,PT0M
+novel the sound and the fury 10/10 13 days ago,book,The Sound and the Fury,10,False,-P13D
+finished a tree grows in brooklyn 10 -11d,book,A Tree Grows in Brooklyn,10,False,-P11D
+book the legacy 10 favorite,book,The Legacy,10,True,PT0M
+read lord of the flies 5 stars fav,book,Lord of the Flies,10,True,PT0M
+read bridge of sighs 3 stars,book,Bridge of Sighs,6,False,PT0M
+finished a million little pieces 8 favorite,book,A Million Little Pieces,8,True,PT0M
+book the nanny diaries 4 stars 10 days ago,book,The Nanny Diaries,8,False,-P10D
+book daring to dream 5 stars loved,book,Daring to Dream,10,True,PT0M
+book the odyssey 10/10 -22d,book,The Odyssey,10,False,-P22D
+finished the prodigal daughter 3 stars,book,The Prodigal Daughter,6,False,PT0M
+novel daughter of the forest 3 stars 5 days ago,book,Daughter of the Forest,6,False,-P5D
+novel the heretic's daughter 6 21 hours ago,book,The Heretic's Daughter,6,False,-PT21H
+novel rosencrantz and guildenstern are dead 10,book,Rosencrantz and Guildenstern Are Dead,10,False,PT0M
+book a dirty job 8/10 20d ago,book,A Dirty Job,8,False,-P20D
+read because of winn-dixie 4 stars,book,Because of Winn-Dixie,8,False,PT0M
+finished brave new world 4 stars,book,Brave New World,8,False,PT0M
+finished the one and only ivan 5 stars,book,The One and Only Ivan,10,False,PT0M
+read the bell jar 2 stars,book,The Bell Jar,4,False,PT0M
+novel the good earth 4 stars,book,The Good Earth,8,False,PT0M
+read a thousand splendid suns 2 stars loved,book,A Thousand Splendid Suns,4,True,PT0M
+read the innocent man: murder and injustice in a small town 10 heart -5d,book,The Innocent Man: Murder and Injustice in a Small Town,10,True,-P5D
+book the sneetches and other stories 6,book,The Sneetches and Other Stories,6,False,PT0M
+book mockingjay 5 stars -12h,book,Mockingjay,10,False,-PT12H
+novel thirteen reasons why 5 stars -13h,book,Thirteen Reasons Why,10,False,-PT13H
+read all the light we cannot see 10/10,book,All the Light We Cannot See,10,False,PT0M
+book the witches 4 stars,book,The Witches,8,False,PT0M
+finished night mare 4 stars 20 hours ago,book,Night Mare,8,False,-PT20H
+finished danny the champion of the world 8/10 2 hours ago,book,Danny the Champion of the World,8,False,-PT2H
+novel m is for malice 10 6d ago,book,M is for Malice,10,False,-P6D
+finished about a boy 4 stars,book,About a Boy,8,False,PT0M
+book spells 8/10,book,Spells,8,False,PT0M
+novel the tale of despereaux 8,book,The Tale of Despereaux,8,False,PT0M
+read the art of war 4 stars loved,book,The Art of War,8,True,PT0M
+novel where the heart is 8,book,Where the Heart Is,8,False,PT0M
+read divine secrets of the ya-ya sisterhood 10,book,Divine Secrets of the Ya-Ya Sisterhood,10,False,PT0M
+book caddie woodlawn 10 -15h,book,Caddie Woodlawn,10,False,-PT15H
+finished holding the dream 8/10 12d ago,book,Holding the Dream,8,False,-P12D
+novel in a sunburned country 8/10 -5d,book,In a Sunburned Country,8,False,-P5D
+book lady windermere's fan 3 stars,book,Lady Windermere's Fan,6,False,PT0M
+book a land more kind than home 3 stars,book,A Land More Kind Than Home,6,False,PT0M
+novel marcelo in the real world 4 stars,book,Marcelo in the Real World,8,False,PT0M
+read about a boy 10,book,About a Boy,10,False,PT0M
+read holes 5 stars favourite,book,Holes,10,True,PT0M
+novel the nanny diaries 6 heart,book,The Nanny Diaries,6,True,PT0M
+finished best friends forever 4 stars loved,book,Best Friends Forever,8,True,PT0M
+read the bridges of madison county 1 star loved 17d ago,book,The Bridges of Madison County,2,True,-P17D
+book death masks 3 stars,book,Death Masks,6,False,PT0M
+novel a moveable feast 10 loved,book,A Moveable Feast,10,True,PT0M
+finished across the universe 8/10,book,Across the Universe,8,False,PT0M
+read lord of the flies 6,book,Lord of the Flies,6,False,PT0M
+finished harry potter and the prisoner of azkaban 8/10,book,Harry Potter and the Prisoner of Azkaban,8,False,PT0M
+finished the thief lord 3 stars 23d ago,book,The Thief Lord,6,False,-P23D
+read fairest 6/10 fav,book,Fairest,6,True,PT0M
+book the handmaid's tale 6/10,book,The Handmaid's Tale,6,False,PT0M
+finished unfinished tales of númenor and middle-earth 8 loved,book,Unfinished Tales of Númenor and Middle-Earth,8,True,PT0M
+novel anne of green gables 10,book,Anne of Green Gables,10,False,PT0M
+novel reconstructing amelia 10/10 10 hours ago,book,Reconstructing Amelia,10,False,-PT10H
+book the glass palace 5 stars fav,book,The Glass Palace,10,True,PT0M
+read twilight 6 favorite -8d,book,Twilight,6,True,-P8D
+read interview with the vampire 5 stars,book,Interview with the Vampire,10,False,PT0M
+book all creatures great and small 5 stars,book,All Creatures Great and Small,10,False,PT0M
+finished beautiful chaos 10 favorite,book,Beautiful Chaos,10,True,PT0M
+novel the cuckoo's calling 4 stars,book,The Cuckoo's Calling,8,False,PT0M
+"book the other wes moore: one name, two fates 3 stars 3 days ago",book,"The Other Wes Moore: One Name, Two Fates",6,False,-P3D
+read frankenstein 5 stars,book,Frankenstein,10,False,PT0M
+read running blind 8/10 -8d,book,Running Blind,8,False,-P8D
+"read come back, amelia bedelia 5 stars",book,"Come Back, Amelia Bedelia",10,False,PT0M
+read operating instructions: a journal of my son's first year 10/10,book,Operating Instructions: A Journal of My Son's First Year,10,False,PT0M
+novel landline 6/10,book,Landline,6,False,PT0M
+novel the testament of mary 5 stars,book,The Testament of Mary,10,False,PT0M
+finished the sweet gum tree 4 stars fav,book,The Sweet Gum Tree,8,True,PT0M
+book anne of the island 10/10 favorite,book,Anne of the Island,10,True,PT0M
+novel gerald's game 1 star,book,Gerald's Game,2,False,PT0M
+book a redbird christmas 5 stars favourite,book,A Redbird Christmas,10,True,PT0M
+book the voice of the night 4 stars favorite,book,The Voice of the Night,8,True,PT0M
+finished sepulchre 10/10,book,Sepulchre,10,False,PT0M
+read 11 birthdays 10,book,11 Birthdays,10,False,PT0M
+read harry potter page to screen: the complete filmmaking journey 10/10 -25d,book,Harry Potter Page to Screen: The Complete Filmmaking Journey,10,False,-P25D
+book big little lies 8,book,Big Little Lies,8,False,PT0M
+read a storm of swords 10,book,A Storm of Swords,10,False,PT0M
+book green eggs and ham 8/10,book,Green Eggs and Ham,8,False,PT0M
+novel how to build a girl 6/10,book,How to Build a Girl,6,False,PT0M
+book fever pitch 8/10,book,Fever Pitch,8,False,PT0M
+book einstein: his life and universe 10,book,Einstein: His Life and Universe,10,False,PT0M
+finished eldest 2/10,book,Eldest,2,False,PT0M
+read oliver twist 4 stars -9d,book,Oliver Twist,8,False,-P9D
+novel white oleander 6 -11d,book,White Oleander,6,False,-P11D
+novel sidetracked 5 stars,book,Sidetracked,10,False,PT0M
+read the divine comedy 10/10 4d ago,book,The Divine Comedy,10,False,-P4D
+finished the cider house rules 8,book,The Cider House Rules,8,False,PT0M
+book the hitchhiker's guide to the galaxy 8 14 days ago,book,The Hitchhiker's Guide to the Galaxy,8,False,-P14D
+finished the subtle knife 8,book,The Subtle Knife,8,False,PT0M
+finished a new earth: awakening to your life's purpose 4/10 -18h,book,A New Earth: Awakening to Your Life's Purpose,4,False,-PT18H
+read the fellowship of the ring 8/10,book,The Fellowship of the Ring,8,False,PT0M
+finished prey 8/10,book,Prey,8,False,PT0M
+book the dead in their vaulted arches 3 stars,book,The Dead in Their Vaulted Arches,6,False,PT0M
+novel aftermath 3 stars favorite,book,Aftermath,6,True,PT0M
+book song of susannah 5 stars,book,Song of Susannah,10,False,PT0M
+finished the crown conspiracy 10/10,book,The Crown Conspiracy,10,False,PT0M
+"book river, cross my heart 3 stars 1h ago",book,"River, Cross My Heart",6,False,-PT1H
+read the old man and the sea 3 stars 23h ago,book,The Old Man and the Sea,6,False,-PT23H
+read a faint cold fear 3 stars 5d ago,book,A Faint Cold Fear,6,False,-P5D
+book the gathering 2 stars loved,book,The Gathering,4,True,PT0M
+book the book thief 8 favourite,book,The Book Thief,8,True,PT0M
+read archangel's kiss 4 stars -3h,book,Archangel's Kiss,8,False,-PT3H
+finished the return of the king 10,book,The Return of the King,10,False,PT0M
+book blood rites 6 favourite 9 days ago,book,Blood Rites,6,True,-P9D
+novel all my puny sorrows 4 stars,book,All My Puny Sorrows,8,False,PT0M
+novel stiff: the curious lives of human cadavers 10/10 -7d,book,Stiff: The Curious Lives of Human Cadavers,10,False,-P7D
+book the kite runner 4 7 hours ago,book,The Kite Runner,4,False,-PT7H
+read east of eden 6/10,book,East of Eden,6,False,PT0M
+novel master and commander 10/10,book,Master and Commander,10,False,PT0M
+read the boleyn inheritance 4 stars,book,The Boleyn Inheritance,8,False,PT0M
+book the goose girl 8/10,book,The Goose Girl,8,False,PT0M
+novel the girl with the dragon tattoo 5 stars fav,book,The Girl with the Dragon Tattoo,10,True,PT0M
+read the pit and the pendulum 3 stars,book,The Pit and the Pendulum,6,False,PT0M
+finished the poisonwood bible 2/10 22d ago,book,The Poisonwood Bible,2,False,-P22D
+finished one for the money 4 stars,book,One for the Money,8,False,PT0M
+read wild: from lost to found on the pacific crest trail 4 26d ago,book,Wild: From Lost to Found on the Pacific Crest Trail,4,False,-P26D
+"finished where'd you go, bernadette 4 stars",book,"Where'd You Go, Bernadette",8,False,PT0M
+read insurgent 3 stars -10d,book,Insurgent,6,False,-P10D
+novel a time to kill 4 stars -13h,book,A Time to Kill,8,False,-PT13H
+novel something rotten 4 stars favorite -4d,book,Something Rotten,8,True,-P4D
+"finished a christmas carol, the chimes and the cricket on the hearth 10/10",book,"A Christmas Carol, The Chimes and The Cricket on the Hearth",10,False,PT0M
+read broken 10/10 16 days ago,book,Broken,10,False,-P16D
+novel betrayed 6,book,Betrayed,6,False,PT0M
+read the husband's secret 6/10,book,The Husband's Secret,6,False,PT0M
+novel flowers in the attic 4 stars,book,Flowers in the Attic,8,False,PT0M
+book the brethren 8/10 heart,book,The Brethren,8,True,PT0M
+book with the old breed: at peleliu and okinawa 5 stars,book,With the Old Breed: At Peleliu and Okinawa,10,False,PT0M
+book the berenstain bears go to school 10 loved,book,The Berenstain Bears Go to School,10,True,PT0M
+finished awakened 3 stars,book,Awakened,6,False,PT0M
+finished the host 6,book,The Host,6,False,PT0M
+book opal 4 stars 4d ago,book,Opal,8,False,-P4D
+finished the imitation of christ 6/10 favourite,book,The Imitation of Christ,6,True,PT0M
+novel island of the blue dolphins 5 stars 28 days ago,book,Island of the Blue Dolphins,10,False,-P28D
+read twilight: the complete illustrated movie companion 6/10 heart,book,Twilight: The Complete Illustrated Movie Companion,6,True,PT0M
+read رباعيات صلاح جاهين 8/10,book,رباعيات صلاح جاهين,8,False,PT0M
+read harry potter and the chamber of secrets 6,book,Harry Potter and the Chamber of Secrets,6,False,PT0M
+read one foot in the grave 10,book,One Foot in the Grave,10,False,PT0M
+novel millions of cats 10,book,Millions of Cats,10,False,PT0M
+finished momo 10/10,book,Momo,10,False,PT0M
+book private 10/10,book,Private,10,False,PT0M
+book matched 10/10,book,Matched,10,False,PT0M
+novel the golden compass 4/10,book,The Golden Compass,4,False,PT0M
+novel the phantom tollbooth 8 -5d,book,The Phantom Tollbooth,8,False,-P5D
+book the virgin suicides 8/10 9 days ago,book,The Virgin Suicides,8,False,-P9D
+book firefly lane 5 stars,book,Firefly Lane,10,False,PT0M
+novel rebecca 4 stars,book,Rebecca,8,False,PT0M
+read the consolations of philosophy 10 -13h,book,The Consolations of Philosophy,10,False,-PT13H
+finished enchantment 10/10,book,Enchantment,10,False,PT0M
+novel fantastic beasts and where to find them 3 stars,book,Fantastic Beasts and Where to Find Them,6,False,PT0M
+read masquerade 3 stars,book,Masquerade,6,False,PT0M
+novel harry potter and the goblet of fire 4 stars,book,Harry Potter and the Goblet of Fire,8,False,PT0M
+book the undomestic goddess 6/10 20h ago,book,The Undomestic Goddess,6,False,-PT20H
+book the scarlet pimpernel 6/10,book,The Scarlet Pimpernel,6,False,PT0M
+novel one hundred years of solitude 8/10,book,One Hundred Years of Solitude,8,False,PT0M
+finished crime and punishment 4/10 -16h,book,Crime and Punishment,4,False,-PT16H
+read the naked and the dead 3 stars,book,The Naked and the Dead,6,False,PT0M
+novel the omnivore's dilemma: a natural history of four meals 8/10 favourite 4d ago,book,The Omnivore's Dilemma: A Natural History of Four Meals,8,True,-P4D
+book the scarlet letter 2 stars,book,The Scarlet Letter,4,False,PT0M
+book the fault in our stars 8,book,The Fault in Our Stars,8,False,PT0M
+"book where'd you go, bernadette 6/10 11 days ago",book,"Where'd You Go, Bernadette",6,False,-P11D
+finished being nikki 6/10,book,Being Nikki,6,False,PT0M
+novel robinson crusoe 3 stars 12d ago,book,Robinson Crusoe,6,False,-P12D
+book nausea 8 fav,book,Nausea,8,True,PT0M
+read a connecticut yankee in king arthur's court 4 stars,book,A Connecticut Yankee in King Arthur's Court,8,False,PT0M
+book say goodbye 4 stars,book,Say Goodbye,8,False,PT0M
+novel outliers: the story of success 4 stars,book,Outliers: The Story of Success,8,False,PT0M
+book the ultimate hitchhiker's guide to the galaxy 10/10 heart,book,The Ultimate Hitchhiker's Guide to the Galaxy,10,True,PT0M
+read the other queen 8/10 favourite,book,The Other Queen,8,True,PT0M
+novel the princess bride 5 stars,book,The Princess Bride,10,False,PT0M
+novel the prince of tides 8,book,The Prince of Tides,8,False,PT0M
+book the drawing of the three 5 stars,book,The Drawing of the Three,10,False,PT0M
+book orphan train 4 stars favourite 12h ago,book,Orphan Train,8,True,-PT12H
+book dead until dark 6 loved 19d ago,book,Dead Until Dark,6,True,-P19D
+book the name of the wind 10/10 -7d,book,The Name of the Wind,10,False,-P7D
+finished dark places 4 stars,book,Dark Places,8,False,PT0M
+book motorcycle man 5 stars -25d,book,Motorcycle Man,10,False,-P25D
+book the one and only ivan 8,book,The One and Only Ivan,8,False,PT0M
+book wizard and glass 4,book,Wizard and Glass,4,False,PT0M
+book brother odd 6/10,book,Brother Odd,6,False,PT0M
+novel julius caesar 10/10 -25d,book,Julius Caesar,10,False,-P25D
+read one fifth avenue 3 stars,book,One Fifth Avenue,6,False,PT0M
+book the amazing adventures of kavalier & clay 5 stars 10h ago,book,The Amazing Adventures of Kavalier & Clay,10,False,-PT10H
+novel soul of the fire 8/10,book,Soul of the Fire,8,False,PT0M
+novel crossed 4 stars -21h,book,Crossed,8,False,-PT21H
+finished fast food nation: the dark side of the all-american meal 4 stars favourite 23d ago,book,Fast Food Nation: The Dark Side of the All-American Meal,8,True,-P23D
+novel outlander 6/10,book,Outlander,6,False,PT0M
+read happy accidents: a memoir 8/10 -3d,book,Happy Accidents: A Memoir,8,False,-P3D
+read shatter me 6/10,book,Shatter Me,6,False,PT0M
+novel how the grinch stole christmas! 4 stars heart,book,How the Grinch Stole Christmas!,8,True,PT0M
+novel the weird sisters 3 stars,book,The Weird Sisters,6,False,PT0M
+book the amazing adventures of kavalier & clay 6,book,The Amazing Adventures of Kavalier & Clay,6,False,PT0M
+book the bachman books 4 stars favourite,book,The Bachman Books,8,True,PT0M
+read mr. penumbra's 24-hour bookstore 10/10,book,Mr. Penumbra's 24-Hour Bookstore,10,False,PT0M
+novel of mice and men 3 stars,book,Of Mice and Men,6,False,PT0M
+book the bourne identity 4 stars 28d ago,book,The Bourne Identity,8,False,-P28D
+book ink exchange 6/10,book,Ink Exchange,6,False,PT0M
+book thus spoke zarathustra 6/10 -8d,book,Thus Spoke Zarathustra,6,False,-P8D
+read harry potter and the chamber of secrets 10/10 favourite -11h,book,Harry Potter and the Chamber of Secrets,10,True,-PT11H
+"finished moby-dick or, the whale 3 stars 4d ago",book,"Moby-Dick or, The Whale",6,False,-P4D
+novel praying god's word: breaking free from spiritual strongholds 10 fav 1h ago,book,Praying God's Word: Breaking Free From Spiritual Strongholds,10,True,-PT1H
+finished one flew over the cuckoo's nest 5 stars,book,One Flew Over the Cuckoo's Nest,10,False,PT0M
+novel breaking dawn 3 stars 20 days ago,book,Breaking Dawn,6,False,-P20D
+book we'll always have summer 8 5 days ago,book,We'll Always Have Summer,8,False,-P5D
+read the light between oceans 5 stars,book,The Light Between Oceans,10,False,PT0M
+novel scar tissue 8/10,book,Scar Tissue,8,False,PT0M
+book the very hungry caterpillar board book 10 -8d,book,The Very Hungry Caterpillar Board Book,10,False,-P8D
+novel curious george takes a job 10,book,Curious George Takes a Job,10,False,PT0M
+read the bluest eye 6/10,book,The Bluest Eye,6,False,PT0M
+book stellaluna 8,book,Stellaluna,8,False,PT0M
+read the dragon reborn 3 stars,book,The Dragon Reborn,6,False,PT0M
+read mile high 3 stars,book,Mile High,6,False,PT0M
+read the age of innocence 4 stars 14 hours ago,book,The Age of Innocence,8,False,-PT14H
+read horton hears a who! 6/10 23h ago,book,Horton Hears a Who!,6,False,-PT23H
+read stargirl 3 stars -17d,book,Stargirl,6,False,-P17D
+novel the reader 6 -23h,book,The Reader,6,False,-PT23H
+novel knife of dreams 1 star 10d ago,book,Knife of Dreams,2,False,-P10D
+book lunar park 8/10 4h ago,book,Lunar Park,8,False,-PT4H
+novel jitterbug perfume 8 -23h,book,Jitterbug Perfume,8,False,-PT23H
+read owen 10 6d ago,book,Owen,10,False,-P6D
+book the silver star 10/10 heart -24d,book,The Silver Star,10,True,-P24D
+finished absolution gap 5 stars favorite,book,Absolution Gap,10,True,PT0M
+finished divergent 8 -22d,book,Divergent,8,False,-P22D
+read lady luck 5 stars,book,Lady Luck,10,False,PT0M
+novel murder must advertise 8,book,Murder Must Advertise,8,False,PT0M
+novel a scandal in bohemia 5 stars,book,A Scandal in Bohemia,10,False,PT0M
+novel night watch 3 stars,book,Night Watch,6,False,PT0M
+book shadow kiss 8/10,book,Shadow Kiss,8,False,PT0M
+book furiously happy: a funny book about horrible things 10/10,book,Furiously Happy: A Funny Book About Horrible Things,10,False,PT0M
+novel forever 8 favorite,book,Forever,8,True,PT0M
+read the subtle knife 5 stars,book,The Subtle Knife,10,False,PT0M
+read the help 8/10 15h ago,book,The Help,8,False,-PT15H
+novel the arctic incident 2 stars,book,The Arctic Incident,4,False,PT0M
+"book alexander and the terrible, horrible, no good, very bad day 10/10",book,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",10,False,PT0M
+read the cat in the hat 8/10,book,The Cat in the Hat,8,False,PT0M
+read pygmy 4 heart,book,Pygmy,4,True,PT0M
+novel the things they carried 3 stars,book,The Things They Carried,6,False,PT0M
+book the da vinci code 10,book,The Da Vinci Code,10,False,PT0M
+novel an anthropologist on mars: seven paradoxical tales 4 stars,book,An Anthropologist on Mars: Seven Paradoxical Tales,8,False,PT0M
+novel a christmas carol 3 stars 27 days ago,book,A Christmas Carol,6,False,-P27D
+finished city of bones 1 star 17 days ago,book,City of Bones,2,False,-P17D
+novel the other woman 8/10 -15h,book,The Other Woman,8,False,-PT15H
+book lenobia's vow 10 -4h,book,Lenobia's Vow,10,False,-PT4H
+read a clash of kings 3 stars,book,A Clash of Kings,6,False,PT0M
+read wuthering heights 3 stars,book,Wuthering Heights,6,False,PT0M
+read the sugar queen 8/10 11d ago,book,The Sugar Queen,8,False,-P11D
+read the stand 4 stars,book,The Stand,8,False,PT0M
+book norwegian wood 10/10,book,Norwegian Wood,10,False,PT0M
+novel the year of magical thinking 10,book,The Year of Magical Thinking,10,False,PT0M
+book fahrenheit 451 8 fav,book,Fahrenheit 451,8,True,PT0M
+novel ten big ones 8/10 7d ago,book,Ten Big Ones,8,False,-P7D
+finished gone tomorrow 4 stars,book,Gone Tomorrow,8,False,PT0M
+novel the metamorphosis 5 stars,book,The Metamorphosis,10,False,PT0M
+read naked 10/10,book,Naked,10,False,PT0M
+finished american gods 10 loved -18d,book,American Gods,10,True,-P18D
+finished a bear called paddington 10/10 1h ago,book,A Bear Called Paddington,10,False,-PT1H
+finished the children act 3 stars -2h,book,The Children Act,6,False,-PT2H
+book the bachman books 3 stars,book,The Bachman Books,6,False,PT0M
+book as you like it 2 stars -25d,book,As You Like It,4,False,-P25D
+read fingersmith 10/10 loved,book,Fingersmith,10,True,PT0M
+finished reason to breathe 6,book,Reason to Breathe,6,False,PT0M
+finished sharp objects 8/10,book,Sharp Objects,8,False,PT0M
+"book are you there god? it's me, margaret 3 stars",book,"Are You There God? It's Me, Margaret",6,False,PT0M
+book the last olympian 8,book,The Last Olympian,8,False,PT0M
+read the railway children 10 17h ago,book,The Railway Children,10,False,-PT17H
+finished wizard's first rule 10/10,book,Wizard's First Rule,10,False,PT0M
+read spook: science tackles the afterlife 10,book,Spook: Science Tackles the Afterlife,10,False,PT0M
+finished consider the lobster and other essays 5 stars -26d,book,Consider the Lobster and Other Essays,10,False,-P26D
+finished me before you 3 stars,book,Me Before You,6,False,PT0M
+finished broken angels 10 2d ago,book,Broken Angels,10,False,-P2D
+book the blue sword 4 stars favourite,book,The Blue Sword,8,True,PT0M
+book watership down 5 stars -22h,book,Watership Down,10,False,-PT22H
+"finished girl, interrupted 6 29d ago",book,"Girl, Interrupted",6,False,-P29D
+read poison study 8,book,Poison Study,8,False,PT0M
+read the book thief 4,book,The Book Thief,4,False,PT0M
+book the pillars of the earth 4 stars,book,The Pillars of the Earth,8,False,PT0M
+finished black house 4 stars 18 hours ago,book,Black House,8,False,-PT18H
+read the battle of the labyrinth 8,book,The Battle of the Labyrinth,8,False,PT0M
+finished a dog's purpose 4 stars,book,A Dog's Purpose,8,False,PT0M
+novel breaking dawn 4 -10h,book,Breaking Dawn,4,False,-PT10H
+novel gone girl 10/10,book,Gone Girl,10,False,PT0M
+finished evernight 4,book,Evernight,4,False,PT0M
+finished the unbearable lightness of being 3 stars,book,The Unbearable Lightness of Being,6,False,PT0M
+book empress orchid 5 stars -2d,book,Empress Orchid,10,False,-P2D
+finished olive kitteridge 5 stars,book,Olive Kitteridge,10,False,PT0M
+read lover eternal 10,book,Lover Eternal,10,False,PT0M
+read the glass menagerie 2 stars -24d,book,The Glass Menagerie,4,False,-P24D
+book lioness rampant 4 stars loved,book,Lioness Rampant,8,True,PT0M
+read dead reckoning 6 favourite,book,Dead Reckoning,6,True,PT0M
+book pushing the limits 4 stars heart,book,Pushing the Limits,8,True,PT0M
+book confessions of a shopaholic 3 stars,book,Confessions of a Shopaholic,6,False,PT0M
+finished the autobiography of malcolm x 8/10 fav 4d ago,book,The Autobiography of Malcolm X,8,True,-P4D
+novel under the banner of heaven: a story of violent faith 10 favourite,book,Under the Banner of Heaven: A Story of Violent Faith,10,True,PT0M
+book bel canto 8,book,Bel Canto,8,False,PT0M
+book wool 10/10,book,Wool,10,False,PT0M
+finished around the world in eighty days 4 stars,book,Around the World in Eighty Days,8,False,PT0M
+book the red tent 8/10,book,The Red Tent,8,False,PT0M
+read the bone garden 3 stars,book,The Bone Garden,6,False,PT0M
+book violets are blue 10 favorite,book,Violets Are Blue,10,True,PT0M
+novel matched 4 stars,book,Matched,8,False,PT0M
+novel avoiding responsibility 10/10 13 days ago,book,Avoiding Responsibility,10,False,-P13D
+finished talon 3 stars 2 hours ago,book,Talon,6,False,-PT2H
+read wild fire 8 10d ago,book,Wild Fire,8,False,-P10D
+book angels & demons 10/10 favorite,book,Angels & Demons,10,True,PT0M
+novel on her majesty's secret service 8/10,book,On Her Majesty's Secret Service,8,False,PT0M
+novel the moon and more 5 stars,book,The Moon and More,10,False,PT0M
+novel a discovery of witches 10/10 -23d,book,A Discovery of Witches,10,False,-P23D
+novel the hobbit 8/10 favorite 11 days ago,book,The Hobbit,8,True,-P11D
+read divine justice 8/10,book,Divine Justice,8,False,PT0M
+novel changes 8/10,book,Changes,8,False,PT0M
+novel the grapes of wrath 6,book,The Grapes of Wrath,6,False,PT0M
+book sideways stories from wayside school 3 stars,book,Sideways Stories from Wayside School,6,False,PT0M
+book easy 6 -14d,book,Easy,6,False,-P14D
+read the life of elizabeth i 2 stars fav,book,The Life of Elizabeth I,4,True,PT0M
+read the red badge of courage and selected short fiction 2 stars -19d,book,The Red Badge of Courage and Selected Short Fiction,4,False,-P19D
+book heart of the matter 6/10 -15h,book,Heart of the Matter,6,False,-PT15H
+novel delirium 2 stars,book,Delirium,4,False,PT0M
+book until i die 4 stars 20 hours ago,book,Until I Die,8,False,-PT20H
+finished who moved my cheese? 5 stars,book,Who Moved My Cheese?,10,False,PT0M
+novel rage of a demon king 6 fav 14 hours ago,book,Rage of a Demon King,6,True,-PT14H
+novel dead in the family 3 stars favourite -4d,book,Dead in the Family,6,True,-P4D
+read awakened 10/10,book,Awakened,10,False,PT0M
+read the shadow of the wind 5 stars,book,The Shadow of the Wind,10,False,PT0M
+book the good girl 3 stars,book,The Good Girl,6,False,PT0M
+novel the mermaids singing 3 stars,book,The Mermaids Singing,6,False,PT0M
+novel hatchet 3 stars,book,Hatchet,6,False,PT0M
+book pure 8/10,book,Pure,8,False,PT0M
+novel desecration 5 stars,book,Desecration,10,False,PT0M
+finished eleanor & park 5 stars,book,Eleanor & Park,10,False,PT0M
+book breaking dawn 8 1 hour ago,book,Breaking Dawn,8,False,-PT1H
+finished the summons 3 stars,book,The Summons,6,False,PT0M
+finished congo 8 -25d,book,Congo,8,False,-P25D
+novel into the wild 4 stars 9h ago,book,Into the Wild,8,False,-PT9H
+finished the lion king: a little golden book 4 stars favourite,book,The Lion King: A little Golden Book,8,True,PT0M
+finished going bovine 10,book,Going Bovine,10,False,PT0M
+read harry potter boxset 10/10 -29d,book,Harry Potter Boxset,10,False,-P29D
+finished the tales of beedle the bard 5 stars heart,book,The Tales of Beedle the Bard,10,True,PT0M
+read wishful drinking 2/10,book,Wishful Drinking,2,False,PT0M
+read black beauty 6,book,Black Beauty,6,False,PT0M
+novel l'écume des jours 3 stars,book,L'Écume des jours,6,False,PT0M
+novel the king 5 stars,book,The King,10,False,PT0M
+read jemima j 2 stars fav,book,Jemima J,4,True,PT0M
+novel homicidal psycho jungle cat: a calvin and hobbes collection 5 stars loved 4 days ago,book,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,10,True,-P4D
+read overruled 4 stars 23d ago,book,Overruled,8,False,-P23D
+read the diary of a young girl 8/10,book,The Diary of a Young Girl,8,False,PT0M
+finished harry potter and the half-blood prince 8/10,book,Harry Potter and the Half-Blood Prince,8,False,PT0M
+novel to kill a mockingbird 10/10 -11h,book,To Kill a Mockingbird,10,False,-PT11H
+read the red pyramid 8/10,book,The Red Pyramid,8,False,PT0M
+finished shadow's edge 3 stars 10 days ago,book,Shadow's Edge,6,False,-P10D
+book as i lay dying 4 stars -5h,book,As I Lay Dying,8,False,-PT5H
+book the tiger's wife 3 stars fav,book,The Tiger's Wife,6,True,PT0M
+finished divergent 10/10 heart -19h,book,Divergent,10,True,-PT19H
+novel ironside 10/10,book,Ironside,10,False,PT0M
+finished new moon 4,book,New Moon,4,False,PT0M
+novel a is for alibi 4 stars loved 23 days ago,book,A is for Alibi,8,True,-P23D
+novel bite me 8/10,book,Bite Me,8,False,PT0M
+finished percy jackson and the olympians boxed set 6 -12h,book,Percy Jackson and the Olympians Boxed Set,6,False,-PT12H
+"book eat, pray, love 2/10",book,"Eat, Pray, Love",2,False,PT0M
+read the book thief 10/10,book,The Book Thief,10,False,PT0M
+book before i fall 3 stars -7h,book,Before I Fall,6,False,-PT7H
+book the perfect storm: a true story of men against the sea 6/10,book,The Perfect Storm: A True Story of Men Against the Sea,6,False,PT0M
+book pretty girls 4 stars -14h,book,Pretty Girls,8,False,-PT14H
+novel the devil's punchbowl 5 stars,book,The Devil's Punchbowl,10,False,PT0M
+finished atlas shrugged 2/10 15h ago,book,Atlas Shrugged,2,False,-PT15H
+book the strange case of dr. jekyll and mr. hyde 10/10 loved -9d,book,The Strange Case of Dr. Jekyll and Mr. Hyde,10,True,-P9D
+novel life after god 6,book,Life After God,6,False,PT0M
+read bambi 5 stars,book,Bambi,10,False,PT0M
+finished dragonlance chronicles 5 stars,book,Dragonlance Chronicles,10,False,PT0M
+novel flowers for algernon 6/10 -14h,book,Flowers for Algernon,6,False,-PT14H
+book eragon 10 20h ago,book,Eragon,10,False,-PT20H
+book made to stick: why some ideas survive and others die 4 stars 4 hours ago,book,Made to Stick: Why Some Ideas Survive and Others Die,8,False,-PT4H
+book shadow's edge 4 stars,book,Shadow's Edge,8,False,PT0M
+book hamlet 8/10,book,Hamlet,8,False,PT0M
+finished macbeth 4 stars,book,Macbeth,8,False,PT0M
+book the host 5 stars 16 hours ago,book,The Host,10,False,-PT16H
+finished the doors of perception & heaven and hell 8/10,book,The Doors of Perception & Heaven and Hell,8,False,PT0M
+finished the hotel new hampshire 5 stars heart,book,The Hotel New Hampshire,10,True,PT0M
+finished the girl who played with fire 3 stars 19 hours ago,book,The Girl Who Played with Fire,6,False,-PT19H
+read a kiss of shadows 5 stars,book,A Kiss of Shadows,10,False,PT0M
+novel the truth about forever 10 4 hours ago,book,The Truth About Forever,10,False,-PT4H
+novel throne of glass 5 stars,book,Throne of Glass,10,False,PT0M
+novel the time traveler's wife 5 stars,book,The Time Traveler's Wife,10,False,PT0M
+novel heir of fire 10 -22h,book,Heir of Fire,10,False,-PT22H
+finished charlotte's web 6,book,Charlotte's Web,6,False,PT0M
+read how to love 10,book,How to Love,10,False,PT0M
+read the mists of avalon 5 stars,book,The Mists of Avalon,10,False,PT0M
+novel the night circus 8/10 fav,book,The Night Circus,8,True,PT0M
+book the throne of fire 10,book,The Throne of Fire,10,False,PT0M
+book the road 8 heart,book,The Road,8,True,PT0M
+novel catching fire 6 6 hours ago,book,Catching Fire,6,False,-PT6H
+read the sapphire rose 8/10 -3h,book,The Sapphire Rose,8,False,-PT3H
+finished the hours 5 stars loved,book,The Hours,10,True,PT0M
+finished the bean trees 8/10 -12d,book,The Bean Trees,8,False,-P12D
+finished dune 10,book,Dune,10,False,PT0M
+read speak 10 -1d,book,Speak,10,False,-P1D
+finished jurassic park 4,book,Jurassic Park,4,False,PT0M
+finished the eyes of darkness 2 13 days ago,book,The Eyes of Darkness,2,False,-P13D
+novel charlotte's web 5 stars 22 days ago,book,Charlotte's Web,10,False,-P22D
+finished zero day 8,book,Zero Day,8,False,PT0M
+read nicholas nickleby 5 stars,book,Nicholas Nickleby,10,False,PT0M
+read timeline 4 stars,book,Timeline,8,False,PT0M
+book the shining 4 stars 6d ago,book,The Shining,8,False,-P6D
+novel the omen 4 stars -12d,book,The Omen,8,False,-P12D
+read the old man and the sea 8/10 2h ago,book,The Old Man and the Sea,8,False,-PT2H
+book the raven boys 4,book,The Raven Boys,4,False,PT0M
+read blubber 3 stars 17 hours ago,book,Blubber,6,False,-PT17H
+book bloodlines 10/10 27d ago,book,Bloodlines,10,False,-P27D
+read twilight 8/10,book,Twilight,8,False,PT0M
+book the fall of the house of usher and other tales 4 5 hours ago,book,The Fall of the House of Usher and Other Tales,4,False,-PT5H
+read eligible: a modern retelling of pride and prejudice 8/10 4 hours ago,book,Eligible: A Modern Retelling of Pride and Prejudice,8,False,-PT4H
+novel catching jordan 4 stars 8d ago,book,Catching Jordan,8,False,-P8D
+novel crime and punishment 4 stars,book,Crime and Punishment,8,False,PT0M
+book arcadia 10/10,book,Arcadia,10,False,PT0M
+book cold days 8/10,book,Cold Days,8,False,PT0M
+novel dandelion wine 10/10 -26d,book,Dandelion Wine,10,False,-P26D
+finished die trying 8/10,book,Die Trying,8,False,PT0M
+book the lightning thief 6/10,book,The Lightning Thief,6,False,PT0M
+novel the illustrated man 5 stars,book,The Illustrated Man,10,False,PT0M
+read eclipse 6 favourite 5h ago,book,Eclipse,6,True,-PT5H
+read fight club 4 stars -9h,book,Fight Club,8,False,-PT9H
+book nightfall 3 stars,book,Nightfall,6,False,PT0M
+finished the firm 6/10,book,The Firm,6,False,PT0M
+finished the wheel of darkness 8,book,The Wheel of Darkness,8,False,PT0M
+"novel a child called ""it"" 4/10 2h ago",book,"A Child Called ""It""",4,False,-PT2H
+finished the ersatz elevator 4 stars 19 days ago,book,The Ersatz Elevator,8,False,-P19D
+book the hero of ages 4 stars -17d,book,The Hero of Ages,8,False,-P17D
+book city of dragons 3 stars,book,City of Dragons,6,False,PT0M
+novel consider phlebas 8/10,book,Consider Phlebas,8,False,PT0M
+read the girl who played with fire 8/10,book,The Girl Who Played with Fire,8,False,PT0M
+read the giver 8 -17d,book,The Giver,8,False,-P17D
+read scarlet 5 stars,book,Scarlet,10,False,PT0M
+novel martin the warrior 8/10,book,Martin the Warrior,8,False,PT0M
+read the girl in the steel corset 3 stars fav yday,book,The Girl in the Steel Corset,6,True,-P1D
+novel skeleton crew 6 -22h,book,Skeleton Crew,6,False,-PT22H
+novel enchantment 6/10 heart,book,Enchantment,6,True,PT0M
+book reckless 8 20 hours ago,book,Reckless,8,False,-PT20H
+book this present darkness 8/10,book,This Present Darkness,8,False,PT0M
+read the wall of winnipeg and me 10 heart,book,The Wall of Winnipeg and Me,10,True,PT0M
+finished the magic of recluce 4 stars,book,The Magic of Recluce,8,False,PT0M
+novel the amazing adventures of kavalier & clay 8/10,book,The Amazing Adventures of Kavalier & Clay,8,False,PT0M
+finished northanger abbey 8 20h ago,book,Northanger Abbey,8,False,-PT20H
+book animalia 10 -2d,book,Animalia,10,False,-P2D
+read ramona and her mother 3 stars,book,Ramona and Her Mother,6,False,PT0M
+read pollyanna 6/10 16h ago,book,Pollyanna,6,False,-PT16H
+finished the fellowship of the ring 4/10,book,The Fellowship of the Ring,4,False,PT0M
+novel when will there be good news? 4 stars,book,When Will There Be Good News?,8,False,PT0M
+finished the murder house 6/10 heart 15h ago,book,The Murder House,6,True,-PT15H
+read dragonflight 5 stars,book,Dragonflight,10,False,PT0M
+novel bloodline 6/10,book,Bloodline,6,False,PT0M
+novel on death and dying 5 stars,book,On Death and Dying,10,False,PT0M
+finished handle with care 8/10 -27d,book,Handle with Care,8,False,-P27D
+novel the da vinci code 4 stars,book,The Da Vinci Code,8,False,PT0M
+read pretty girls 2 stars 5 hours ago,book,Pretty Girls,4,False,-PT5H
+book a clockwork orange 6/10 4 days ago,book,A Clockwork Orange,6,False,-P4D
+novel the adventures of huckleberry finn 1 star 19 hours ago,book,The Adventures of Huckleberry Finn,2,False,-PT19H
+read the house on mango street 3 stars 23 days ago,book,The House on Mango Street,6,False,-P23D
+read beach road 6 1h ago,book,Beach Road,6,False,-PT1H
+"book life, the universe and everything 8/10",book,"Life, the Universe and Everything",8,False,PT0M
+read the dressmaker 3 stars,book,The Dressmaker,6,False,PT0M
+novel the twilight saga complete collection 2 stars -8h,book,The Twilight Saga Complete Collection,4,False,-PT8H
+read the appeal 6/10,book,The Appeal,6,False,PT0M
+book sense and sensibility 6/10,book,Sense and Sensibility,6,False,PT0M
+read rock me 4 27 days ago,book,Rock Me,4,False,-P27D
+novel mrs. frisby and the rats of nimh 6,book,Mrs. Frisby and the Rats of NIMH,6,False,PT0M
+read christine 6/10,book,Christine,6,False,PT0M
+"book men are from mars, women are from venus 4/10 -23h",book,"Men Are from Mars, Women Are from Venus",4,False,-PT23H
+read the icebound land 8/10 favourite,book,The Icebound Land,8,True,PT0M
+read you don't have to say you love me 5 stars -15h,book,You Don't Have to Say You Love Me,10,False,-PT15H
+novel the crimson petal and the white 8/10 -11d,book,The Crimson Petal and the White,8,False,-P11D
+book سمفونی مردگان 6,book,سمفونی مردگان,6,False,PT0M
+novel the ring of solomon 8 -28d,book,The Ring of Solomon,8,False,-P28D
+finished the house at pooh corner 5 stars 16d ago,book,The House at Pooh Corner,10,False,-P16D
+novel amy & roger's epic detour 8,book,Amy & Roger's Epic Detour,8,False,PT0M
+read patriot games 8 15d ago,book,Patriot Games,8,False,-P15D
+read wedding night 3 stars,book,Wedding Night,6,False,PT0M
+novel the dragon keeper 10/10,book,The Dragon Keeper,10,False,PT0M
+"read i, robot 6/10 28 days ago",book,"I, Robot",6,False,-P28D
+novel into the wild 10,book,Into the Wild,10,False,PT0M
+book kill shot 4 stars 2 days ago,book,Kill Shot,8,False,-P2D
+book don't let me go 3 stars,book,Don't Let Me Go,6,False,PT0M
+read something wicked this way comes 6 favorite,book,Something Wicked This Way Comes,6,True,PT0M
+novel siddhartha 10,book,Siddhartha,10,False,PT0M
+book cane river 10,book,Cane River,10,False,PT0M
+read ender's game 4 stars,book,Ender's Game,8,False,PT0M
+novel my sister's keeper 5 stars 19 days ago,book,My Sister's Keeper,10,False,-P19D
+read ready player one 3 stars -15h,book,Ready Player One,6,False,-PT15H
+novel wuthering heights 5 stars -13d,book,Wuthering Heights,10,False,-P13D
+read the hunger games 4 stars 11d ago,book,The Hunger Games,8,False,-P11D
+novel change of heart 4/10 favourite,book,Change of Heart,4,True,PT0M
+read the mating 5 stars -13h,book,The Mating,10,False,-PT13H
+novel kafka on the shore 10/10 favourite -15d,book,Kafka on the Shore,10,True,-P15D
+finished déjà dead 4 stars,book,Déjà Dead,8,False,PT0M
+novel the corrections 4,book,The Corrections,4,False,PT0M
+read walden 3 stars,book,Walden,6,False,PT0M
+book the starter wife 3 stars,book,The Starter Wife,6,False,PT0M
+finished mrs. dalloway 4 stars favourite 13 days ago,book,Mrs. Dalloway,8,True,-P13D
+finished the 48 laws of power 10/10,book,The 48 Laws of Power,10,False,PT0M
+finished bridge to terabithia 10 favorite 2h ago,book,Bridge to Terabithia,10,True,-PT2H
+finished harry potter and the sorcerer's stone 3 stars 5h ago,book,Harry Potter and the Sorcerer's Stone,6,False,-PT5H
+read i am number four 3 stars,book,I Am Number Four,6,False,PT0M
+read beyond the highland mist 10/10,book,Beyond the Highland Mist,10,False,PT0M
+finished possession 8,book,Possession,8,False,PT0M
+read the blade itself 5 stars -16h,book,The Blade Itself,10,False,-PT16H
+read hero 10 9h ago,book,Hero,10,False,-PT9H
+finished water for elephants 4 stars,book,Water for Elephants,8,False,PT0M
+novel what she left behind 10/10 heart,book,What She Left Behind,10,True,PT0M
+read harry potter and the prisoner of azkaban 10 28 days ago,book,Harry Potter and the Prisoner of Azkaban,10,False,-P28D
+book a thousand splendid suns 6,book,A Thousand Splendid Suns,6,False,PT0M
+read a sand county almanac and sketches here and there 3 stars,book,A Sand County Almanac and Sketches Here and There,6,False,PT0M
+read into the still blue 5 stars,book,Into the Still Blue,10,False,PT0M
+finished the first four years 6,book,The First Four Years,6,False,PT0M
+read how the light gets in 10 -3h,book,How the Light Gets In,10,False,-PT3H
+finished attack of the deranged mutant killer monster snow goons 10,book,Attack of the Deranged Mutant Killer Monster Snow Goons,10,False,PT0M
+finished counting by 7s 10/10,book,Counting by 7s,10,False,PT0M
+finished orphan train 3 stars 21h ago,book,Orphan Train,6,False,-PT21H
+finished the gray wolf throne 5 stars -29d,book,The Gray Wolf Throne,10,False,-P29D
+book the poisonwood bible 4 stars,book,The Poisonwood Bible,8,False,PT0M
+finished one hundred years of solitude 6 6h ago,book,One Hundred Years of Solitude,6,False,-PT6H
+finished fear and loathing in las vegas 8/10,book,Fear and Loathing in Las Vegas,8,False,PT0M
+read city of ashes 4 stars 10 days ago,book,City of Ashes,8,False,-P10D
+novel a light in the attic 4 stars favorite,book,A Light in the Attic,8,True,PT0M
+book across the universe 1 star favourite,book,Across the Universe,2,True,PT0M
+read xenocide 5 stars,book,Xenocide,10,False,PT0M
+read the help 10,book,The Help,10,False,PT0M
+book 11/22/63 8/10 3 hours ago,book,11/22/63,8,False,-PT3H
+finished hell's corner 5 stars,book,Hell's Corner,10,False,PT0M
+novel the blessing way 5 stars,book,The Blessing Way,10,False,PT0M
+novel the red queen 8/10 5d ago,book,The Red Queen,8,False,-P5D
+book skeleton crew 10,book,Skeleton Crew,10,False,PT0M
+finished free four: tobias tells the divergent knife-throwing scene 6,book,Free Four: Tobias Tells the Divergent Knife-Throwing Scene,6,False,PT0M
+read angels & demons 2 stars,book,Angels & Demons,4,False,PT0M
+book candide 3 stars heart,book,Candide,6,True,PT0M
+book a fatal grace 5 stars,book,A Fatal Grace,10,False,PT0M
+finished a storm of swords 8/10 12 days ago,book,A Storm of Swords,8,False,-P12D
+finished rebel heart 10/10,book,Rebel Heart,10,False,PT0M
+finished ramona and her mother 10/10,book,Ramona and Her Mother,10,False,PT0M
+read go set a watchman 5 stars,book,Go Set a Watchman,10,False,PT0M
+finished the finding 6/10,book,The Finding,6,False,PT0M
+read the eyre affair 6 fav 10d ago,book,The Eyre Affair,6,True,-P10D
+read the art forger 4 stars,book,The Art Forger,8,False,PT0M
+finished broken 4 stars 21 hours ago,book,Broken,8,False,-PT21H
+book turn of mind 4 stars,book,Turn of Mind,8,False,PT0M
+book hinds' feet on high places 10/10 favorite 17d ago,book,Hinds' Feet on High Places,10,True,-P17D
+finished the great gatsby 6 5 hours ago,book,The Great Gatsby,6,False,-PT5H
+book upon the midnight clear 4 stars loved 20 hours ago,book,Upon the Midnight Clear,8,True,-PT20H
+read gifted hands: the ben carson story 6/10 26d ago,book,Gifted Hands: The Ben Carson Story,6,False,-P26D
+novel the house of hades 5 stars -6d,book,The House of Hades,10,False,-P6D
+read this song will save your life 6/10 13h ago,book,This Song Will Save Your Life,6,False,-PT13H
+book the borrowers 10/10 heart 5h ago,book,The Borrowers,10,True,-PT5H
+novel gone with the wind 8/10 favorite 5 days ago,book,Gone with the Wind,8,True,-P5D
+finished the curious incident of the dog in the night-time 5 stars,book,The Curious Incident of the Dog in the Night-Time,10,False,PT0M
+read angela's ashes 8 12d ago,book,Angela's Ashes,8,False,-P12D
+book lost light 3 stars -26d,book,Lost Light,6,False,-P26D
+novel the checklist manifesto: how to get things right 4 stars,book,The Checklist Manifesto: How to Get Things Right,8,False,PT0M
+novel tuesdays with morrie 3 stars 11h ago,book,Tuesdays with Morrie,6,False,-PT11H
+book pinocchio 5 stars,book,Pinocchio,10,False,PT0M
+book pretty little liars 3 stars 5d ago,book,Pretty Little Liars,6,False,-P5D
+finished the kite runner 3 stars -14d,book,The Kite Runner,6,False,-P14D
+book timequake 5 stars favourite -11h,book,Timequake,10,True,-PT11H
+read the importance of being earnest 8 favorite,book,The Importance of Being Earnest,8,True,PT0M
+novel revival 6/10 -7h,book,Revival,6,False,-PT7H
+finished stranger in a strange land 8,book,Stranger in a Strange Land,8,False,PT0M
+read dark gold 10/10,book,Dark Gold,10,False,PT0M
+read speaker for the dead 4 stars,book,Speaker for the Dead,8,False,PT0M
+finished books of blood: volume one 3 stars 25d ago,book,Books of Blood: Volume One,6,False,-P25D
+read 7th heaven 4,book,7th Heaven,4,False,PT0M
+read white oleander 5 stars,book,White Oleander,10,False,PT0M
+novel brave new world 6/10,book,Brave New World,6,False,PT0M
+read 'salem's lot 10 13 hours ago,book,'Salem's Lot,10,False,-PT13H
+finished in her shoes 3 stars,book,In Her Shoes,6,False,PT0M
+novel the lord of the rings: weapons and warfare 10,book,The Lord of the Rings: Weapons and Warfare,10,False,PT0M
+book choke 5 stars,book,Choke,10,False,PT0M
+book the call of the wild 10,book,The Call of the Wild,10,False,PT0M
+finished the beekeeper's apprentice 5 stars yday,book,The Beekeeper's Apprentice,10,False,-P1D
+read anne rice's the vampire lestat: a graphic novel 10/10,book,Anne Rice's The Vampire Lestat: A Graphic Novel,10,False,PT0M
+finished alice's adventures in wonderland & through the looking-glass 4 stars,book,Alice's Adventures in Wonderland & Through the Looking-Glass,8,False,PT0M
+book city of ashes 5 stars,book,City of Ashes,10,False,PT0M
+finished do androids dream of electric sheep? 8,book,Do Androids Dream of Electric Sheep?,8,False,PT0M
+finished the diviners 10/10,book,The Diviners,10,False,PT0M
+novel midnight's children 10,book,Midnight's Children,10,False,PT0M
+novel insurgent 5 stars 20 days ago,book,Insurgent,10,False,-P20D
+novel bookends 3 stars,book,Bookends,6,False,PT0M
+read cutting for stone 10 10h ago,book,Cutting for Stone,10,False,-PT10H
+novel p.s. i love you 4 stars,book,P.S. I Love You,8,False,PT0M
+read sideways stories from wayside school 4 stars fav -7d,book,Sideways Stories from Wayside School,8,True,-P7D
+novel while my sister sleeps 3 stars,book,While My Sister Sleeps,6,False,PT0M
+read alexander hamilton 4 stars,book,Alexander Hamilton,8,False,PT0M
+finished clockwork angel 10,book,Clockwork Angel,10,False,PT0M
+book city of ashes 3 stars heart,book,City of Ashes,6,True,PT0M
+book please ignore vera dietz 4 stars fav,book,Please Ignore Vera Dietz,8,True,PT0M
+book the notebook 2,book,The Notebook,2,False,PT0M
+finished the dead zone 5 stars,book,The Dead Zone,10,False,PT0M
+finished the sea of monsters 4 stars -16d,book,The Sea of Monsters,8,False,-P16D
+read julius caesar 2 favourite,book,Julius Caesar,2,True,PT0M
+novel fifty shades of grey 4 stars,book,Fifty Shades of Grey,8,False,PT0M
+novel the far pavilions 10/10 -7d,book,The Far Pavilions,10,False,-P7D
+book jonathan strange & mr norrell 4 stars,book,Jonathan Strange & Mr Norrell,8,False,PT0M
+read blue moon 5 stars 22 hours ago,book,Blue Moon,10,False,-PT22H
+book a million suns 3 stars favorite,book,A Million Suns,6,True,PT0M
+read the thirteenth tale 5 stars -18h,book,The Thirteenth Tale,10,False,-PT18H
+read the sword thief 2/10 loved,book,The Sword Thief,2,True,PT0M

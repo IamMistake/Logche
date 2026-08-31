@@ -1,0 +1,8 @@
+The input is always media shorthand. Silently answer these questions, then output only JSON:
+1. Is the cue movie or book? Map novel to book.
+2. What exact title remains after removing the cue and rating/favorite/time suffixes?
+3. Is the rating in stars, /10, or bare notation? Double stars only.
+4. Is there an explicit standalone favorite marker? If not, favorite is false.
+5. What ISO timeOffset is stated, or PT0M if absent?
+
+Return exactly {"mediaType":string,"title":string,"rating":number,"favorite":boolean,"timeOffset":string}. Use only movie/book, rating 0-10, and no extra fields or reasoning.

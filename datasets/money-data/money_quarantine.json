@@ -1,0 +1,554 @@
+[
+  {
+    "sourceIndex": 27,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-07-12 13:29:24.460",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "50.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "67f1d176-7ff5-4345-9983-de5c73b1fb7f"
+    }
+  },
+  {
+    "sourceIndex": 118,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-06-05 04:30:53.200",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Salary Bank",
+      "amount": "70.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "21ee236b-528a-4fdf-a663-c711785f40fe"
+    }
+  },
+  {
+    "sourceIndex": 271,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-04-22 04:48:22.957",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Cash",
+      "amount": "30.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "c82328a0-7ceb-4d3c-9053-dc44ad0e738c"
+    }
+  },
+  {
+    "sourceIndex": 288,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-04-17 15:36:48.740",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "5.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "2bfb6713-ab01-4b6f-9998-dedab45d17af"
+    }
+  },
+  {
+    "sourceIndex": 401,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-03-10 17:30:00.000",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Salary Bank",
+      "amount": "9.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "210f7a28-e04c-4bc1-bb39-a8254ee69074"
+    }
+  },
+  {
+    "sourceIndex": 409,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-03-07 13:45:26.150",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "20.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "5ccfaedb-0859-4852-84a1-8225aa26937f"
+    }
+  },
+  {
+    "sourceIndex": 421,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-03-06 01:31:15.093",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "5.53",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "978228fc-201d-404a-9254-e3ac8acb1b04"
+    }
+  },
+  {
+    "sourceIndex": 526,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-02-09 13:16:00.000",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "2.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "279c0d55-905f-4251-be74-b63c3132954d"
+    }
+  },
+  {
+    "sourceIndex": 529,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2024-02-08 12:47:51.684",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "2.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "d838872e-9c06-45bc-938c-77fdaa1a262c"
+    }
+  },
+  {
+    "sourceIndex": 699,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-12-09 16:10:06.821",
+      "title": "",
+      "category": "",
+      "account": "Metro Card",
+      "amount": "2.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "f9009d96-9237-4805-8ab6-fa03030094ba"
+    }
+  },
+  {
+    "sourceIndex": 932,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-09-08 14:57:00.000",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "64.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "f65f482b-596c-4ac3-bf55-84ccd5afe501"
+    }
+  },
+  {
+    "sourceIndex": 966,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-08-10 02:24:47.953",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "200.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "e662e1d3-9c8e-4fc7-8036-d9294dc95651"
+    }
+  },
+  {
+    "sourceIndex": 986,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-07-24 16:09:16.370",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "100.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "7da2abea-5a4c-4880-97e2-c1f0c390761f"
+    }
+  },
+  {
+    "sourceIndex": 1006,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-07-04 12:07:10.168",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "210.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "2b2acaea-692a-4c89-8ee8-b4e1fb151e92"
+    }
+  },
+  {
+    "sourceIndex": 1008,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-07-04 01:15:37.973",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "84.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "fcdb71e4-17e9-41ce-9b10-220ef7a7d601"
+    }
+  },
+  {
+    "sourceIndex": 1009,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-06-13 18:09:08.763",
+      "title": "",
+      "category": "Food & Drinks",
+      "account": "Savings Bank",
+      "amount": "60.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "5106be05-0fec-410f-9f94-867da62bdf68"
+    }
+  },
+  {
+    "sourceIndex": 1013,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-06-10 05:05:26.229",
+      "title": "",
+      "category": "",
+      "account": "Savings Bank",
+      "amount": "0.00",
+      "currency": "INR",
+      "type": "TRANSFER",
+      "transfer-amount": "100.00",
+      "transfer-currency": "INR",
+      "to-account": "Metro Card",
+      "receive-amount": "100.00",
+      "receive-currency": "INR",
+      "description": "",
+      "due-date": "",
+      "id": "84ae40f7-762e-433c-a237-0794c1b28d44"
+    }
+  },
+  {
+    "sourceIndex": 1017,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-06-09 03:44:45.975",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "3.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "0692b2cb-9634-4d0e-aafa-fa5d97845770"
+    }
+  },
+  {
+    "sourceIndex": 1085,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-05-09 04:12:00.000",
+      "title": "",
+      "category": "Transport",
+      "account": "Cash",
+      "amount": "40.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "108536ea-0907-4c3e-88ca-b61e358d0915"
+    }
+  },
+  {
+    "sourceIndex": 1089,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-05-07 18:27:02.170",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Savings Bank",
+      "amount": "8.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "a7b4a1cc-d024-4eb9-a851-d290576afd21"
+    }
+  },
+  {
+    "sourceIndex": 1104,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-05-02 02:36:02.548",
+      "title": "",
+      "category": "",
+      "account": "Cash",
+      "amount": "10.00",
+      "currency": "INR",
+      "type": "INCOME",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "312060e6-392f-4e38-a397-6cd08e7a04e7"
+    }
+  },
+  {
+    "sourceIndex": 1147,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-04-22 15:12:02.162",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Savings Bank",
+      "amount": "1,109.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "e364e56c-8686-4db2-aa12-5d0f747d2efe"
+    }
+  },
+  {
+    "sourceIndex": 1148,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-04-22 15:11:40.053",
+      "title": "",
+      "category": "Bills & Fees",
+      "account": "Savings Bank",
+      "amount": "1,398.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "2830ffb1-d04d-430a-b7a1-dc4275ab9b25"
+    }
+  },
+  {
+    "sourceIndex": 1149,
+    "reasons": [
+      "title is null or blank"
+    ],
+    "record": {
+      "Date": "2023-04-22 12:05:08.538",
+      "title": "",
+      "category": "Transport",
+      "account": "Cash",
+      "amount": "20.00",
+      "currency": "INR",
+      "type": "EXPENSE",
+      "transfer-amount": "",
+      "transfer-currency": "",
+      "to-account": "",
+      "receive-amount": "",
+      "receive-currency": "",
+      "description": "",
+      "due-date": "",
+      "id": "041d7f4c-41a5-4ea6-9eb3-deaa05e47763"
+    }
+  }
+]

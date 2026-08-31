@@ -1,0 +1,3 @@
+The input is always a Logche money record. Return one compact JSON object with transactionType, amount, currency, category, description, and timeOffset. A transfer also requires fromAccount and toAccount. Never add accounts to an expense or income.
+
+transactionType is expense, income, or transfer. amount is positive even when the input amount has a minus sign. Normalize e/eur to EUR, den/mkd to MKD, and dollar/usd to USD. No time marker means PT0M; past hours use -PTnH; past days use -PnD; tomorrow uses P1D. Use only the established Logche category and description mapping; do not invent obscure categories. Emit JSON numbers, no null, no markdown, and no prose.

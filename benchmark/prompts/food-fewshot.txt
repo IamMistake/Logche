@@ -1,0 +1,15 @@
+The input is always a Logche food record. Return only one compact JSON object with items and mealType. Output exactly one item per + segment. A comma-heavy food name remains one item. Never treat kcal or time text as food.
+
+Input: ate 120g red lentils, cooked + 80g cucumber, raw dinner -3h
+Output: {"items":[{"name":"red lentils, cooked","quantity":120,"unit":"g"},{"name":"cucumber, raw","quantity":80,"unit":"g"}],"mealType":"dinner"}
+
+Input: 75 gr yogurt, plain, whole milk 58kcal ln
+Output: {"items":[{"name":"yogurt, plain, whole milk","quantity":75,"unit":"g"}],"mealType":"late_night"}
+
+Input: 2 tbsp tomato sauce, ready-to-serve tomorrow
+Output: {"items":[{"name":"tomato sauce, ready-to-serve","quantity":2,"unit":"tablespoon"}],"mealType":"unknown"}
+
+Input: 90g eggplant, roasted + 40 grams kale, steamed 77kcal -4h
+Output: {"items":[{"name":"eggplant, roasted","quantity":90,"unit":"g"},{"name":"kale, steamed","quantity":40,"unit":"g"}],"mealType":"unknown"}
+
+Use canonical catalog names. Preserve order. Allowed units are g, kg, mg, ml, l, slice, piece, cup, serving, tablespoon, teaspoon. Use numbers, not strings. No extra item for kcal, percent, or time. No extra keys, nulls, or explanation.

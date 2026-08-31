@@ -1,0 +1,1869 @@
+previousInput,input,exercise,setNumber,reps,weightKg
+,snatch #1 40 3reps,snatch,1,3,40
+snatch #1 40 3reps,snatch set2 40x3,snatch,2,3,40
+snatch set2 40x3,snatch #3 50kgx2,snatch,3,2,50
+snatch #3 50kgx2,snatch s4 50 +10 r4,snatch,4,4,60
+snatch s4 50 +10 r4,60x4,snatch,5,4,60
+snatch s5 60kgx4,snatch set6 60kgx4,snatch,6,4,60
+snatch set6 60kgx4,60x4,snatch,7,4,60
+snatch set7 60 4r,+10 x1,snatch,8,1,70
+snatch set8 60kg +10kg x1,clean s1 50x4,clean,1,4,50
+clean s1 50x4,clean #2 50+10 r2,clean,2,2,60
+clean #2 50+10 r2,clean s3 60+10x2,clean,3,2,70
+clean s3 60+10x2,clean s4 80kgx2,clean,4,2,80
+clean s4 80kgx2,+5 x4,clean,5,4,85
+clean set5 80+5x4,85x4,clean,6,4,85
+clean #6 85 r4,clean set7 85 4reps,clean,7,4,85
+clean set7 85 4reps,clean #8 90x4,clean,8,4,90
+,fs set1 50 4reps,front_squat,1,4,50
+fs set1 50 4reps,#2 70kgx2,front_squat,2,2,70
+fs #2 70kgx2,fs #3 80kgx2,front_squat,3,2,80
+fs #3 80kgx2,fs #4 90x2,front_squat,4,2,90
+fs #4 90x2,+5 x4,front_squat,5,4,95
+fs #5 95 r4,95x4,front_squat,6,4,95
+fs set6 95x4,fs s7 95 3r,front_squat,7,3,95
+fs s7 95 3r,95x4,front_squat,8,4,95
+,press s1 30kgx7,ohp,1,7,30
+press s1 30kgx7,+10 x5,ohp,2,5,40
+ohp s2 40 5reps,ohp set3 40kgx5,ohp,3,5,40
+ohp set3 40kgx5,40x5,ohp,4,5,40
+ohp #4 40kgx5,ohp #5 40x5,ohp,5,5,40
+ohp #5 40x5,40x5,ohp,6,5,40
+,snatch s1 40kgx3,snatch,1,3,40
+snatch s1 40kgx3,40x3,snatch,2,3,40
+snatch set2 40 3r,snatch s3 50 2,snatch,3,2,50
+snatch s3 50 2,snatch set4 50+5x4,snatch,4,4,55
+snatch set4 50+5x4,55x4,snatch,5,4,55
+snatch set5 55 4r,55x4,snatch,6,4,55
+snatch #6 55x4,snatch #7 55 r4,snatch,7,4,55
+,spull #1 75kgx3,snatch_pull,1,3,75
+spull #1 75kgx3,s2 75x3,snatch_pull,2,3,75
+spull s2 75x3,#3 75x4,snatch_pull,3,4,75
+,clean s1 50kgx4,clean,1,4,50
+clean s1 50kgx4,+10 x2,clean,2,2,60
+clean #2 50+10x2,+10 x2,clean,3,2,70
+clean #3 60kg +10kg x2,+10 x2,clean,4,2,80
+clean set4 80 2reps,80x4,clean,5,4,80
+clean set5 80x4,clean set6 80 4reps,clean,6,4,80
+clean set6 80 4reps,80x4,clean,7,4,80
+clean s7 80 r4,fs #1 50kgx4,front_squat,1,4,50
+fs #1 50kgx4,+20 x2,front_squat,2,2,70
+fs set2 70x2,+10 x2,front_squat,3,2,80
+fs set3 70+10x2,#4 80+10x4,front_squat,4,4,90
+fs #4 80+10x4,set5 90 4,front_squat,5,4,90
+fs set5 90 4,set6 90 r4,front_squat,6,4,90
+fs set6 90 r4,90x4,front_squat,7,4,90
+,press set1 30 7reps,ohp,1,7,30
+press set1 30 7reps,s2 30+10 5,ohp,2,5,40
+ohp s2 30+10 5,#3 40kgx5,ohp,3,5,40
+press #3 40kgx5,ohp set4 40x5,ohp,4,5,40
+ohp set4 40x5,40x5,ohp,5,5,40
+,snatch #1 40 3,snatch,1,3,40
+snatch #1 40 3,40x3,snatch,2,3,40
+snatch set2 40 3reps,snatch set3 50 2r,snatch,3,2,50
+snatch set3 50 2r,snatch #4 50+10x4,snatch,4,4,60
+snatch #4 50+10x4,60x4,snatch,5,4,60
+snatch s5 60 r4,60x4,snatch,6,4,60
+snatch #6 60x4,60x4,snatch,7,4,60
+,clean s1 50 4,clean,1,4,50
+clean s1 50 4,set2 50kg +10kg x2,clean,2,2,60
+clean set2 50kg +10kg x2,clean #3 70 r2,clean,3,2,70
+clean #3 70 r2,clean #4 70+10x2,clean,4,2,80
+clean #4 70+10x2,s5 80 +5 4r,clean,5,4,85
+clean s5 80 +5 4r,clean s6 85x4,clean,6,4,85
+clean s6 85x4,clean set7 85+5 r4,clean,7,4,90
+clean set7 85+5 r4,clean set8 90 4reps,clean,8,4,90
+clean set8 90 4reps,fs set1 50x4,front_squat,1,4,50
+fs set1 50x4,+20 x2,front_squat,2,2,70
+fs #2 70kgx2,+10 x3,front_squat,3,3,80
+fs s3 70 +10 r3,fs #4 80 +10 2reps,front_squat,4,2,90
+fs #4 80 +10 2reps,set5 90kg +5kg x4,front_squat,5,4,95
+fs set5 90kg +5kg x4,set6 95 4,front_squat,6,4,95
+fs set6 95 4,95x3,front_squat,7,3,95
+fs #7 95x3,95x4,front_squat,8,4,95
+,snatch #1 40x3,snatch,1,3,40
+snatch #1 40x3,snatch #2 40x3,snatch,2,3,40
+snatch #2 40x3,snatch s3 40+10 2reps,snatch,3,2,50
+snatch s3 40+10 2reps,snatch s4 60x2,snatch,4,2,60
+snatch s4 60x2,s5 60kg +5kg x3,snatch,5,3,65
+snatch s5 60kg +5kg x3,65x3,snatch,6,3,65
+snatch set6 65 r3,snatch #7 65kgx3,snatch,7,3,65
+,clean set1 50x4,clean,1,4,50
+clean set1 50x4,clean s2 60x2,clean,2,2,60
+clean s2 60x2,+10 x2,clean,3,2,70
+clean set3 70kgx2,s4 80x4,clean,4,4,80
+clean s4 80x4,80x4,clean,5,4,80
+clean set5 80 r4,clean #6 80x4,clean,6,4,80
+clean #6 80x4,80x4,clean,7,4,80
+,squat s1 50kgx4,squat,1,4,50
+squat s1 50kgx4,squat #2 50kg +20kg x3,squat,2,3,70
+squat #2 50kg +20kg x3,+10 x2,squat,3,2,80
+squat s3 70kg +10kg x2,squat set4 80kg +10kg x2,squat,4,2,90
+squat set4 80kg +10kg x2,squat set5 90kg +10kg x4,squat,5,4,100
+squat set5 90kg +10kg x4,100x4,squat,6,4,100
+squat s6 100kgx4,100x4,squat,7,4,100
+squat #7 100kgx4,#8 100kgx4,squat,8,4,100
+,snatch #1 40 r3,snatch,1,3,40
+snatch #1 40 r3,set2 40kgx3,snatch,2,3,40
+snatch set2 40kgx3,+10 x2,snatch,3,2,50
+snatch #3 40kg +10kg x2,+10 x4,snatch,4,4,60
+snatch set4 50kg +10kg x4,60x4,snatch,5,4,60
+snatch set5 60x4,60x4,snatch,6,4,60
+snatch set6 60 4r,snatch set7 60 4r,snatch,7,4,60
+,clean set1 50x3,clean,1,3,50
+clean set1 50x3,s2 60x3,clean,2,3,60
+clean s2 60x3,clean #3 60kg +10kg x2,clean,3,2,70
+clean #3 60kg +10kg x2,#4 80x2,clean,4,2,80
+clean #4 80x2,clean #5 80 +5 4reps,clean,5,4,85
+clean #5 80 +5 4reps,85x4,clean,6,4,85
+clean s6 85kgx4,clean s7 85x4,clean,7,4,85
+clean s7 85x4,s8 85 4r,clean,8,4,85
+clean s8 85 4r,fs s1 50x4,front_squat,1,4,50
+fs s1 50x4,s2 70x3,front_squat,2,3,70
+fs s2 70x3,+10 x3,front_squat,3,3,80
+fs set3 70 +10 3,fs set4 80 +10 4reps,front_squat,4,4,90
+fs set4 80 +10 4reps,90x4,front_squat,5,4,90
+fs #5 90x4,fs s6 90kgx4,front_squat,6,4,90
+fs s6 90kgx4,s7 90x4,front_squat,7,4,90
+fs s7 90x4,90x4,front_squat,8,4,90
+,press s1 30 r7,ohp,1,7,30
+press s1 30 r7,+10 x5,ohp,2,5,40
+ohp #2 40kgx5,40x5,ohp,3,5,40
+press set3 40kgx5,ohp #4 40 5reps,ohp,4,5,40
+ohp #4 40 5reps,40x5,ohp,5,5,40
+ohp set5 40 r5,40x9,ohp,6,9,40
+,psnatch #1 40x4,power_snatch,1,4,40
+psnatch #1 40x4,psnatch #2 40kgx4,power_snatch,2,4,40
+psnatch #2 40kgx4,set3 40+10x3,power_snatch,3,3,50
+psnatch set3 40+10x3,psnatch #4 50+10x4,power_snatch,4,4,60
+psnatch #4 50+10x4,psnatch set5 60x4,power_snatch,5,4,60
+psnatch set5 60x4,s6 60kgx4,power_snatch,6,4,60
+psnatch s6 60kgx4,#7 60kgx4,power_snatch,7,4,60
+psnatch #7 60kgx4,#8 60x4,power_snatch,8,4,60
+psnatch #8 60x4,pclean s1 50 5,power_clean,1,5,50
+pclean s1 50 5,pclean s2 60x3,power_clean,2,3,60
+pclean s2 60x3,pclean #3 60kg +10kg x2,power_clean,3,2,70
+pclean #3 60kg +10kg x2,set4 80 4reps,power_clean,4,4,80
+pclean set4 80 4reps,80x4,power_clean,5,4,80
+pclean s5 80kgx4,#6 80kgx4,power_clean,6,4,80
+pclean #6 80kgx4,s7 80 r4,power_clean,7,4,80
+,squat #1 50kgx5,squat,1,5,50
+squat #1 50kgx5,squat #2 50kg +20kg x3,squat,2,3,70
+squat #2 50kg +20kg x3,+10 x3,squat,3,3,80
+squat #3 70 +10 3r,s4 90x2,squat,4,2,90
+squat s4 90x2,squat #5 100x4,squat,5,4,100
+squat #5 100x4,s6 100x4,squat,6,4,100
+squat s6 100x4,100x4,squat,7,4,100
+squat s7 100 4,squat set8 100x7,squat,8,7,100
+,snatch #1 40kgx3,snatch,1,3,40
+snatch #1 40kgx3,#2 40 3reps,snatch,2,3,40
+snatch #2 40 3reps,snatch #3 40+10x3,snatch,3,3,50
+snatch #3 40+10x3,#4 50+10x4,snatch,4,4,60
+snatch #4 50+10x4,snatch s5 60x4,snatch,5,4,60
+snatch s5 60x4,set6 65 r4,snatch,6,4,65
+snatch set6 65 r4,snatch s7 65x4,snatch,7,4,65
+snatch s7 65x4,s8 65kg +5kg x1,snatch,8,1,70
+,clean #1 50kgx4,clean,1,4,50
+clean #1 50kgx4,+10 x4,clean,2,4,60
+clean set2 50+10 r4,#3 60+10 r3,clean,3,3,70
+clean #3 60+10 r3,#4 80 2reps,clean,4,2,80
+clean #4 80 2reps,clean s5 90 r3,clean,5,3,90
+clean s5 90 r3,clean #6 90 r3,clean,6,3,90
+clean #6 90 r3,#7 90kgx6,clean,7,6,90
+,psnatch #1 40kgx3,power_snatch,1,3,40
+psnatch #1 40kgx3,#2 40 3,power_snatch,2,3,40
+psnatch #2 40 3,+10 x3,power_snatch,3,3,50
+psnatch s3 40+10x3,psnatch s4 50+5x1,power_snatch,4,1,55
+psnatch s4 50+5x1,+5 x4,power_snatch,5,4,60
+psnatch set5 55+5 4,s6 60kgx4,power_snatch,6,4,60
+psnatch s6 60kgx4,psnatch s7 60kgx4,power_snatch,7,4,60
+psnatch s7 60kgx4,60x4,power_snatch,8,4,60
+,pclean #1 50kgx4,power_clean,1,4,50
+pclean #1 50kgx4,+20 x3,power_clean,2,3,70
+pclean set2 70x3,#3 80 r4,power_clean,3,4,80
+pclean #3 80 r4,set4 80x4,power_clean,4,4,80
+pclean set4 80x4,#5 80 4,power_clean,5,4,80
+pclean #5 80 4,s6 80 4reps,power_clean,6,4,80
+,snatch set1 40x3,snatch,1,3,40
+snatch set1 40x3,snatch #2 40kgx3,snatch,2,3,40
+snatch #2 40kgx3,snatch set3 50 3reps,snatch,3,3,50
+snatch set3 50 3reps,+10 x4,snatch,4,4,60
+snatch #4 50kg +10kg x4,s5 65 4r,snatch,5,4,65
+snatch s5 65 4r,65x4,snatch,6,4,65
+snatch s6 65kgx4,65x4,snatch,7,4,65
+snatch set7 65 4r,snatch set8 65 4r,snatch,8,4,65
+,snatch #1 30kgx5,snatch,1,5,30
+snatch #1 30kgx5,+10 x4,snatch,2,4,40
+snatch s2 40x4,snatch #3 40 +10 r3,snatch,3,3,50
+snatch #3 40 +10 r3,snatch set4 60 2r,snatch,4,2,60
+snatch set4 60 2r,s5 65kgx3,snatch,5,3,65
+snatch s5 65kgx3,set6 65x3,snatch,6,3,65
+snatch set6 65x3,s7 65kgx3,snatch,7,3,65
+snatch s7 65kgx3,snatch set8 65 4r,snatch,8,4,65
+snatch set8 65 4r,set9 65 2,snatch,9,2,65
+,clean set1 50kgx5,clean,1,5,50
+clean set1 50kgx5,+10 x3,clean,2,3,60
+clean #2 50+10 3,clean s3 60+10x2,clean,3,2,70
+clean s3 60+10x2,clean s4 70+10 2r,clean,4,2,80
+clean s4 70+10 2r,clean #5 80+10 r4,clean,5,4,90
+clean #5 80+10 r4,#6 90kgx4,clean,6,4,90
+clean #6 90kgx4,clean set7 90x4,clean,7,4,90
+clean set7 90x4,clean #8 90 1,clean,8,1,90
+,snatch set1 40x5,snatch,1,5,40
+snatch set1 40x5,set2 40kg +10kg x4,snatch,2,4,50
+snatch set2 40kg +10kg x4,#3 60kgx2,snatch,3,2,60
+snatch #3 60kgx2,snatch set4 65 2r,snatch,4,2,65
+snatch set4 65 2r,-5 x4,snatch,5,4,60
+snatch s5 60kgx4,60x4,snatch,6,4,60
+snatch s6 60kgx4,60x4,snatch,7,4,60
+snatch #7 60kgx4,snatch #8 60x4,snatch,8,4,60
+snatch #8 60x4,clean s1 50 3r,clean,1,3,50
+clean s1 50 3r,+10 x3,clean,2,3,60
+clean set2 50+10x3,s3 70 3,clean,3,3,70
+clean s3 70 3,+10 x2,clean,4,2,80
+clean set4 80kgx2,+5 x1,clean,5,1,85
+clean s5 80+5 r1,clean #6 85-5x4,clean,6,4,80
+clean #6 85-5x4,80x4,clean,7,4,80
+clean s7 80 4r,clean #8 80 4,clean,8,4,80
+clean #8 80 4,clean #9 80x4,clean,9,4,80
+,snatch s1 40 r3,snatch,1,3,40
+snatch s1 40 r3,set2 40x3,snatch,2,3,40
+snatch set2 40x3,snatch set3 40kg +10kg x3,snatch,3,3,50
+snatch set3 40kg +10kg x3,+10 x3,snatch,4,3,60
+snatch s4 50kg +10kg x3,snatch #5 65 4reps,snatch,5,4,65
+snatch #5 65 4reps,snatch #6 65x4,snatch,6,4,65
+snatch #6 65x4,snatch s7 65kgx4,snatch,7,4,65
+snatch s7 65kgx4,65x4,snatch,8,4,65
+snatch #8 65x4,snatch #9 70kgx1,snatch,9,1,70
+,squat #1 50x5,squat,1,5,50
+squat #1 50x5,squat set2 70 3reps,squat,2,3,70
+squat set2 70 3reps,+10 x3,squat,3,3,80
+squat s3 70+10 3,#4 90 2reps,squat,4,2,90
+squat #4 90 2reps,+10 x4,squat,5,4,100
+squat #5 90 +10 4reps,s6 100 r4,squat,6,4,100
+squat s6 100 r4,100x4,squat,7,4,100
+squat #7 100kgx4,set8 100kgx4,squat,8,4,100
+squat set8 100kgx4,#9 100kgx4,squat,9,4,100
+,clean #1 40 3,clean,1,3,40
+clean #1 40 3,s2 50x4,clean,2,4,50
+clean s2 50x4,clean #3 50 +10 3reps,clean,3,3,60
+clean #3 50 +10 3reps,s4 70x2,clean,4,2,70
+clean s4 70x2,set5 70 +10 5reps,clean,5,5,80
+clean set5 70 +10 5reps,#6 80kgx5,clean,6,5,80
+clean #6 80kgx5,#7 80x5,clean,7,5,80
+clean #7 80x5,80x5,clean,8,5,80
+clean set8 80kgx5,80x6,clean,9,6,80
+,squat s1 50x4,squat,1,4,50
+squat s1 50x4,+20 x5,squat,2,5,70
+squat s2 70kgx5,#3 80x3,squat,3,3,80
+squat #3 80x3,#4 80+10x3,squat,4,3,90
+squat #4 80+10x3,squat s5 90+10 4,squat,5,4,100
+squat s5 90+10 4,squat #6 100x4,squat,6,4,100
+squat #6 100x4,squat set7 100 4reps,squat,7,4,100
+squat set7 100 4reps,s8 100x4,squat,8,4,100
+,snatch set1 40x3,snatch,1,3,40
+snatch set1 40x3,s2 40 3,snatch,2,3,40
+snatch s2 40 3,snatch set3 40kg +10kg x3,snatch,3,3,50
+snatch set3 40kg +10kg x3,snatch #4 50+10 r3,snatch,4,3,60
+snatch #4 50+10 r3,s5 65kgx2,snatch,5,2,65
+snatch s5 65kgx2,-5 x4,snatch,6,4,60
+snatch #6 65 -5 4reps,60x3,snatch,7,3,60
+snatch set7 60 3r,spull #1 70 5r,snatch_pull,1,5,70
+spull #1 70 5r,s2 70 r5,snatch_pull,2,5,70
+spull s2 70 r5,spull set3 70kgx5,snatch_pull,3,5,70
+,clean #1 50 r4,clean,1,4,50
+clean #1 50 r4,clean set2 50kg +10kg x3,clean,2,3,60
+clean set2 50kg +10kg x3,set3 70kgx3,clean,3,3,70
+clean set3 70kgx3,clean #4 70 +10 4r,clean,4,4,80
+clean #4 70 +10 4r,80x4,clean,5,4,80
+clean #5 80 4reps,80x4,clean,6,4,80
+clean #6 80kgx4,set7 80 4,clean,7,4,80
+clean set7 80 4,clean set8 90kgx1,clean,8,1,90
+,deadlift set1 100x4,deadlift,1,4,100
+deadlift set1 100x4,deadlift s2 100 4reps,deadlift,2,4,100
+deadlift s2 100 4reps,100x4,deadlift,3,4,100
+,squat #1 50kgx4,squat,1,4,50
+squat #1 50kgx4,#2 50+20x4,squat,2,4,70
+squat #2 50+20x4,squat #3 70 +10 r4,squat,3,4,80
+squat #3 70 +10 r4,squat s4 90x4,squat,4,4,90
+squat s4 90x4,+10 x4,squat,5,4,100
+squat s5 100kgx4,squat set6 100x4,squat,6,4,100
+squat set6 100x4,100x4,squat,7,4,100
+,snatch #1 40kgx3,snatch,1,3,40
+snatch #1 40kgx3,snatch #2 40x3,snatch,2,3,40
+snatch #2 40x3,+10 x3,snatch,3,3,50
+snatch s3 40+10 r3,snatch #4 55kgx3,snatch,4,3,55
+snatch #4 55kgx3,55x3,snatch,5,3,55
+snatch s5 55 3r,snatch s6 55kgx3,snatch,6,3,55
+,clean set1 40x5,clean,1,5,40
+clean set1 40x5,set2 40+10 3r,clean,2,3,50
+clean set2 40+10 3r,set3 50+10x3,clean,3,3,60
+clean set3 50+10x3,+10 x3,clean,4,3,70
+clean #4 60kg +10kg x3,70x3,clean,5,3,70
+clean #5 70kgx3,70x3,clean,6,3,70
+,squat set1 50x5,squat,1,5,50
+squat set1 50x5,set2 50kg +10kg x3,squat,2,3,60
+squat set2 50kg +10kg x3,+10 x3,squat,3,3,70
+squat s3 70 3,+10 x3,squat,4,3,80
+squat #4 80x3,squat set5 80kgx3,squat,5,3,80
+squat set5 80kgx3,80x3,squat,6,3,80
+,snatch s1 40kgx3,snatch,1,3,40
+snatch s1 40kgx3,40x5,snatch,2,5,40
+snatch #2 40kgx5,snatch s3 50x4,snatch,3,4,50
+snatch s3 50x4,+10 x3,snatch,4,3,60
+snatch #4 50+10x3,#5 60kgx3,snatch,5,3,60
+snatch #5 60kgx3,snatch s6 60 r3,snatch,6,3,60
+,clean s1 40kgx5,clean,1,5,40
+clean s1 40kgx5,clean set2 40 +10 3reps,clean,2,3,50
+clean set2 40 +10 3reps,s3 60x3,clean,3,3,60
+clean s3 60x3,+10 x2,clean,4,2,70
+clean set4 60 +10 2reps,clean #5 70 +10 3,clean,5,3,80
+clean #5 70 +10 3,clean #6 80x3,clean,6,3,80
+clean #6 80x3,clean #7 80+5 3,clean,7,3,85
+clean #7 80+5 3,clean set8 85+5x1,clean,8,1,90
+,squat s1 50x10,squat,1,10,50
+squat s1 50x10,+20 x5,squat,2,5,70
+squat #2 50+20 5reps,+10 x2,squat,3,2,80
+squat #3 80kgx2,#4 90 3,squat,4,3,90
+squat #4 90 3,squat set5 90kgx3,squat,5,3,90
+squat set5 90kgx3,90x3,squat,6,3,90
+squat s6 90 3,90x3,squat,7,3,90
+,snatch s1 40kgx4,snatch,1,4,40
+snatch s1 40kgx4,40x3,snatch,2,3,40
+snatch #2 40kgx3,snatch s3 40+10 r3,snatch,3,3,50
+snatch s3 40+10 r3,snatch #4 60x4,snatch,4,4,60
+snatch #4 60x4,60x4,snatch,5,4,60
+snatch set5 60 4r,snatch #6 60x4,snatch,6,4,60
+snatch #6 60x4,snatch set7 60x4,snatch,7,4,60
+snatch set7 60x4,#8 65kgx1,snatch,8,1,65
+snatch #8 65kgx1,clean set1 50 5r,clean,1,5,50
+clean set1 50 5r,clean s2 50 +10 3reps,clean,2,3,60
+clean s2 50 +10 3reps,clean s3 60+10x3,clean,3,3,70
+clean s3 60+10x3,clean #4 70+10x4,clean,4,4,80
+clean #4 70+10x4,s5 80kgx4,clean,5,4,80
+clean s5 80kgx4,#6 80kgx4,clean,6,4,80
+clean #6 80kgx4,clean set7 80kgx4,clean,7,4,80
+,snatch s1 40x4,snatch,1,4,40
+snatch s1 40x4,+10 x3,snatch,2,3,50
+snatch set2 50kgx3,snatch s3 50kg +10kg x4,snatch,3,4,60
+snatch s3 50kg +10kg x4,s4 60x4,snatch,4,4,60
+snatch s4 60x4,snatch #5 60x4,snatch,5,4,60
+snatch #5 60x4,set6 60 4,snatch,6,4,60
+snatch set6 60 4,snatch #7 60x4,snatch,7,4,60
+snatch #7 60x4,+5 x2,snatch,8,2,65
+,snatch #1 40kgx4,snatch,1,4,40
+snatch #1 40kgx4,+10 x2,snatch,2,2,50
+snatch s2 40+10 2,+5 x1,snatch,3,1,55
+snatch set3 50+5 r1,snatch set4 55 +5 3,snatch,4,3,60
+snatch set4 55 +5 3,60x3,snatch,5,3,60
+snatch set5 60kgx3,+5 x3,snatch,6,3,65
+snatch set6 60kg +5kg x3,65x3,snatch,7,3,65
+snatch #7 65kgx3,clean s1 50kgx4,clean,1,4,50
+clean s1 50kgx4,#2 50+10 r3,clean,2,3,60
+clean #2 50+10 r3,clean s3 70 r3,clean,3,3,70
+clean s3 70 r3,clean s4 70kg +10kg x3,clean,4,3,80
+clean s4 70kg +10kg x3,clean set5 80 3reps,clean,5,3,80
+,dl s1 90kgx3,deadlift,1,3,90
+dl s1 90kgx3,deadlift set2 90 3reps,deadlift,2,3,90
+deadlift set2 90 3reps,#3 90kgx5,deadlift,3,5,90
+,snatch #1 40 3,snatch,1,3,40
+snatch #1 40 3,snatch set2 40kgx3,snatch,2,3,40
+snatch set2 40kgx3,+10 x3,snatch,3,3,50
+snatch s3 50x3,snatch s4 60 4reps,snatch,4,4,60
+snatch s4 60 4reps,snatch s5 60x4,snatch,5,4,60
+snatch s5 60x4,snatch s6 60x4,snatch,6,4,60
+snatch s6 60x4,60x4,snatch,7,4,60
+,clean s1 50x4,clean,1,4,50
+clean s1 50x4,clean set2 50+10x2,clean,2,2,60
+clean set2 50+10x2,clean set3 70x3,clean,3,3,70
+clean set3 70x3,clean #4 80 r4,clean,4,4,80
+clean #4 80 r4,clean #5 80 4,clean,5,4,80
+clean #5 80 4,clean #6 80kgx4,clean,6,4,80
+clean #6 80kgx4,clean set7 80kgx3,clean,7,3,80
+,squat #1 60 5,squat,1,5,60
+squat #1 60 5,squat s2 60+20x4,squat,2,4,80
+squat s2 60+20x4,+10 x3,squat,3,3,90
+squat set3 80+10x3,90x4,squat,4,4,90
+squat #4 90 r4,squat #5 90 4,squat,5,4,90
+,snatch set1 40 3r,snatch,1,3,40
+snatch set1 40 3r,#2 40x3,snatch,2,3,40
+snatch #2 40x3,set3 40kg +10kg x3,snatch,3,3,50
+snatch set3 40kg +10kg x3,snatch s4 60kgx4,snatch,4,4,60
+snatch s4 60kgx4,60x4,snatch,5,4,60
+snatch s5 60 4,60x4,snatch,6,4,60
+snatch #6 60x4,set7 60 r4,snatch,7,4,60
+snatch set7 60 r4,60x4,snatch,8,4,60
+,squat #1 60x5,squat,1,5,60
+squat #1 60x5,#2 80x4,squat,2,4,80
+squat #2 80x4,s3 80kg +10kg x3,squat,3,3,90
+squat s3 80kg +10kg x3,set4 90+10 r4,squat,4,4,100
+squat set4 90+10 r4,squat #5 100 4r,squat,5,4,100
+squat #5 100 4r,squat s6 100 4r,squat,6,4,100
+squat s6 100 4r,squat set7 100kgx4,squat,7,4,100
+,snatch set1 40x3,snatch,1,3,40
+snatch set1 40x3,40x4,snatch,2,4,40
+snatch s2 40x4,snatch #3 50x4,snatch,3,4,50
+snatch #3 50x4,snatch set4 50 +10 3,snatch,4,3,60
+snatch set4 50 +10 3,+5 x3,snatch,5,3,65
+snatch set5 65x3,65x3,snatch,6,3,65
+snatch s6 65x3,snatch s7 65x3,snatch,7,3,65
+,clean s1 50x5,clean,1,5,50
+clean s1 50x5,clean s2 50+20x3,clean,2,3,70
+clean s2 50+20x3,set3 70+10x3,clean,3,3,80
+clean set3 70+10x3,s4 90kgx3,clean,4,3,90
+clean s4 90kgx3,clean s5 90x3,clean,5,3,90
+clean s5 90x3,clean set6 90 r3,clean,6,3,90
+,squat #1 60kgx5,squat,1,5,60
+squat #1 60kgx5,set2 80x4,squat,2,4,80
+squat set2 80x4,squat s3 80+10 3,squat,3,3,90
+squat s3 80+10 3,squat s4 100x3,squat,4,3,100
+squat s4 100x3,100x3,squat,5,3,100
+squat set5 100 3,#6 100kgx3,squat,6,3,100
+squat #6 100kgx3,press #1 40 6reps,ohp,1,6,40
+press #1 40 6reps,ohp set2 40 +10 6,ohp,2,6,50
+ohp set2 40 +10 6,ohp #3 50+10x4,ohp,3,4,60
+ohp #3 50+10x4,60x5,ohp,4,5,60
+press #4 60x5,ohp #5 60 8reps,ohp,5,8,60
+,squat set1 50kgx5,squat,1,5,50
+squat set1 50kgx5,set2 60 4,squat,2,4,60
+squat set2 60 4,squat s3 60+20x3,squat,3,3,80
+squat s3 60+20x3,squat set4 90 3r,squat,4,3,90
+squat set4 90 3r,squat set5 90kg +10kg x4,squat,5,4,100
+squat set5 90kg +10kg x4,s6 100x4,squat,6,4,100
+squat s6 100x4,100x4,squat,7,4,100
+squat s7 100kgx4,100x4,squat,8,4,100
+squat #8 100 4,spull set1 50x4,snatch_pull,1,4,50
+spull set1 50x4,s2 50 +10 r4,snatch_pull,2,4,60
+spull s2 50 +10 r4,spull set3 60+10 4r,snatch_pull,3,4,70
+spull set3 60+10 4r,70x4,snatch_pull,4,4,70
+spull #4 70 4,#5 70 +5 4reps,snatch_pull,5,4,75
+spull #5 70 +5 4reps,set6 75 r4,snatch_pull,6,4,75
+,squat set1 50x5,squat,1,5,50
+squat set1 50x5,+10 x4,squat,2,4,60
+squat #2 50+10 4reps,+20 x4,squat,3,4,80
+squat s3 80kgx4,squat #4 80kg +10kg x2,squat,4,2,90
+squat #4 80kg +10kg x2,90x5,squat,5,5,90
+squat s5 90x5,90x5,squat,6,5,90
+squat s6 90 5reps,set7 90x5,squat,7,5,90
+squat set7 90x5,90x5,squat,8,5,90
+,spull set1 50kgx4,snatch_pull,1,4,50
+spull set1 50kgx4,s2 50kg +10kg x4,snatch_pull,2,4,60
+spull s2 50kg +10kg x4,+10 x4,snatch_pull,3,4,70
+spull s3 60+10 4reps,#4 70x4,snatch_pull,4,4,70
+spull #4 70x4,#5 70 r4,snatch_pull,5,4,70
+spull #5 70 r4,70x4,snatch_pull,6,4,70
+,snatch #1 40kgx3,snatch,1,3,40
+snatch #1 40kgx3,snatch #2 40kgx3,snatch,2,3,40
+snatch #2 40kgx3,+10 x3,snatch,3,3,50
+snatch s3 50x3,50x3,snatch,4,3,50
+snatch s4 50 r3,snatch set5 50kg +5kg x3,snatch,5,3,55
+snatch set5 50kg +5kg x3,s6 55+5x1,snatch,6,1,60
+snatch s6 55+5x1,clean s1 50 r3,clean,1,3,50
+clean s1 50 r3,+10 x3,clean,2,3,60
+clean #2 50+10x3,set3 60kg +10kg x3,clean,3,3,70
+clean set3 60kg +10kg x3,clean #4 70 3,clean,4,3,70
+clean #4 70 3,+10 x3,clean,5,3,80
+clean #5 70 +10 3reps,clean s6 90x1,clean,6,1,90
+,squat set1 50x5,squat,1,5,50
+squat set1 50x5,+20 x4,squat,2,4,70
+squat s2 70 4,set3 70 +10 4reps,squat,3,4,80
+squat set3 70 +10 4reps,+10 x4,squat,4,4,90
+squat s4 80kg +10kg x4,squat #5 90kgx4,squat,5,4,90
+squat #5 90kgx4,squat #6 90kgx4,squat,6,4,90
+squat #6 90kgx4,90x4,squat,7,4,90
+squat s7 90 4r,ohp #1 40kgx5,ohp,1,5,40
+ohp #1 40kgx5,set2 40x5,ohp,2,5,40
+press set2 40x5,ohp s3 40 +10 r5,ohp,3,5,50
+ohp s3 40 +10 r5,ohp #4 50kgx5,ohp,4,5,50
+ohp #4 50kgx5,ohp #5 50 +5 5r,ohp,5,5,55
+,fs s1 40x4,front_squat,1,4,40
+fs s1 40x4,+10 x4,front_squat,2,4,50
+fs s2 40+10x4,#3 50+10x4,front_squat,3,4,60
+fs #3 50+10x4,fs set4 60 +10 r4,front_squat,4,4,70
+fs set4 60 +10 r4,set5 80kgx5,front_squat,5,5,80
+fs set5 80kgx5,fs set6 80x5,front_squat,6,5,80
+fs set6 80x5,fs s7 80 5,front_squat,7,5,80
+fs s7 80 5,80x5,front_squat,8,5,80
+fs #8 80 5r,fs set9 80 5,front_squat,9,5,80
+,press #1 30kgx5,ohp,1,5,30
+press #1 30kgx5,press set2 40 5reps,ohp,2,5,40
+press set2 40 5reps,s3 40kgx5,ohp,3,5,40
+press s3 40kgx5,press s4 40kgx5,ohp,4,5,40
+,snatch #1 40kgx3,snatch,1,3,40
+snatch #1 40kgx3,40x3,snatch,2,3,40
+snatch set2 40x3,snatch #3 50kgx3,snatch,3,3,50
+snatch #3 50kgx3,snatch #4 50+5x4,snatch,4,4,55
+snatch #4 50+5x4,snatch set5 55 4r,snatch,5,4,55
+snatch set5 55 4r,+5 x4,snatch,6,4,60
+snatch #6 55+5x4,#7 60 r4,snatch,7,4,60
+snatch #7 60 r4,+5 x1,snatch,8,1,65
+,clean #1 50x3,clean,1,3,50
+clean #1 50x3,+20 x3,clean,2,3,70
+clean set2 50+20 3reps,+10 x4,clean,3,4,80
+clean #3 80 4reps,set4 80x4,clean,4,4,80
+clean set4 80x4,80x4,clean,5,4,80
+clean #5 80x4,set6 80x4,clean,6,4,80
+clean set6 80x4,s7 80+15 r1,clean,7,1,95
+clean s7 80+15 r1,squat s1 50kgx5,squat,1,5,50
+squat s1 50kgx5,squat s2 70x3,squat,2,3,70
+squat s2 70x3,squat s3 70 +20 3,squat,3,3,90
+squat s3 70 +20 3,+10 x4,squat,4,4,100
+squat #4 90kg +10kg x4,set5 100x4,squat,5,4,100
+squat set5 100x4,100x4,squat,6,4,100
+squat set6 100kgx4,squat s7 100x4,squat,7,4,100
+,sj s1 40 5reps,split_jerk,1,5,40
+sj s1 40 5reps,sj set2 40 +10 4reps,split_jerk,2,4,50
+sj set2 40 +10 4reps,sj #3 60x4,split_jerk,3,4,60
+,snatch #1 40x3,snatch,1,3,40
+snatch #1 40x3,40x2,snatch,2,2,40
+snatch s2 40 2reps,set3 50 r3,snatch,3,3,50
+snatch set3 50 r3,s4 50kg +10kg x5,snatch,4,5,60
+snatch s4 50kg +10kg x5,60x4,snatch,5,4,60
+snatch s5 60kgx4,60x4,snatch,6,4,60
+snatch s6 60kgx4,60x4,snatch,7,4,60
+snatch s7 60kgx4,+10 x1,snatch,8,1,70
+snatch set8 60+10 1,set9 70 1,snatch,9,1,70
+,clean s1 45x4,clean,1,4,45
+clean s1 45x4,+25 x3,clean,2,3,70
+clean #2 45+25x3,clean set3 80 3reps,clean,3,3,80
+clean set3 80 3reps,s4 85kgx4,clean,4,4,85
+clean s4 85kgx4,85x4,clean,5,4,85
+clean #5 85kgx4,set6 85 2,clean,6,2,85
+,squat s1 50 5r,squat,1,5,50
+squat s1 50 5r,squat s2 70kgx3,squat,2,3,70
+squat s2 70kgx3,squat s3 70kg +20kg x3,squat,3,3,90
+squat s3 70kg +20kg x3,+10 x4,squat,4,4,100
+squat set4 100 r4,#5 100kgx4,squat,5,4,100
+squat #5 100kgx4,squat #6 100x4,squat,6,4,100
+squat #6 100x4,squat #7 100x4,squat,7,4,100
+,snatch s1 40 3reps,snatch,1,3,40
+snatch s1 40 3reps,snatch s2 40x3,snatch,2,3,40
+snatch s2 40x3,set3 40+10x3,snatch,3,3,50
+snatch set3 40+10x3,snatch set4 60 5r,snatch,4,5,60
+snatch set4 60 5r,set5 60 4r,snatch,5,4,60
+snatch set5 60 4r,snatch #6 60 4r,snatch,6,4,60
+snatch #6 60 4r,+5 x2,snatch,7,2,65
+snatch #7 60 +5 2reps,spull #1 75 r4,snatch_pull,1,4,75
+spull #1 75 r4,spull #2 75x4,snatch_pull,2,4,75
+spull #2 75x4,spull #3 75 4r,snatch_pull,3,4,75
+spull #3 75 4r,fs #1 50x5,front_squat,1,5,50
+fs #1 50x5,+20 x4,front_squat,2,4,70
+fs #2 50kg +20kg x4,+10 x5,front_squat,3,5,80
+fs s3 70+10x5,fs s4 80 5,front_squat,4,5,80
+fs s4 80 5,fs set5 80 5,front_squat,5,5,80
+fs set5 80 5,#6 80kgx5,front_squat,6,5,80
+fs #6 80kgx5,fs #7 85x5,front_squat,7,5,85
+,snatch set1 30x5,snatch,1,5,30
+snatch set1 30x5,snatch #2 40kgx3,snatch,2,3,40
+snatch #2 40kgx3,#3 40+10 r3,snatch,3,3,50
+snatch #3 40+10 r3,+10 x4,snatch,4,4,60
+snatch #4 50+10 r4,60x4,snatch,5,4,60
+snatch #5 60x4,+5 x4,snatch,6,4,65
+snatch #6 65x4,65x4,snatch,7,4,65
+snatch s7 65x4,clean set1 45 4,clean,1,4,45
+clean set1 45 4,clean set2 65x2,clean,2,2,65
+clean set2 65x2,clean s3 65+10x3,clean,3,3,75
+clean s3 65+10x3,+10 x4,clean,4,4,85
+clean s4 75+10 4reps,clean s5 85 4r,clean,5,4,85
+clean s5 85 4r,clean #6 85kgx4,clean,6,4,85
+clean #6 85kgx4,85x4,clean,7,4,85
+clean #7 85 4,squat #1 50x4,squat,1,4,50
+squat #1 50x4,+20 x3,squat,2,3,70
+squat #2 70x3,squat #3 70+20 3,squat,3,3,90
+squat #3 70+20 3,squat #4 90+10 4r,squat,4,4,100
+squat #4 90+10 4r,s5 100kgx4,squat,5,4,100
+squat s5 100kgx4,+5 x4,squat,6,4,105
+squat set6 100+5x4,105x4,squat,7,4,105
+,sj set1 40x4,split_jerk,1,4,40
+sj set1 40x4,sj set2 50kgx4,split_jerk,2,4,50
+sj set2 50kgx4,sj set3 50+10 2r,split_jerk,3,2,60
+sj set3 50+10 2r,sj #4 60 4r,split_jerk,4,4,60
+,snatch s1 40 3reps,snatch,1,3,40
+snatch s1 40 3reps,40x3,snatch,2,3,40
+snatch set2 40x3,#3 40 +10 3reps,snatch,3,3,50
+snatch #3 40 +10 3reps,s4 50kg +10kg x4,snatch,4,4,60
+snatch s4 50kg +10kg x4,set5 60 4,snatch,5,4,60
+snatch set5 60 4,snatch #6 60 4r,snatch,6,4,60
+snatch #6 60 4r,60x4,snatch,7,4,60
+,clean #1 45kgx4,clean,1,4,45
+clean #1 45kgx4,clean #2 70kgx3,clean,2,3,70
+clean #2 70kgx3,clean set3 70 +10 4,clean,3,4,80
+clean set3 70 +10 4,clean #4 80 4r,clean,4,4,80
+clean #4 80 4r,clean s5 80kgx4,clean,5,4,80
+clean s5 80kgx4,s6 80x4,clean,6,4,80
+,squat #1 50kgx5,squat,1,5,50
+squat #1 50kgx5,#2 50+20 3,squat,2,3,70
+squat #2 50+20 3,#3 70+20x3,squat,3,3,90
+squat #3 70+20x3,squat set4 90+10 4r,squat,4,4,100
+squat set4 90+10 4r,100x4,squat,5,4,100
+squat #5 100 4,squat s6 100 4reps,squat,6,4,100
+squat s6 100 4reps,s7 100x4,squat,7,4,100
+,sj s1 30kgx8,split_jerk,1,8,30
+sj s1 30kgx8,sj set2 40kgx5,split_jerk,2,5,40
+sj set2 40kgx5,40x5,split_jerk,3,5,40
+sj #3 40 r5,sj set4 40kgx5,split_jerk,4,5,40
+,snatch set1 40 4r,snatch,1,4,40
+snatch set1 40 4r,+10 x3,snatch,2,3,50
+snatch s2 50 3r,+10 x4,snatch,3,4,60
+snatch set3 50 +10 r4,set4 60+5 3,snatch,4,3,65
+snatch set4 60+5 3,snatch s5 65 -5 4reps,snatch,5,4,60
+snatch s5 65 -5 4reps,#6 60kg +5kg x4,snatch,6,4,65
+,clean s1 50 r4,clean,1,4,50
+clean s1 50 r4,#2 70 3,clean,2,3,70
+clean #2 70 3,clean set3 80x1,clean,3,1,80
+clean set3 80x1,+5 x1,clean,4,1,85
+clean #4 80+5x1,+5 x3,clean,5,3,90
+clean s5 90 3,90x3,clean,6,3,90
+clean set6 90 3r,clean s7 90x3,clean,7,3,90
+,squat set1 80kgx4,squat,1,4,80
+squat set1 80kgx4,+10 x4,squat,2,4,90
+squat #2 80kg +10kg x4,#3 90kg +10kg x4,squat,3,4,100
+squat #3 90kg +10kg x4,100x4,squat,4,4,100
+squat set4 100x4,100x4,squat,5,4,100
+squat #5 100kgx4,100x4,squat,6,4,100
+squat s6 100x4,+10 x1,squat,7,1,110
+squat s7 110x1,+5 x1,squat,8,1,115
+,fs #1 40 4,front_squat,1,4,40
+fs #1 40 4,+10 x3,front_squat,2,3,50
+fs s2 50kgx3,set3 50 +10 3r,front_squat,3,3,60
+fs set3 50 +10 3r,+10 x2,front_squat,4,2,70
+fs s4 70 2,fs set5 80x2,front_squat,5,2,80
+fs set5 80x2,+10 x1,front_squat,6,1,90
+fs set6 90kgx1,fs set7 100x1,front_squat,7,1,100
+fs set7 100x1,set8 105x1,front_squat,8,1,105
+fs set8 105x1,+5 x1,front_squat,9,1,110
+fs #9 110 1r,+5 x1,front_squat,10,1,115
+,psnatch s1 40kgx4,power_snatch,1,4,40
+psnatch s1 40kgx4,+10 x3,power_snatch,2,3,50
+psnatch #2 40kg +10kg x3,+10 x4,power_snatch,3,4,60
+psnatch set3 50 +10 4,60x4,power_snatch,4,4,60
+psnatch s4 60x4,psnatch s5 60 r4,power_snatch,5,4,60
+psnatch s5 60 r4,s6 60 4r,power_snatch,6,4,60
+psnatch s6 60 4r,psnatch #7 65 1,power_snatch,7,1,65
+psnatch #7 65 1,pclean set1 50kgx4,power_clean,1,4,50
+pclean set1 50kgx4,#2 50+10 3,power_clean,2,3,60
+pclean #2 50+10 3,pclean #3 60 +10 2reps,power_clean,3,2,70
+pclean #3 60 +10 2reps,pclean set4 70+10x4,power_clean,4,4,80
+pclean set4 70+10x4,pclean set5 80kgx4,power_clean,5,4,80
+pclean set5 80kgx4,pclean s6 80kgx4,power_clean,6,4,80
+,snatch #1 40kgx4,snatch,1,4,40
+snatch #1 40kgx4,set2 40+10 3r,snatch,2,3,50
+snatch set2 40+10 3r,snatch s3 50 +10 4r,snatch,3,4,60
+snatch s3 50 +10 4r,+5 x4,snatch,4,4,65
+snatch #4 60+5 4,#5 65kgx4,snatch,5,4,65
+snatch #5 65kgx4,snatch s6 65x4,snatch,6,4,65
+snatch s6 65x4,#7 70 3reps,snatch,7,3,70
+snatch #7 70 3reps,clean #1 50x4,clean,1,4,50
+clean #1 50x4,s2 70kgx3,clean,2,3,70
+clean s2 70kgx3,set3 80x2,clean,3,2,80
+clean set3 80x2,clean s4 80+5 1reps,clean,4,1,85
+clean s4 80+5 1reps,clean set5 95x1,clean,5,1,95
+clean set5 95x1,+5 x1,clean,6,1,100
+clean #6 100 1,clean s7 100 -10 r3,clean,7,3,90
+clean s7 100 -10 r3,s8 90kgx3,clean,8,3,90
+clean s8 90kgx3,squat set1 60kgx4,squat,1,4,60
+squat set1 60kgx4,squat s2 60kg +20kg x3,squat,2,3,80
+squat s2 60kg +20kg x3,squat set3 80+10 3,squat,3,3,90
+squat set3 80+10 3,+10 x3,squat,4,3,100
+squat set4 100 3,#5 110 3r,squat,5,3,110
+squat #5 110 3r,squat set6 110kg +5kg x3,squat,6,3,115
+,snatch #1 30 4r,snatch,1,4,30
+snatch #1 30 4r,snatch set2 30+10 r4,snatch,2,4,40
+snatch set2 30+10 r4,#3 50 4,snatch,3,4,50
+snatch #3 50 4,+10 x2,snatch,4,2,60
+snatch s4 60kgx2,snatch set5 60x4,snatch,5,4,60
+snatch set5 60x4,60x4,snatch,6,4,60
+snatch #6 60 4,snatch s7 60kgx4,snatch,7,4,60
+snatch s7 60kgx4,60x5,snatch,8,5,60
+,cj #1 50kgx4,clean_and_jerk,1,4,50
+cj #1 50kgx4,cj set2 50x4,clean_and_jerk,2,4,50
+cj set2 50x4,cj s3 50 +10 2,clean_and_jerk,3,2,60
+cj s3 50 +10 2,+10 x1,clean_and_jerk,4,1,70
+cj set4 70 r1,+10 x2,clean_and_jerk,5,2,80
+cj s5 70kg +10kg x2,cj set6 80 r2,clean_and_jerk,6,2,80
+cj set6 80 r2,set7 80kgx2,clean_and_jerk,7,2,80
+cj set7 80kgx2,set8 80 2r,clean_and_jerk,8,2,80
+cj set8 80 2r,cj set9 80kgx2,clean_and_jerk,9,2,80
+cj set9 80kgx2,80x2,clean_and_jerk,10,2,80
+,squat #1 60x4,squat,1,4,60
+squat #1 60x4,+20 x3,squat,2,3,80
+squat s2 60+20 3r,+10 x2,squat,3,2,90
+squat set3 80+10x2,squat s4 90kg +10kg x2,squat,4,2,100
+squat s4 90kg +10kg x2,+5 x4,squat,5,4,105
+squat #5 100+5x4,squat s6 105 4,squat,6,4,105
+squat s6 105 4,squat s7 105x4,squat,7,4,105
+squat s7 105x4,105x2,squat,8,2,105
+,fs s1 50 5reps,front_squat,1,5,50
+fs s1 50 5reps,s2 50+10x4,front_squat,2,4,60
+fs s2 50+10x4,+10 x3,front_squat,3,3,70
+fs s3 70 3,fs set4 70kgx3,front_squat,4,3,70
+fs set4 70kgx3,fs s5 70+10x2,front_squat,5,2,80
+fs s5 70+10x2,+10 x2,front_squat,6,2,90
+fs set6 90kgx2,fs set7 90+10x1,front_squat,7,1,100
+fs set7 90+10x1,set8 110x1,front_squat,8,1,110
+fs set8 110x1,fs s9 110+5x1,front_squat,9,1,115
+fs s9 110+5x1,psnatch set1 40x3,power_snatch,1,3,40
+psnatch set1 40x3,s2 40+10x3,power_snatch,2,3,50
+psnatch s2 40+10x3,+10 x3,power_snatch,3,3,60
+psnatch set3 60kgx3,60x3,power_snatch,4,3,60
+psnatch s4 60 3r,#5 60x3,power_snatch,5,3,60
+psnatch #5 60x3,60x3,power_snatch,6,3,60
+psnatch set6 60x3,s7 65x1,power_snatch,7,1,65
+,pclean set1 50x4,power_clean,1,4,50
+pclean set1 50x4,+10 x2,power_clean,2,2,60
+pclean #2 60kgx2,s3 60 +10 2,power_clean,3,2,70
+pclean s3 60 +10 2,pclean s4 70kg +10kg x2,power_clean,4,2,80
+pclean s4 70kg +10kg x2,80x2,power_clean,5,2,80
+pclean #5 80kgx2,pclean set6 80kgx2,power_clean,6,2,80
+pclean set6 80kgx2,80x1,power_clean,7,1,80
+pclean #7 80x1,pclean set8 90kgx1,power_clean,8,1,90
+pclean set8 90kgx1,spull s1 60kgx2,snatch_pull,1,2,60
+spull s1 60kgx2,spull #2 70 2reps,snatch_pull,2,2,70
+spull #2 70 2reps,s3 70+10x4,snatch_pull,3,4,80
+spull s3 70+10x4,+5 x4,snatch_pull,4,4,85
+spull set4 85kgx4,85x4,snatch_pull,5,4,85
+,snatch set1 40kgx4,snatch,1,4,40
+snatch set1 40kgx4,s2 50kgx3,snatch,2,3,50
+snatch s2 50kgx3,+10 x3,snatch,3,3,60
+snatch s3 60x3,snatch s4 65 3,snatch,4,3,65
+snatch s4 65 3,65x3,snatch,5,3,65
+snatch #5 65 3,+5 x2,snatch,6,2,70
+snatch #6 65+5x2,s7 70 +5 2r,snatch,7,2,75
+,clean set1 50x4,clean,1,4,50
+clean set1 50x4,+20 x3,clean,2,3,70
+clean #2 50+20 3reps,+10 x1,clean,3,1,80
+clean #3 80x1,+5 x1,clean,4,1,85
+clean set4 85 r1,clean s5 90 3reps,clean,5,3,90
+clean s5 90 3reps,90x3,clean,6,3,90
+clean #6 90x3,#7 90x3,clean,7,3,90
+,squat #1 60x4,squat,1,4,60
+squat #1 60x4,squat set2 80kgx4,squat,2,4,80
+squat set2 80kgx4,squat s3 80+15 3reps,squat,3,3,95
+squat s3 80+15 3reps,#4 95 +5 1r,squat,4,1,100
+squat #4 95 +5 1r,squat #5 100+5 r1,squat,5,1,105
+squat #5 100+5 r1,squat set6 110kgx3,squat,6,3,110
+squat set6 110kgx3,squat set7 110kgx2,squat,7,2,110
+squat set7 110kgx2,110x3,squat,8,3,110
+squat s8 110 3r,sb #1 30 4,snatch_balance,1,4,30
+sb #1 30 4,sb #2 30kg +10kg x5,snatch_balance,2,5,40
+sb #2 30kg +10kg x5,sb set3 40+5x4,snatch_balance,3,4,45
+sb set3 40+5x4,sb s4 45+5x4,snatch_balance,4,4,50
+sb s4 45+5x4,+10 x1,snatch_balance,5,1,60
+,snatch s1 40x5,snatch,1,5,40
+snatch s1 40x5,snatch s2 50 5r,snatch,2,5,50
+snatch s2 50 5r,#3 55kgx5,snatch,3,5,55
+snatch #3 55kgx5,55x5,snatch,4,5,55
+snatch #4 55x5,snatch s5 55+5x5,snatch,5,5,60
+snatch s5 55+5x5,snatch #6 65kgx5,snatch,6,5,65
+snatch #6 65kgx5,snatch set7 70kgx1,snatch,7,1,70
+,squat set1 40 5,squat,1,5,40
+squat set1 40 5,squat set2 40+20 5,squat,2,5,60
+squat set2 40+20 5,squat #3 60kg +20kg x4,squat,3,4,80
+squat #3 60kg +20kg x4,squat #4 90x3,squat,4,3,90
+squat #4 90x3,s5 100 5,squat,5,5,100
+squat s5 100 5,squat set6 100 r5,squat,6,5,100
+squat set6 100 r5,squat s7 100x5,squat,7,5,100
+squat s7 100x5,squat s8 100kgx5,squat,8,5,100
+squat s8 100kgx5,squat set9 100 +5 5reps,squat,9,5,105
+,cj s1 50 4,clean_and_jerk,1,4,50
+cj s1 50 4,set2 50kgx3,clean_and_jerk,2,3,50
+cj set2 50kgx3,+20 x5,clean_and_jerk,3,5,70
+cj #3 70 5,70x5,clean_and_jerk,4,5,70
+cj set4 70 5reps,cj s5 70x5,clean_and_jerk,5,5,70
+cj s5 70x5,cj #6 70x5,clean_and_jerk,6,5,70
+cj #6 70x5,cj s7 70 +5 r5,clean_and_jerk,7,5,75
+,squat set1 60 4reps,squat,1,4,60
+squat set1 60 4reps,+20 x3,squat,2,3,80
+squat s2 60+20x3,squat set3 90 5reps,squat,3,5,90
+squat set3 90 5reps,90x5,squat,4,5,90
+squat set4 90kgx5,+10 x5,squat,5,5,100
+squat s5 90 +10 5,squat set6 100x5,squat,6,5,100
+squat set6 100x5,squat set7 100 +5 5,squat,7,5,105
+,fs set1 50x4,front_squat,1,4,50
+fs set1 50x4,fs s2 50+20 4,front_squat,2,4,70
+fs s2 50+20 4,fs set3 70 +10 5r,front_squat,3,5,80
+fs set3 70 +10 5r,80x5,front_squat,4,5,80
+fs #4 80x5,fs set5 85x5,front_squat,5,5,85
+fs set5 85x5,fs #6 85x5,front_squat,6,5,85
+fs #6 85x5,+5 x5,front_squat,7,5,90
+fs #7 85+5x5,fs s8 100x2,front_squat,8,2,100
+,mp s1 30 r5,military_press,1,5,30
+mp s1 30 r5,mp s2 40kgx4,military_press,2,4,40
+mp s2 40kgx4,mp set3 40 r4,military_press,3,4,40
+mp set3 40 r4,mp s4 40kgx4,military_press,4,4,40
+mp s4 40kgx4,mp #5 45kgx6,military_press,5,6,45
+,snatch set1 40x5,snatch,1,5,40
+snatch set1 40x5,#2 50 5reps,snatch,2,5,50
+snatch #2 50 5reps,#3 55 r5,snatch,3,5,55
+snatch #3 55 r5,55x5,snatch,4,5,55
+snatch set4 55 5r,snatch #5 55+5x5,snatch,5,5,60
+snatch #5 55+5x5,+5 x5,snatch,6,5,65
+snatch set6 60+5 5r,s7 70x1,snatch,7,1,70
+,clean set1 50x4,clean,1,4,50
+clean set1 50x4,clean s2 50+20x5,clean,2,5,70
+clean s2 50+20x5,clean s3 70 5reps,clean,3,5,70
+clean s3 70 5reps,clean set4 75x5,clean,4,5,75
+clean set4 75x5,s5 75 5reps,clean,5,5,75
+clean s5 75 5reps,+5 x5,clean,6,5,80
+clean s6 80x5,+10 x5,clean,7,5,90
+,squat s1 70 5,squat,1,5,70
+squat s1 70 5,squat set2 70kg +20kg x5,squat,2,5,90
+squat set2 70kg +20kg x5,squat set3 90 +10 5reps,squat,3,5,100
+,snatch #1 40kgx3,snatch,1,3,40
+snatch #1 40kgx3,40x3,snatch,2,3,40
+snatch s2 40kgx3,s3 50 3reps,snatch,3,3,50
+snatch s3 50 3reps,#4 60x3,snatch,4,3,60
+snatch #4 60x3,snatch s5 60kgx3,snatch,5,3,60
+snatch s5 60kgx3,snatch set6 60 3reps,snatch,6,3,60
+snatch set6 60 3reps,+5 x1,snatch,7,1,65
+snatch #7 65x1,cj #1 50kgx3,clean_and_jerk,1,3,50
+cj #1 50kgx3,s2 50 +10 2reps,clean_and_jerk,2,2,60
+cj s2 50 +10 2reps,cj set3 70 2,clean_and_jerk,3,2,70
+cj set3 70 2,+10 x3,clean_and_jerk,4,3,80
+cj #4 70+10x3,80x3,clean_and_jerk,5,3,80
+cj #5 80x3,cj set6 80kgx3,clean_and_jerk,6,3,80
+,squat s1 70x4,squat,1,4,70
+squat s1 70x4,squat s2 70+20x2,squat,2,2,90
+squat s2 70+20x2,+10 x3,squat,3,3,100
+squat set3 90 +10 r3,squat s4 105kgx3,squat,4,3,105
+squat s4 105kgx3,squat #5 105+5 3,squat,5,3,110
+squat #5 105+5 3,+5 x2,squat,6,2,115
+,cj #1 50 r3,clean_and_jerk,1,3,50
+cj #1 50 r3,cj set2 50 +10 r3,clean_and_jerk,2,3,60
+cj set2 50 +10 r3,+10 x2,clean_and_jerk,3,2,70
+cj s3 60+10 r2,+10 x3,clean_and_jerk,4,3,80
+cj set4 70+10 3r,set5 80kgx3,clean_and_jerk,5,3,80
+cj set5 80kgx3,set6 80x3,clean_and_jerk,6,3,80
+,snatch set1 30 3reps,snatch,1,3,30
+snatch set1 30 3reps,#2 30kg +10kg x3,snatch,2,3,40
+snatch #2 30kg +10kg x3,s3 40+10x2,snatch,3,2,50
+snatch s3 40+10x2,snatch #4 60x3,snatch,4,3,60
+snatch #4 60x3,snatch s5 60kgx3,snatch,5,3,60
+snatch s5 60kgx3,snatch s6 60kgx3,snatch,6,3,60
+snatch s6 60kgx3,set7 60 -10 1reps,snatch,7,1,50
+snatch set7 60 -10 1reps,s8 50+10x1,snatch,8,1,60
+snatch s8 50+10x1,+5 x1,snatch,9,1,65
+,squat s1 60kgx5,squat,1,5,60
+squat s1 60kgx5,#2 80 2r,squat,2,2,80
+squat #2 80 2r,+10 x2,squat,3,2,90
+squat set3 90kgx2,squat set4 90+15x3,squat,4,3,105
+squat set4 90+15x3,+5 x3,squat,5,3,110
+squat s5 105+5 r3,squat #6 110+5 3,squat,6,3,115
+,snatch set1 40x3,snatch,1,3,40
+snatch set1 40x3,snatch s2 40 +10 3r,snatch,2,3,50
+snatch s2 40 +10 3r,+10 x3,snatch,3,3,60
+snatch s3 50+10x3,60x3,snatch,4,3,60
+snatch s4 60 3,#5 60+5x1,snatch,5,1,65
+snatch #5 60+5x1,s6 65+5 1,snatch,6,1,70
+snatch s6 65+5 1,set7 70 -10 3,snatch,7,3,60
+snatch set7 70 -10 3,cj #1 50x5,clean_and_jerk,1,5,50
+cj #1 50x5,cj #2 60 2reps,clean_and_jerk,2,2,60
+cj #2 60 2reps,cj set3 60 +10 2,clean_and_jerk,3,2,70
+cj set3 60 +10 2,+10 x3,clean_and_jerk,4,3,80
+cj #4 80kgx3,80x3,clean_and_jerk,5,3,80
+cj s5 80kgx3,80x3,clean_and_jerk,6,3,80
+,squat set1 60x5,squat,1,5,60
+squat set1 60x5,+20 x4,squat,2,4,80
+squat set2 80 4,squat #3 80 +10 2r,squat,3,2,90
+squat #3 80 +10 2r,+10 x3,squat,4,3,100
+squat #4 100kgx3,#5 110x3,squat,5,3,110
+squat #5 110x3,-10 x3,squat,6,3,100
+squat s6 110 -10 3r,#7 100 r3,squat,7,3,100
+,snatch s1 40 4reps,snatch,1,4,40
+snatch s1 40 4reps,snatch #2 40x4,snatch,2,4,40
+snatch #2 40x4,+10 x4,snatch,3,4,50
+snatch set3 40+10x4,+5 x4,snatch,4,4,55
+snatch set4 50kg +5kg x4,+5 x4,snatch,5,4,60
+snatch s5 55kg +5kg x4,+5 x4,snatch,6,4,65
+snatch #6 60+5 r4,cj set1 50 r4,clean_and_jerk,1,4,50
+cj set1 50 r4,cj set2 50+10x1,clean_and_jerk,2,1,60
+cj set2 50+10x1,+5 x1,clean_and_jerk,3,1,65
+cj set3 60kg +5kg x1,+5 x4,clean_and_jerk,4,4,70
+cj s4 65+5 4r,cj set5 70kg +5kg x4,clean_and_jerk,5,4,75
+cj set5 70kg +5kg x4,+5 x4,clean_and_jerk,6,4,80
+cj set6 80x4,cj s7 80 +5 4reps,clean_and_jerk,7,4,85
+cj s7 80 +5 4reps,fs set1 60 4r,front_squat,1,4,60
+fs set1 60 4r,fs set2 80x4,front_squat,2,4,80
+fs set2 80x4,fs #3 80kg +10kg x3,front_squat,3,3,90
+fs #3 80kg +10kg x3,90x4,front_squat,4,4,90
+fs #4 90kgx4,90x4,front_squat,5,4,90
+fs s5 90kgx4,fs s6 90 r4,front_squat,6,4,90
+,snatch #1 40x5,snatch,1,5,40
+snatch #1 40x5,+10 x5,snatch,2,5,50
+snatch set2 50kgx5,snatch set3 50 5,snatch,3,5,50
+snatch set3 50 5,+5 x5,snatch,4,5,55
+snatch set4 55 r5,+5 x5,snatch,5,5,60
+snatch set5 55+5x5,snatch s6 60kgx5,snatch,6,5,60
+,cj s1 50x4,clean_and_jerk,1,4,50
+cj s1 50x4,cj set2 60 3,clean_and_jerk,2,3,60
+cj set2 60 3,s3 60+10 5reps,clean_and_jerk,3,5,70
+cj s3 60+10 5reps,70x5,clean_and_jerk,4,5,70
+cj s4 70kgx5,s5 70 +5 5r,clean_and_jerk,5,5,75
+cj s5 70 +5 5r,+5 x5,clean_and_jerk,6,5,80
+cj set6 75+5 5,80x4,clean_and_jerk,7,4,80
+cj set7 80 4,+5 x1,clean_and_jerk,8,1,85
+cj set8 80+5 1reps,squat set1 60kgx5,squat,1,5,60
+squat set1 60kgx5,squat s2 80x3,squat,2,3,80
+squat s2 80x3,+10 x5,squat,3,5,90
+squat #3 80+10 5,squat s4 100 5r,squat,4,5,100
+squat s4 100 5r,#5 100kgx5,squat,5,5,100
+squat #5 100kgx5,squat #6 100 r5,squat,6,5,100
+,snatch set1 40x4,snatch,1,4,40
+snatch set1 40x4,+10 x5,snatch,2,5,50
+snatch set2 40kg +10kg x5,snatch s3 50 +5 5r,snatch,3,5,55
+snatch s3 50 +5 5r,snatch set4 55+5x5,snatch,4,5,60
+snatch set4 55+5x5,60x5,snatch,5,5,60
+snatch #5 60 5reps,snatch #6 65kgx5,snatch,6,5,65
+,cj s1 50x4,clean_and_jerk,1,4,50
+cj s1 50x4,cj #2 50kg +20kg x5,clean_and_jerk,2,5,70
+cj #2 50kg +20kg x5,cj #3 70kgx5,clean_and_jerk,3,5,70
+cj #3 70kgx5,+5 x5,clean_and_jerk,4,5,75
+cj s4 70+5 5,cj #5 75kgx5,clean_and_jerk,5,5,75
+cj #5 75kgx5,+5 x5,clean_and_jerk,6,5,80
+,squat set1 60x3,squat,1,3,60
+squat set1 60x3,#2 60+20x3,squat,2,3,80
+squat #2 60+20x3,+10 x5,squat,3,5,90
+squat set3 90x5,+10 x5,squat,4,5,100
+squat #4 100 5r,100x5,squat,5,5,100
+squat set5 100x5,100x5,squat,6,5,100
+squat set6 100kgx5,squat s7 100kgx5,squat,7,5,100
+,snatch s1 40 3r,snatch,1,3,40
+snatch s1 40 3r,snatch #2 40kgx3,snatch,2,3,40
+snatch #2 40kgx3,snatch s3 40+10x3,snatch,3,3,50
+snatch s3 40+10x3,+10 x3,snatch,4,3,60
+snatch #4 60x3,s5 60+10x2,snatch,5,2,70
+snatch s5 60+10x2,set6 75 1r,snatch,6,1,75
+snatch set6 75 1r,snatch #7 75kgx1,snatch,7,1,75
+,cj s1 40 4reps,clean_and_jerk,1,4,40
+cj s1 40 4reps,#2 40x3,clean_and_jerk,2,3,40
+cj #2 40x3,set3 40+10x3,clean_and_jerk,3,3,50
+cj set3 40+10x3,cj set4 60x3,clean_and_jerk,4,3,60
+cj set4 60x3,+10 x3,clean_and_jerk,5,3,70
+cj s5 60+10 3r,s6 80 r2,clean_and_jerk,6,2,80
+cj s6 80 r2,+10 x1,clean_and_jerk,7,1,90
+,snatch #1 40x3,snatch,1,3,40
+snatch #1 40x3,40x4,snatch,2,4,40
+snatch #2 40 4reps,snatch s3 40+10x2,snatch,3,2,50
+snatch s3 40+10x2,s4 50+10 r2,snatch,4,2,60
+snatch s4 50+10 r2,60x1,snatch,5,1,60
+snatch s5 60x1,+5 x1,snatch,6,1,65
+snatch s6 60+5 1r,snatch set7 65 +5 1,snatch,7,1,70
+snatch set7 65 +5 1,+5 x1,snatch,8,1,75
+snatch #8 70kg +5kg x1,s9 75kg -5kg x1,snatch,9,1,70
+,cj s1 50 r3,clean_and_jerk,1,3,50
+cj s1 50 r3,+20 x2,clean_and_jerk,2,2,70
+cj #2 50 +20 2r,70x2,clean_and_jerk,3,2,70
+cj s3 70kgx2,cj set4 80x1,clean_and_jerk,4,1,80
+cj set4 80x1,#5 85kgx1,clean_and_jerk,5,1,85
+cj #5 85kgx1,cj #6 85kg +5kg x1,clean_and_jerk,6,1,90
+cj #6 85kg +5kg x1,squat s1 50x3,squat,1,3,50
+squat s1 50x3,squat s2 50kg +20kg x3,squat,2,3,70
+squat s2 50kg +20kg x3,+20 x2,squat,3,2,90
+squat s3 70+20x2,squat set4 90+10x2,squat,4,2,100
+squat set4 90+10x2,squat set5 110x2,squat,5,2,110
+squat set5 110x2,+10 x1,squat,6,1,120
+squat s6 110 +10 1reps,squat #7 125x1,squat,7,1,125
+squat #7 125x1,#8 125kg +5kg x1,squat,8,1,130
+squat #8 125kg +5kg x1,psnatch #1 20x5,power_snatch,1,5,20
+psnatch #1 20x5,20x5,power_snatch,2,5,20
+psnatch set2 20x5,20x5,power_snatch,3,5,20
+psnatch #3 20kgx5,#4 10kgx5,power_snatch,4,5,10
+psnatch #4 10kgx5,set5 10kgx5,power_snatch,5,5,10
+psnatch set5 10kgx5,psnatch s6 10x5,power_snatch,6,5,10
+,snatch s1 40kgx3,snatch,1,3,40
+snatch s1 40kgx3,40x3,snatch,2,3,40
+snatch set2 40x3,+10 x3,snatch,3,3,50
+snatch s3 40 +10 r3,snatch set4 50x3,snatch,4,3,50
+snatch set4 50x3,snatch set5 50 +10 2,snatch,5,2,60
+snatch set5 50 +10 2,#6 60kg +10kg x1,snatch,6,1,70
+snatch #6 60kg +10kg x1,snatch #7 70kgx1,snatch,7,1,70
+,cj #1 50 2r,clean_and_jerk,1,2,50
+cj #1 50 2r,+10 x2,clean_and_jerk,2,2,60
+cj #2 50kg +10kg x2,+10 x2,clean_and_jerk,3,2,70
+cj set3 60kg +10kg x2,cj #4 70kg +10kg x2,clean_and_jerk,4,2,80
+cj #4 70kg +10kg x2,cj #5 80kgx2,clean_and_jerk,5,2,80
+cj #5 80kgx2,80x2,clean_and_jerk,6,2,80
+cj #6 80 r2,cj #7 80+10 2reps,clean_and_jerk,7,2,90
+,squat #1 50 5,squat,1,5,50
+squat #1 50 5,squat #2 50+20x3,squat,2,3,70
+squat #2 50+20x3,squat set3 70+10x3,squat,3,3,80
+squat set3 70+10x3,squat #4 90kgx3,squat,4,3,90
+squat #4 90kgx3,squat #5 100x3,squat,5,3,100
+squat #5 100x3,squat #6 100 r3,squat,6,3,100
+squat #6 100 r3,squat s7 100x3,squat,7,3,100
+squat s7 100x3,100x3,squat,8,3,100
+,snatch set1 40 4reps,snatch,1,4,40
+snatch set1 40 4reps,snatch s2 40x4,snatch,2,4,40
+snatch s2 40x4,+10 x4,snatch,3,4,50
+snatch set3 40+10 r4,set4 60kgx2,snatch,4,2,60
+snatch set4 60kgx2,set5 60x2,snatch,5,2,60
+snatch set5 60x2,snatch set6 70x1,snatch,6,1,70
+snatch set6 70x1,s7 70x1,snatch,7,1,70
+snatch s7 70x1,-10 x1,snatch,8,1,60
+snatch s8 70 -10 1reps,+5 x1,snatch,9,1,65
+snatch set9 65 r1,+5 x1,snatch,10,1,70
+,cj set1 50 3r,clean_and_jerk,1,3,50
+cj set1 50 3r,set2 60x3,clean_and_jerk,2,3,60
+cj set2 60x3,+10 x3,clean_and_jerk,3,3,70
+cj #3 60+10 r3,set4 70kg +10kg x2,clean_and_jerk,4,2,80
+cj set4 70kg +10kg x2,cj set5 80+10 2reps,clean_and_jerk,5,2,90
+cj set5 80+10 2reps,cj s6 95kgx1,clean_and_jerk,6,1,95
+cj s6 95kgx1,+5 x1,clean_and_jerk,7,1,100
+cj s7 95+5 r1,cpull s1 110kgx2,clean_pull,1,2,110
+cpull s1 110kgx2,cpull set2 110kgx2,clean_pull,2,2,110
+cpull set2 110kgx2,cpull #3 110 2reps,clean_pull,3,2,110
+,squat s1 50kgx5,squat,1,5,50
+squat s1 50kgx5,+20 x3,squat,2,3,70
+squat #2 50 +20 r3,+20 x3,squat,3,3,90
+squat #3 70+20 r3,+10 x3,squat,4,3,100
+squat s4 90+10 3,squat s5 100 +10 3reps,squat,5,3,110
+squat s5 100 +10 3reps,#6 110 3reps,squat,6,3,110
+squat #6 110 3reps,squat #7 110x3,squat,7,3,110
+squat #7 110x3,squat set8 110kgx3,squat,8,3,110
+,snatch set1 40 4,snatch,1,4,40
+snatch set1 40 4,40x4,snatch,2,4,40
+snatch #2 40x4,snatch set3 40+10 r4,snatch,3,4,50
+snatch set3 40+10 r4,snatch s4 50+10 r2,snatch,4,2,60
+snatch s4 50+10 r2,s5 60 +10 1r,snatch,5,1,70
+snatch s5 60 +10 1r,snatch set6 70x2,snatch,6,2,70
+snatch set6 70x2,70x1,snatch,7,1,70
+snatch #7 70 1reps,70x1,snatch,8,1,70
+snatch #8 70 1r,snatch set9 70x1,snatch,9,1,70
+snatch set9 70x1,cj set1 50kgx5,clean_and_jerk,1,5,50
+cj set1 50kgx5,cj set2 50kg +10kg x4,clean_and_jerk,2,4,60
+cj set2 50kg +10kg x4,cj s3 70x4,clean_and_jerk,3,4,70
+cj s3 70x4,cj set4 80kgx2,clean_and_jerk,4,2,80
+cj set4 80kgx2,cj s5 80kg +10kg x2,clean_and_jerk,5,2,90
+cj s5 80kg +10kg x2,cj set6 90+5 r1,clean_and_jerk,6,1,95
+,fs #1 50 2reps,front_squat,1,2,50
+fs #1 50 2reps,+20 x2,front_squat,2,2,70
+fs set2 70kgx2,fs #3 70 +10 2,front_squat,3,2,80
+fs #3 70 +10 2,fs set4 90 r2,front_squat,4,2,90
+fs set4 90 r2,fs #5 90 2,front_squat,5,2,90
+fs #5 90 2,90x2,front_squat,6,2,90
+fs #6 90x2,fs set7 90kgx2,front_squat,7,2,90
+,squat set1 100x3,squat,1,3,100
+squat set1 100x3,squat s2 100x3,squat,2,3,100
+,bench set1 20x10,bench,1,10,20
+bench set1 20x10,+20 x6,bench,2,6,40
+bp s2 20kg +20kg x6,40x6,bench,3,6,40
+bench set3 40x6,+10 x5,bench,4,5,50
+bench s4 40kg +10kg x5,s5 60kgx3,bench,5,3,60
+bench s5 60kgx3,set6 60x3,bench,6,3,60
+bp set6 60x3,bench s7 60kgx3,bench,7,3,60
+,snatch set1 40 r4,snatch,1,4,40
+snatch set1 40 r4,40x5,snatch,2,5,40
+snatch s2 40x5,+10 x4,snatch,3,4,50
+snatch #3 40kg +10kg x4,snatch s4 50x4,snatch,4,4,50
+snatch s4 50x4,snatch #5 60 3reps,snatch,5,3,60
+snatch #5 60 3reps,snatch s6 60+5x3,snatch,6,3,65
+snatch s6 60+5x3,s7 65 +5 1r,snatch,7,1,70
+snatch s7 65 +5 1r,s8 70kgx1,snatch,8,1,70
+,cj set1 50kgx5,clean_and_jerk,1,5,50
+cj set1 50kgx5,+10 x4,clean_and_jerk,2,4,60
+cj s2 60kgx4,cj set3 60kg +10kg x4,clean_and_jerk,3,4,70
+cj set3 60kg +10kg x4,+10 x2,clean_and_jerk,4,2,80
+cj set4 70+10 2,cj #5 80 +10 r2,clean_and_jerk,5,2,90
+cj #5 80 +10 r2,set6 95 r1,clean_and_jerk,6,1,95
+cj set6 95 r1,cj s7 95+5 1r,clean_and_jerk,7,1,100
+,squat s1 50x5,squat,1,5,50
+squat s1 50x5,+30 x3,squat,2,3,80
+squat s2 50 +30 3r,+10 x2,squat,3,2,90
+squat #3 90 2reps,squat set4 90 +10 2,squat,4,2,100
+squat set4 90 +10 2,+10 x2,squat,5,2,110
+squat set5 100+10 2reps,110x2,squat,6,2,110
+squat s6 110x2,+10 x1,squat,7,1,120
+squat #7 120x1,squat #8 120 1r,squat,8,1,120
+squat #8 120 1r,fs s1 90 3reps,front_squat,1,3,90
+fs s1 90 3reps,fs set2 90 r3,front_squat,2,3,90
+fs set2 90 r3,fs #3 100kgx3,front_squat,3,3,100
+,sj s1 20 r8,split_jerk,1,8,20
+sj s1 20 r8,+20 x5,split_jerk,2,5,40
+sj #2 20 +20 r5,+10 x4,split_jerk,3,4,50
+sj set3 40 +10 4,+10 x4,split_jerk,4,4,60
+sj #4 60kgx4,sj s5 60kgx4,split_jerk,5,4,60
+sj s5 60kgx4,60x4,split_jerk,6,4,60
+,snatch set1 40 4,snatch,1,4,40
+snatch set1 40 4,snatch set2 40 4r,snatch,2,4,40
+snatch set2 40 4r,#3 50kgx4,snatch,3,4,50
+snatch #3 50kgx4,#4 50x4,snatch,4,4,50
+snatch #4 50x4,snatch set5 50+10 r2,snatch,5,2,60
+snatch set5 50+10 r2,snatch set6 60x2,snatch,6,2,60
+snatch set6 60x2,#7 60 +5 r1,snatch,7,1,65
+snatch #7 60 +5 r1,snatch #8 70 1,snatch,8,1,70
+snatch #8 70 1,snatch #9 70+5 1,snatch,9,1,75
+snatch #9 70+5 1,cj set1 50 5r,clean_and_jerk,1,5,50
+cj set1 50 5r,+10 x4,clean_and_jerk,2,4,60
+cj s2 50+10x4,set3 60+10 4r,clean_and_jerk,3,4,70
+cj set3 60+10 4r,+10 x2,clean_and_jerk,4,2,80
+cj #4 80x2,s5 90kgx1,clean_and_jerk,5,1,90
+cj s5 90kgx1,set6 90kg +5kg x1,clean_and_jerk,6,1,95
+,squat set1 50kgx3,squat,1,3,50
+squat set1 50kgx3,+20 x3,squat,2,3,70
+squat s2 70kgx3,+20 x2,squat,3,2,90
+squat set3 90 r2,squat set4 90+10x2,squat,4,2,100
+squat set4 90+10x2,s5 100 +10 2,squat,5,2,110
+squat s5 100 +10 2,squat set6 110x2,squat,6,2,110
+squat set6 110x2,110x2,squat,7,2,110
+squat s7 110 2r,squat #8 110x2,squat,8,2,110
+,snatch set1 40 r4,snatch,1,4,40
+snatch set1 40 r4,40x4,snatch,2,4,40
+snatch s2 40 4reps,#3 40+10 3reps,snatch,3,3,50
+snatch #3 40+10 3reps,#4 50kgx2,snatch,4,2,50
+snatch #4 50kgx2,+10 x2,snatch,5,2,60
+snatch set5 50kg +10kg x2,snatch #6 70kgx2,snatch,6,2,70
+snatch #6 70kgx2,snatch set7 70x2,snatch,7,2,70
+snatch set7 70x2,snatch set8 60 2reps,snatch,8,2,60
+snatch set8 60 2reps,s9 70x1,snatch,9,1,70
+snatch s9 70x1,#10 70kg +1kg x1,snatch,10,1,71
+snatch #10 70kg +1kg x1,cj set1 50 4,clean_and_jerk,1,4,50
+cj set1 50 4,s2 50+20x2,clean_and_jerk,2,2,70
+cj s2 50+20x2,cj #3 80kgx2,clean_and_jerk,3,2,80
+cj #3 80kgx2,cj #4 80+10 1,clean_and_jerk,4,1,90
+cj #4 80+10 1,+10 x1,clean_and_jerk,5,1,100
+cj s5 90+10x1,cj #6 80kgx2,clean_and_jerk,6,2,80
+cj #6 80kgx2,#7 80kgx2,clean_and_jerk,7,2,80
+cj #7 80kgx2,80x2,clean_and_jerk,8,2,80
+,squat #1 50kgx5,squat,1,5,50
+squat #1 50kgx5,set2 50 +20 3reps,squat,2,3,70
+squat set2 50 +20 3reps,squat set3 80 3r,squat,3,3,80
+squat set3 80 3r,+10 x3,squat,4,3,90
+squat set4 90 3reps,squat set5 100 2,squat,5,2,100
+squat set5 100 2,squat set6 100+10 r2,squat,6,2,110
+squat set6 100+10 r2,#7 110kgx2,squat,7,2,110
+squat #7 110kgx2,110x2,squat,8,2,110
+squat set8 110x2,squat #9 110x2,squat,9,2,110
+,snatch s1 40 5,snatch,1,5,40
+snatch s1 40 5,snatch #2 40 3reps,snatch,2,3,40
+snatch #2 40 3reps,set3 40+10 3r,snatch,3,3,50
+snatch set3 40+10 3r,snatch s4 60 2reps,snatch,4,2,60
+snatch s4 60 2reps,snatch set5 60+10 2r,snatch,5,2,70
+snatch set5 60+10 2r,snatch set6 70 2reps,snatch,6,2,70
+snatch set6 70 2reps,+5 x1,snatch,7,1,75
+snatch set7 75kgx1,cj s1 50x3,clean_and_jerk,1,3,50
+cj s1 50x3,cj set2 50 +20 2,clean_and_jerk,2,2,70
+cj set2 50 +20 2,cj #3 70+10 2reps,clean_and_jerk,3,2,80
+cj #3 70+10 2reps,cj #4 80kg +10kg x1,clean_and_jerk,4,1,90
+cj #4 80kg +10kg x1,+10 x1,clean_and_jerk,5,1,100
+,squat s1 50kgx5,squat,1,5,50
+squat s1 50kgx5,squat s2 50kg +20kg x3,squat,2,3,70
+squat s2 50kg +20kg x3,+20 x3,squat,3,3,90
+squat set3 70+20x3,s4 100kgx2,squat,4,2,100
+squat s4 100kgx2,+10 x2,squat,5,2,110
+squat s5 100+10x2,squat s6 110kgx2,squat,6,2,110
+squat s6 110kgx2,#7 110 2r,squat,7,2,110
+squat #7 110 2r,set8 110x2,squat,8,2,110
+,snatch s1 40x3,snatch,1,3,40
+snatch s1 40x3,set2 40x3,snatch,2,3,40
+snatch set2 40x3,snatch #3 40+10 3r,snatch,3,3,50
+snatch #3 40+10 3r,snatch s4 50 +10 1r,snatch,4,1,60
+snatch s4 50 +10 1r,s5 60+5x1,snatch,5,1,65
+snatch s5 60+5x1,set6 65 1reps,snatch,6,1,65
+snatch set6 65 1reps,snatch #7 65+5 1,snatch,7,1,70
+snatch #7 65+5 1,70x1,snatch,8,1,70
+snatch s8 70 1r,cj #1 50 3,clean_and_jerk,1,3,50
+cj #1 50 3,+10 x3,clean_and_jerk,2,3,60
+cj #2 60kgx3,cj set3 60+10 1r,clean_and_jerk,3,1,70
+cj set3 60+10 1r,s4 70+10 1reps,clean_and_jerk,4,1,80
+cj s4 70+10 1reps,cj #5 80+10 1r,clean_and_jerk,5,1,90
+cj #5 80+10 1r,cj s6 95 1r,clean_and_jerk,6,1,95
+,squat set1 50 r5,squat,1,5,50
+squat set1 50 r5,squat s2 50+20x3,squat,2,3,70
+squat s2 50+20x3,+10 x3,squat,3,3,80
+squat s3 80 3r,+10 x3,squat,4,3,90
+squat set4 90x3,s5 90x3,squat,5,3,90
+squat s5 90x3,squat #6 90kgx3,squat,6,3,90
+,squat set1 40kgx8,squat,1,8,40
+squat set1 40kgx8,squat #2 40 +10 6reps,squat,2,6,50
+squat #2 40 +10 6reps,squat s3 50kgx6,squat,3,6,50
+squat s3 50kgx6,squat #4 50 +20 3r,squat,4,3,70
+squat #4 50 +20 3r,+20 x3,squat,5,3,90
+squat #5 70+20 3reps,squat #6 90kgx3,squat,6,3,90
+squat #6 90kgx3,squat #7 90+20 r2,squat,7,2,110
+squat #7 90+20 r2,#8 100kgx2,squat,8,2,100
+,snatch s1 40x4,snatch,1,4,40
+snatch s1 40x4,40x4,snatch,2,4,40
+snatch set2 40x4,snatch s3 50x3,snatch,3,3,50
+snatch s3 50x3,s4 50kgx3,snatch,4,3,50
+snatch s4 50kgx3,+5 x2,snatch,5,2,55
+snatch set5 55x2,#6 55kgx2,snatch,6,2,55
+snatch #6 55kgx2,55x2,snatch,7,2,55
+,cj s1 40x5,clean_and_jerk,1,5,40
+cj s1 40x5,cj #2 40 5,clean_and_jerk,2,5,40
+cj #2 40 5,cj set3 50 4r,clean_and_jerk,3,4,50
+cj set3 50 4r,50x4,clean_and_jerk,4,4,50
+cj set4 50x4,cj s5 50 +10 4,clean_and_jerk,5,4,60
+cj s5 50 +10 4,+10 x3,clean_and_jerk,6,3,70
+cj #6 60kg +10kg x3,70x3,clean_and_jerk,7,3,70
+cj #7 70 3reps,+5 x1,clean_and_jerk,8,1,75
+cj s8 70kg +5kg x1,set9 75+5 1reps,clean_and_jerk,9,1,80
+cj set9 75+5 1reps,cj s10 80kg +5kg x1,clean_and_jerk,10,1,85
+cj s10 80kg +5kg x1,spull set1 20x10,snatch_pull,1,10,20
+spull set1 20x10,20x10,snatch_pull,2,10,20
+spull s2 20 10reps,s3 20 10,snatch_pull,3,10,20
+spull s3 20 10,#4 20x10,snatch_pull,4,10,20
+spull #4 20x10,spull set5 20kgx10,snatch_pull,5,10,20
+,snatch s1 40x3,snatch,1,3,40
+snatch s1 40x3,snatch #2 40x3,snatch,2,3,40
+snatch #2 40x3,snatch #3 50kgx3,snatch,3,3,50
+snatch #3 50kgx3,snatch #4 60x2,snatch,4,2,60
+snatch #4 60x2,snatch s5 65 r2,snatch,5,2,65
+snatch s5 65 r2,snatch s6 65 +5 r2,snatch,6,2,70
+snatch s6 65 +5 r2,70x2,snatch,7,2,70
+snatch s7 70kgx2,#8 70x2,snatch,8,2,70
+,cj s1 50kgx3,clean_and_jerk,1,3,50
+cj s1 50kgx3,cj s2 60 3,clean_and_jerk,2,3,60
+cj s2 60 3,+10 x3,clean_and_jerk,3,3,70
+cj s3 70 3r,cj set4 70+10x2,clean_and_jerk,4,2,80
+cj set4 70+10x2,cj set5 90kgx1,clean_and_jerk,5,1,90
+cj set5 90kgx1,cj #6 90x1,clean_and_jerk,6,1,90
+cj #6 90x1,squat #1 50 4reps,squat,1,4,50
+squat #1 50 4reps,s2 70 4r,squat,2,4,70
+squat s2 70 4r,+20 x3,squat,3,3,90
+squat s3 90x3,+20 x2,squat,4,2,110
+squat #4 90+20 2r,s5 110kgx2,squat,5,2,110
+squat s5 110kgx2,110x2,squat,6,2,110
+squat set6 110x2,110x2,squat,7,2,110
+,snatch s1 40 4,snatch,1,4,40
+snatch s1 40 4,s2 40 4r,snatch,2,4,40
+snatch s2 40 4r,snatch set3 50 3reps,snatch,3,3,50
+snatch set3 50 3reps,50x3,snatch,4,3,50
+snatch s4 50x3,set5 50 +10 3,snatch,5,3,60
+snatch set5 50 +10 3,snatch set6 60kg +5kg x2,snatch,6,2,65
+snatch set6 60kg +5kg x2,snatch set7 70kgx1,snatch,7,1,70
+snatch set7 70kgx1,snatch s8 70kgx1,snatch,8,1,70
+snatch s8 70kgx1,snatch s9 70kgx1,snatch,9,1,70
+,cj #1 50x3,clean_and_jerk,1,3,50
+cj #1 50x3,set2 60 3reps,clean_and_jerk,2,3,60
+cj set2 60 3reps,+10 x2,clean_and_jerk,3,2,70
+cj #3 70x2,+10 x2,clean_and_jerk,4,2,80
+cj s4 70+10 2,+10 x2,clean_and_jerk,5,2,90
+cj s5 80 +10 2,cj set6 90x2,clean_and_jerk,6,2,90
+cj set6 90x2,cj s7 90kg +5kg x1,clean_and_jerk,7,1,95
+cj s7 90kg +5kg x1,squat s1 50x5,squat,1,5,50
+squat s1 50x5,set2 50 +20 3,squat,2,3,70
+squat set2 50 +20 3,squat #3 70kg +20kg x3,squat,3,3,90
+squat #3 70kg +20kg x3,+10 x2,squat,4,2,100
+squat s4 100 r2,set5 100 +10 r2,squat,5,2,110
+squat set5 100 +10 r2,110x2,squat,6,2,110
+squat set6 110kgx2,s7 110kgx2,squat,7,2,110
+squat s7 110kgx2,squat #8 110kgx2,squat,8,2,110
+,snatch set1 40kgx4,snatch,1,4,40
+snatch set1 40kgx4,snatch set2 40x4,snatch,2,4,40
+snatch set2 40x4,+10 x3,snatch,3,3,50
+snatch set3 40+10x3,snatch #4 50+10x2,snatch,4,2,60
+snatch #4 50+10x2,set5 60kg +10kg x2,snatch,5,2,70
+snatch set5 60kg +10kg x2,snatch s6 70x2,snatch,6,2,70
+,cj set1 40x4,clean_and_jerk,1,4,40
+cj set1 40x4,+10 x3,clean_and_jerk,2,3,50
+cj s2 50 r3,+10 x3,clean_and_jerk,3,3,60
+cj s3 50+10 3,s4 60 +10 2reps,clean_and_jerk,4,2,70
+cj s4 60 +10 2reps,cj s5 70kgx2,clean_and_jerk,5,2,70
+cj s5 70kgx2,+10 x2,clean_and_jerk,6,2,80
+cj set6 70+10x2,s7 80+5 r1,clean_and_jerk,7,1,85
+cj s7 80+5 r1,+5 x1,clean_and_jerk,8,1,90
+cj s8 85 +5 1,set9 90 r1,clean_and_jerk,9,1,90
+cj set9 90 r1,squat #1 50kgx5,squat,1,5,50
+squat #1 50kgx5,+20 x5,squat,2,5,70
+squat s2 70 5,+20 x3,squat,3,3,90
+squat #3 70+20 3,squat #4 100x2,squat,4,2,100
+squat #4 100x2,set5 110kgx2,squat,5,2,110
+squat set5 110kgx2,#6 110x2,squat,6,2,110
+squat #6 110x2,110x2,squat,7,2,110
+squat set7 110kgx2,set8 110kgx2,squat,8,2,110
+,fs #1 90x3,front_squat,1,3,90
+fs #1 90x3,90x3,front_squat,2,3,90
+fs #2 90kgx3,set3 90+10 2r,front_squat,3,2,100
+,snatch set1 20x5,snatch,1,5,20
+snatch set1 20x5,+20 x4,snatch,2,4,40
+snatch #2 40x4,+10 x4,snatch,3,4,50
+snatch set3 40+10 4reps,snatch #4 50kgx4,snatch,4,4,50
+snatch #4 50kgx4,snatch #5 50kgx4,snatch,5,4,50
+snatch #5 50kgx4,snatch s6 50kgx4,snatch,6,4,50
+,cj set1 20kgx5,clean_and_jerk,1,5,20
+cj set1 20kgx5,+30 x4,clean_and_jerk,2,4,50
+cj s2 50kgx4,cj #3 50+10 3r,clean_and_jerk,3,3,60
+cj #3 50+10 3r,s4 70 4,clean_and_jerk,4,4,70
+cj s4 70 4,cj s5 70 r4,clean_and_jerk,5,4,70
+cj s5 70 r4,cj set6 70 4,clean_and_jerk,6,4,70
+cj set6 70 4,cj s7 70 r4,clean_and_jerk,7,4,70
+cj s7 70 r4,squat set1 50x5,squat,1,5,50
+squat set1 50x5,squat set2 70 r5,squat,2,5,70
+squat set2 70 r5,squat set3 90kgx3,squat,3,3,90
+squat set3 90kgx3,s4 100x3,squat,4,3,100
+squat s4 100x3,100x3,squat,5,3,100
+squat set5 100 3reps,#6 100x3,squat,6,3,100
+squat #6 100x3,squat s7 100kgx3,squat,7,3,100
+,squat #1 50x8,squat,1,8,50
+squat #1 50x8,#2 50 +10 5,squat,2,5,60
+squat #2 50 +10 5,squat #3 60 +10 3reps,squat,3,3,70
+squat #3 60 +10 3reps,squat s4 70kg +10kg x3,squat,4,3,80
+squat s4 70kg +10kg x3,squat s5 80+10 3r,squat,5,3,90
+squat s5 80+10 3r,squat #6 90kg +10kg x4,squat,6,4,100
+squat #6 90kg +10kg x4,set7 100x4,squat,7,4,100
+squat set7 100x4,set8 100x4,squat,8,4,100
+squat set8 100x4,squat set9 100 4reps,squat,9,4,100
+squat set9 100 4reps,#10 100kgx4,squat,10,4,100
+,pu set1 r10,push_up,1,10,
+pu set1 r10,#2 10reps,push_up,2,10,
+pu #2 10reps,set3 r10,push_up,3,10,
+,snatch set1 20 5reps,snatch,1,5,20
+snatch set1 20 5reps,snatch set2 40kgx4,snatch,2,4,40
+snatch set2 40kgx4,snatch s3 40 r3,snatch,3,3,40
+snatch s3 40 r3,set4 50x3,snatch,4,3,50
+snatch set4 50x3,snatch #5 50kgx3,snatch,5,3,50
+snatch #5 50kgx3,s6 50kg +10kg x2,snatch,6,2,60
+snatch s6 50kg +10kg x2,snatch #7 60kgx2,snatch,7,2,60
+snatch #7 60kgx2,snatch s8 60+10 2,snatch,8,2,70
+snatch s8 60+10 2,+5 x1,snatch,9,1,75
+snatch s9 75 r1,s10 75x1,snatch,10,1,75
+snatch s10 75x1,cj #1 50 r4,clean_and_jerk,1,4,50
+cj #1 50 r4,#2 50x4,clean_and_jerk,2,4,50
+cj #2 50x4,s3 50 +20 2reps,clean_and_jerk,3,2,70
+cj s3 50 +20 2reps,cj s4 80kgx1,clean_and_jerk,4,1,80
+cj s4 80kgx1,+10 x1,clean_and_jerk,5,1,90
+cj #5 80 +10 r1,cj s6 95x1,clean_and_jerk,6,1,95
+cj s6 95x1,s7 95+5x1,clean_and_jerk,7,1,100
+,sj s1 20kgx6,split_jerk,1,6,20
+sj s1 20kgx6,20x6,split_jerk,2,6,20
+sj #2 20kgx6,s3 20+20x5,split_jerk,3,5,40
+sj s3 20+20x5,+10 x5,split_jerk,4,5,50
+sj set4 40 +10 5reps,50x5,split_jerk,5,5,50
+sj set5 50 5,sj s6 50kgx5,split_jerk,6,5,50
+,abs #1 25r,crunch,1,25,
+abs #1 25r,ohp #1 12 20reps,ohp,1,20,12
+ohp #1 12 20reps,gm s1 20kgx15,good_morning,1,15,20
+gm s1 20kgx15,squat #1 20x10,squat,1,10,20
+squat #1 20x10,+20 x5,squat,2,5,40
+squat #2 20+20x5,squat set3 50 5,squat,3,5,50
+squat set3 50 5,s4 50kg +20kg x3,squat,4,3,70
+squat s4 50kg +20kg x3,squat #5 70+10x3,squat,5,3,80
+squat #5 70+10x3,squat #6 80 +10 4reps,squat,6,4,90
+squat #6 80 +10 4reps,squat s7 90+10x5,squat,7,5,100
+squat s7 90+10x5,100x5,squat,8,5,100
+squat #8 100x5,#9 100kgx5,squat,9,5,100
+squat #9 100kgx5,100x5,squat,10,5,100
+squat set10 100x5,100x5,squat,11,5,100
+squat set11 100 5r,pu s1 10reps,push_up,1,10,
+pu s1 10reps,pu s2 10,push_up,2,10,
+pu s2 10,set3 10,push_up,3,10,
+pu set3 10,pu set4 10r,push_up,4,10,
+,ab set1 25,crunch,1,25,
+ab set1 25,gm s1 20x15,good_morning,1,15,20
+gm s1 20x15,snatch #1 20 5r,snatch,1,5,20
+snatch #1 20 5r,snatch s2 20 +20 3,snatch,2,3,40
+snatch s2 20 +20 3,40x3,snatch,3,3,40
+snatch s3 40 r3,#4 40+10 2,snatch,4,2,50
+snatch #4 40+10 2,50x2,snatch,5,2,50
+snatch #5 50x2,+10 x2,snatch,6,2,60
+snatch set6 60x2,snatch set7 60 2,snatch,7,2,60
+snatch set7 60 2,snatch set8 70kgx1,snatch,8,1,70
+snatch set8 70kgx1,s9 70 1r,snatch,9,1,70
+snatch s9 70 1r,snatch s10 70kg -5kg x2,snatch,10,2,65
+snatch s10 70kg -5kg x2,65x2,snatch,11,2,65
+snatch set11 65x2,snatch s12 65x2,snatch,12,2,65
+snatch s12 65x2,cj s1 40kgx4,clean_and_jerk,1,4,40
+cj s1 40kgx4,+10 x2,clean_and_jerk,2,2,50
+cj set2 40+10 2reps,cj s3 70 2r,clean_and_jerk,3,2,70
+cj s3 70 2r,cj set4 70kg +10kg x2,clean_and_jerk,4,2,80
+cj set4 70kg +10kg x2,set5 80kgx1,clean_and_jerk,5,1,80
+cj set5 80kgx1,+10 x1,clean_and_jerk,6,1,90
+cj s6 80kg +10kg x1,cj s7 95 1reps,clean_and_jerk,7,1,95
+,squat #1 20x10,squat,1,10,20
+squat #1 20x10,squat #2 20kg +30kg x5,squat,2,5,50
+squat #2 20kg +30kg x5,+20 x4,squat,3,4,70
+squat #3 70 4,+20 x3,squat,4,3,90
+squat s4 90x3,+10 x2,squat,5,2,100
+squat s5 90+10 2,+10 x2,squat,6,2,110
+squat s6 100+10x2,s7 120 2,squat,7,2,120
+,ohp s1 5kgx20,ohp,1,20,5
+ohp s1 5kgx20,press s2 40kgx4,ohp,2,4,40
+press s2 40kgx4,ohp set3 40 4r,ohp,3,4,40
+ohp set3 40 4r,40x4,ohp,4,4,40
+press s4 40x4,+10 x3,ohp,5,3,50
+,crunch set1 25,crunch,1,25,
+,gm #1 20kgx15,good_morning,1,15,20
+,snatch #1 20kgx5,snatch,1,5,20
+snatch #1 20kgx5,+20 x3,snatch,2,3,40
+snatch set2 20kg +20kg x3,snatch s3 40 3,snatch,3,3,40
+snatch s3 40 3,+10 x3,snatch,4,3,50
+snatch set4 40+10 3,50x3,snatch,5,3,50
+snatch s5 50x3,snatch set6 60kgx2,snatch,6,2,60
+snatch set6 60kgx2,snatch s7 60 2,snatch,7,2,60
+snatch s7 60 2,set8 60+5x1,snatch,8,1,65
+snatch set8 60+5x1,#9 70 1,snatch,9,1,70
+,cj set1 40x4,clean_and_jerk,1,4,40
+cj set1 40x4,+10 x2,clean_and_jerk,2,2,50
+cj #2 40 +10 2,+20 x2,clean_and_jerk,3,2,70
+cj #3 50+20x2,cj s4 70kgx2,clean_and_jerk,4,2,70
+cj s4 70kgx2,cj set5 80x2,clean_and_jerk,5,2,80
+cj set5 80x2,cj s6 90 1,clean_and_jerk,6,1,90
+,squat #1 50 6reps,squat,1,6,50
+squat #1 50 6reps,squat set2 50kg +20kg x4,squat,2,4,70
+squat set2 50kg +20kg x4,#3 90kgx3,squat,3,3,90
+squat #3 90kgx3,s4 100x3,squat,4,3,100
+squat s4 100x3,+10 x2,squat,5,2,110
+squat set5 110 2reps,110x2,squat,6,2,110
+squat #6 110x2,110x2,squat,7,2,110
+squat #7 110x2,#8 110x2,squat,8,2,110
+squat #8 110x2,fs s1 90kgx3,front_squat,1,3,90
+fs s1 90kgx3,fs set2 90kgx3,front_squat,2,3,90
+fs set2 90kgx3,fs s3 90+10x2,front_squat,3,2,100
+,abs set1 25r,crunch,1,25,
+,snatch set1 20kgx5,snatch,1,5,20
+snatch set1 20kgx5,snatch set2 40 3,snatch,2,3,40
+snatch set2 40 3,snatch set3 40 3,snatch,3,3,40
+snatch set3 40 3,snatch set4 50 3,snatch,4,3,50
+snatch set4 50 3,s5 50 r3,snatch,5,3,50
+snatch s5 50 r3,snatch #6 50kg +10kg x2,snatch,6,2,60
+snatch #6 50kg +10kg x2,60x2,snatch,7,2,60
+snatch set7 60kgx2,#8 60+5 2,snatch,8,2,65
+snatch #8 60+5 2,set9 70 r2,snatch,9,2,70
+,cj s1 50x3,clean_and_jerk,1,3,50
+cj s1 50x3,cj set2 50x3,clean_and_jerk,2,3,50
+cj set2 50x3,+20 x2,clean_and_jerk,3,2,70
+cj #3 50 +20 r2,cj #4 70kgx2,clean_and_jerk,4,2,70
+cj #4 70kgx2,+10 x2,clean_and_jerk,5,2,80
+cj #5 70kg +10kg x2,+10 x1,clean_and_jerk,6,1,90
+cj s6 80+10x1,cj s7 95 1,clean_and_jerk,7,1,95
+cj s7 95 1,s8 90 1,clean_and_jerk,8,1,90
+,squat s1 50kgx6,squat,1,6,50
+squat s1 50kgx6,set2 50kg +20kg x4,squat,2,4,70
+squat set2 50kg +20kg x4,+20 x3,squat,3,3,90
+squat #3 70+20 3r,+10 x3,squat,4,3,100
+squat s4 90kg +10kg x3,squat set5 100+10x2,squat,5,2,110
+squat set5 100+10x2,squat set6 110kgx2,squat,6,2,110
+squat set6 110kgx2,110x2,squat,7,2,110
+squat #7 110x2,110x2,squat,8,2,110
+,gm #1 20x15,good_morning,1,15,20
+,abs #1 25r,crunch,1,25,
+abs #1 25r,snatch s1 20 10,snatch,1,10,20
+snatch s1 20 10,+20 x4,snatch,2,4,40
+snatch set2 20 +20 4r,40x3,snatch,3,3,40
+snatch #3 40kgx3,+10 x3,snatch,4,3,50
+snatch #4 40+10 r3,#5 50kgx3,snatch,5,3,50
+snatch #5 50kgx3,snatch #6 60kgx2,snatch,6,2,60
+snatch #6 60kgx2,snatch set7 60x2,snatch,7,2,60
+snatch set7 60x2,snatch s8 60+10 1reps,snatch,8,1,70
+snatch s8 60+10 1reps,+5 x1,snatch,9,1,75
+,cj set1 50x3,clean_and_jerk,1,3,50
+cj set1 50x3,cj #2 70 2reps,clean_and_jerk,2,2,70
+cj #2 70 2reps,cj s3 70kgx2,clean_and_jerk,3,2,70
+cj s3 70kgx2,cj #4 80x1,clean_and_jerk,4,1,80
+cj #4 80x1,+10 x1,clean_and_jerk,5,1,90
+cj #5 90x1,cj set6 90 +5 1,clean_and_jerk,6,1,95
+,squat set1 50kgx5,squat,1,5,50
+squat set1 50kgx5,squat #2 50 +20 r5,squat,2,5,70
+squat #2 50 +20 r5,squat #3 70+20x3,squat,3,3,90
+squat #3 70+20x3,s4 90+10x3,squat,4,3,100
+squat s4 90+10x3,squat #5 100kg +10kg x3,squat,5,3,110
+squat #5 100kg +10kg x3,110x3,squat,6,3,110
+squat set6 110 r3,squat set7 110kgx3,squat,7,3,110
+squat set7 110kgx3,set8 110 3,squat,8,3,110
+,abs set1 25reps,crunch,1,25,
+abs set1 25reps,gm s1 20 r15,good_morning,1,15,20
+gm s1 20 r15,hsnatch set1 20 5reps,hang_snatch,1,5,20
+hsnatch set1 20 5reps,hsnatch s2 40x3,hang_snatch,2,3,40
+hsnatch s2 40x3,40x3,hang_snatch,3,3,40
+hsnatch #3 40 3,+10 x3,hang_snatch,4,3,50
+hsnatch set4 50x3,hsnatch s5 50 3r,hang_snatch,5,3,50
+hsnatch s5 50 3r,+10 x3,hang_snatch,6,3,60
+hsnatch set6 50+10 3r,hsnatch #7 60kgx3,hang_snatch,7,3,60
+hsnatch #7 60kgx3,hsnatch #8 60x3,hang_snatch,8,3,60
+hsnatch #8 60x3,hsnatch s9 60kgx3,hang_snatch,9,3,60
+,hclean s1 20x5,hang_clean,1,5,20
+hclean s1 20x5,+30 x3,hang_clean,2,3,50
+hclean s2 20kg +30kg x3,+20 x3,hang_clean,3,3,70
+hclean s3 70kgx3,hclean s4 80x3,hang_clean,4,3,80
+hclean s4 80x3,80x3,hang_clean,5,3,80
+hclean s5 80x3,set6 80x3,hang_clean,6,3,80
+hclean set6 80x3,s7 80x3,hang_clean,7,3,80
+,spull set1 70kgx4,snatch_pull,1,4,70
+spull set1 70kgx4,+10 x4,snatch_pull,2,4,80
+spull #2 70+10x4,spull set3 80x4,snatch_pull,3,4,80
+spull set3 80x4,+10 x4,snatch_pull,4,4,90
+spull s4 90 4r,90x4,snatch_pull,5,4,90
+,ab #1 r25,crunch,1,25,
+ab #1 r25,gm #1 20 15,good_morning,1,15,20
+,snatch set1 20 r5,snatch,1,5,20
+snatch set1 20 r5,+20 x4,snatch,2,4,40
+snatch set2 40x4,#3 40kgx4,snatch,3,4,40
+snatch #3 40kgx4,+10 x3,snatch,4,3,50
+snatch #4 50kgx3,set5 50kgx3,snatch,5,3,50
+snatch set5 50kgx3,s6 50+10x2,snatch,6,2,60
+snatch s6 50+10x2,60x2,snatch,7,2,60
+snatch set7 60 2reps,snatch #8 65kgx1,snatch,8,1,65
+snatch #8 65kgx1,snatch #9 65+5x1,snatch,9,1,70
+snatch #9 65+5x1,#10 70kgx1,snatch,10,1,70
+,cj set1 50x3,clean_and_jerk,1,3,50
+cj set1 50x3,set2 60 1,clean_and_jerk,2,1,60
+cj set2 60 1,cj set3 60kgx1,clean_and_jerk,3,1,60
+cj set3 60kgx1,#4 60kg +10kg x2,clean_and_jerk,4,2,70
+cj #4 60kg +10kg x2,#5 70kgx2,clean_and_jerk,5,2,70
+cj #5 70kgx2,s6 70+10x1,clean_and_jerk,6,1,80
+cj s6 70+10x1,+5 x1,clean_and_jerk,7,1,85
+cj s7 80kg +5kg x1,+5 x1,clean_and_jerk,8,1,90
+cj #8 90 r1,s9 90+5x1,clean_and_jerk,9,1,95
+cj s9 90+5x1,squat s1 50 5,squat,1,5,50
+squat s1 50 5,+20 x3,squat,2,3,70
+squat set2 50 +20 r3,+20 x3,squat,3,3,90
+squat s3 90 r3,squat #4 90kg +10kg x3,squat,4,3,100
+squat #4 90kg +10kg x3,squat set5 110kgx3,squat,5,3,110
+squat set5 110kgx3,110x3,squat,6,3,110
+squat #6 110kgx3,squat s7 110x3,squat,7,3,110
+squat s7 110x3,squat set8 110 3,squat,8,3,110
+,crunch s1 25r,crunch,1,25,
+crunch s1 25r,gm set1 20x15,good_morning,1,15,20
+,snatch s1 20kgx5,snatch,1,5,20
+snatch s1 20kgx5,snatch set2 20kg +20kg x4,snatch,2,4,40
+snatch set2 20kg +20kg x4,40x4,snatch,3,4,40
+snatch set3 40x4,+10 x3,snatch,4,3,50
+snatch s4 50 3reps,50x3,snatch,5,3,50
+snatch s5 50x3,+10 x2,snatch,6,2,60
+snatch s6 60 2r,set7 70x1,snatch,7,1,70
+snatch set7 70x1,#8 75 1,snatch,8,1,75
+snatch #8 75 1,s9 75kgx1,snatch,9,1,75
+,cj set1 50kgx3,clean_and_jerk,1,3,50
+cj set1 50kgx3,cj s2 50kgx3,clean_and_jerk,2,3,50
+cj s2 50kgx3,cj s3 70 r2,clean_and_jerk,3,2,70
+cj s3 70 r2,cj s4 70kgx2,clean_and_jerk,4,2,70
+cj s4 70kgx2,cj set5 70+10x1,clean_and_jerk,5,1,80
+cj set5 70+10x1,cj s6 80+10x1,clean_and_jerk,6,1,90
+cj s6 80+10x1,cj s7 90+5x1,clean_and_jerk,7,1,95
+cj s7 90+5x1,cj set8 95+5 1r,clean_and_jerk,8,1,100
+cj set8 95+5 1r,s9 100 1,clean_and_jerk,9,1,100
+,squat set1 50kgx5,squat,1,5,50
+squat set1 50kgx5,+20 x3,squat,2,3,70
+squat set2 50+20x3,+20 x3,squat,3,3,90
+squat #3 70kg +20kg x3,squat #4 100x3,squat,4,3,100
+squat #4 100x3,+10 x3,squat,5,3,110
+squat s5 110x3,squat #6 110kgx3,squat,6,3,110
+squat #6 110kgx3,+10 x2,squat,7,2,120
+squat #7 110kg +10kg x2,-10 x3,squat,8,3,110
+,abs #1 r25,crunch,1,25,
+,gm s1 20kgx15,good_morning,1,15,20
+,cj #1 40x3,clean_and_jerk,1,3,40
+cj #1 40x3,cj #2 40 3reps,clean_and_jerk,2,3,40
+cj #2 40 3reps,#3 40 +10 2r,clean_and_jerk,3,2,50
+cj #3 40 +10 2r,+10 x2,clean_and_jerk,4,2,60
+cj #4 50+10 r2,cj #5 70 r2,clean_and_jerk,5,2,70
+cj #5 70 r2,+10 x2,clean_and_jerk,6,2,80
+cj s6 80 2reps,+10 x1,clean_and_jerk,7,1,90
+cj s7 80+10 1,cj #8 90 +5 1,clean_and_jerk,8,1,95
+cj #8 90 +5 1,cj s9 100x1,clean_and_jerk,9,1,100
+cj s9 100x1,snatch #1 40kgx4,snatch,1,4,40
+snatch #1 40kgx4,40x4,snatch,2,4,40
+snatch s2 40 4,+10 x3,snatch,3,3,50
+snatch #3 50x3,50x3,snatch,4,3,50
+snatch set4 50 3r,snatch #5 60x2,snatch,5,2,60
+snatch #5 60x2,snatch #6 70 1,snatch,6,1,70
+snatch #6 70 1,70x1,snatch,7,1,70
+snatch s7 70x1,snatch s8 70+5x1,snatch,8,1,75
+snatch s8 70+5x1,#9 77.5 r1,snatch,9,1,77.5
+snatch #9 77.5 r1,-7.5 x2,snatch,10,2,70
+snatch set10 77.5kg -7.5kg x2,s11 70 r2,snatch,11,2,70
+snatch s11 70 r2,fs #1 50kgx5,front_squat,1,5,50
+fs #1 50kgx5,set2 70kgx3,front_squat,2,3,70
+fs set2 70kgx3,+10 x3,front_squat,3,3,80
+fs #3 70+10 3r,+10 x3,front_squat,4,3,90
+fs set4 80kg +10kg x3,+10 x3,front_squat,5,3,100
+fs #5 100x3,set6 100kgx3,front_squat,6,3,100
+fs set6 100kgx3,100x3,front_squat,7,3,100
+fs #7 100x3,fs set8 100kgx3,front_squat,8,3,100
+,abs #1 25,crunch,1,25,
+abs #1 25,gm #1 20kgx15,good_morning,1,15,20
+gm #1 20kgx15,hsnatch s1 20kgx5,hang_snatch,1,5,20
+hsnatch s1 20kgx5,hsnatch #2 20kg +20kg x4,hang_snatch,2,4,40
+hsnatch #2 20kg +20kg x4,hsnatch s3 50x3,hang_snatch,3,3,50
+hsnatch s3 50x3,hsnatch s4 50kg +10kg x3,hang_snatch,4,3,60
+hsnatch s4 50kg +10kg x3,hsnatch #5 60x3,hang_snatch,5,3,60
+hsnatch #5 60x3,60x3,hang_snatch,6,3,60
+hsnatch set6 60kgx3,+5 x2,hang_snatch,7,2,65
+hsnatch #7 65kgx2,#8 65x2,hang_snatch,8,2,65
+hsnatch #8 65x2,+5 x1,hang_snatch,9,1,70
+,hclean s1 20x5,hang_clean,1,5,20
+hclean s1 20x5,s2 20+30 3reps,hang_clean,2,3,50
+hclean s2 20+30 3reps,hclean s3 50kg +10kg x2,hang_clean,3,2,60
+hclean s3 50kg +10kg x2,set4 70x3,hang_clean,4,3,70
+hclean set4 70x3,hclean set5 80kgx3,hang_clean,5,3,80
+hclean set5 80kgx3,80x3,hang_clean,6,3,80
+hclean set6 80 r3,hclean s7 80x3,hang_clean,7,3,80
+,squat s1 60 r5,squat,1,5,60
+squat s1 60 r5,squat s2 60 +20 3r,squat,2,3,80
+squat s2 60 +20 3r,+20 x3,squat,3,3,100
+squat #3 100kgx3,s4 100+10x3,squat,4,3,110
+squat s4 100+10x3,#5 110kgx3,squat,5,3,110
+squat #5 110kgx3,110x3,squat,6,3,110
+squat set6 110x3,squat set7 110 r3,squat,7,3,110
+,ab s1 25,crunch,1,25,
+,gm s1 20kgx15,good_morning,1,15,20
+gm s1 20kgx15,snatch s1 20kgx5,snatch,1,5,20
+snatch s1 20kgx5,set2 20 +20 4reps,snatch,2,4,40
+snatch set2 20 +20 4reps,snatch set3 40+10 3,snatch,3,3,50
+snatch set3 40+10 3,50x3,snatch,4,3,50
+snatch #4 50kgx3,#5 60x2,snatch,5,2,60
+snatch #5 60x2,snatch s6 60kgx2,snatch,6,2,60
+snatch s6 60kgx2,+10 x1,snatch,7,1,70
+snatch s7 70kgx1,snatch s8 70kgx1,snatch,8,1,70
+snatch s8 70kgx1,70x1,snatch,9,1,70
+snatch #9 70 1r,cj #1 50kgx3,clean_and_jerk,1,3,50
+cj #1 50kgx3,cj #2 60 2,clean_and_jerk,2,2,60
+cj #2 60 2,+10 x2,clean_and_jerk,3,2,70
+cj s3 60+10 2r,+10 x2,clean_and_jerk,4,2,80
+cj #4 80x2,s5 90x1,clean_and_jerk,5,1,90
+cj s5 90x1,cj s6 90 1r,clean_and_jerk,6,1,90
+,fs set1 60x3,front_squat,1,3,60
+fs set1 60x3,fs s2 80kgx3,front_squat,2,3,80
+fs s2 80kgx3,fs #3 80 +10 3reps,front_squat,3,3,90
+fs #3 80 +10 3reps,fs set4 90 +10 3,front_squat,4,3,100
+fs set4 90 +10 3,fs #5 100 3,front_squat,5,3,100
+fs #5 100 3,fs set6 100kgx3,front_squat,6,3,100
+,crunch set1 r25,crunch,1,25,
+,gm set1 20x15,good_morning,1,15,20
+gm set1 20x15,psnatch s1 20kgx5,power_snatch,1,5,20
+psnatch s1 20kgx5,s2 20+20x4,power_snatch,2,4,40
+psnatch s2 20+20x4,+10 x3,power_snatch,3,3,50
+psnatch #3 40 +10 3reps,psnatch s4 60 3reps,power_snatch,4,3,60
+psnatch s4 60 3reps,psnatch s5 60kgx3,power_snatch,5,3,60
+psnatch s5 60kgx3,+5 x3,power_snatch,6,3,65
+psnatch s6 60+5x3,s7 65+5x1,power_snatch,7,1,70
+psnatch s7 65+5x1,+5 x1,power_snatch,8,1,75
+,pclean s1 50kgx3,power_clean,1,3,50
+pclean s1 50kgx3,pclean s2 60 3r,power_clean,2,3,60
+pclean s2 60 3r,pclean #3 60 +10 3reps,power_clean,3,3,70
+pclean #3 60 +10 3reps,pclean #4 70+10 r3,power_clean,4,3,80
+pclean #4 70+10 r3,#5 80kgx3,power_clean,5,3,80
+pclean #5 80kgx3,s6 80x3,power_clean,6,3,80
+pclean s6 80x3,+10 x1,power_clean,7,1,90
+pclean #7 80 +10 r1,90x1,power_clean,8,1,90
+,fs set1 60 5,front_squat,1,5,60
+fs set1 60 5,s2 60+20 r3,front_squat,2,3,80
+fs s2 60+20 r3,fs #3 90x3,front_squat,3,3,90
+fs #3 90x3,fs s4 100x3,front_squat,4,3,100
+fs s4 100x3,100x3,front_squat,5,3,100
+fs #5 100 3,100x3,front_squat,6,3,100
+,abs s1 25reps,crunch,1,25,
+abs s1 25reps,gm #1 20 15,good_morning,1,15,20
+,cj s1 40kgx2,clean_and_jerk,1,2,40
+cj s1 40kgx2,cj set2 50 r2,clean_and_jerk,2,2,50
+cj set2 50 r2,cj set3 50+20 2r,clean_and_jerk,3,2,70
+cj set3 50+20 2r,+10 x2,clean_and_jerk,4,2,80
+cj set4 70+10 r2,#5 90 1reps,clean_and_jerk,5,1,90
+cj #5 90 1reps,+10 x1,clean_and_jerk,6,1,100
+cj set6 100x1,set7 100+2.5 1,clean_and_jerk,7,1,102.5
+,snatch #1 20x5,snatch,1,5,20
+snatch #1 20x5,+20 x2,snatch,2,2,40
+snatch s2 20+20 2,#3 40+10 2reps,snatch,3,2,50
+snatch #3 40+10 2reps,snatch s4 50kg +10kg x2,snatch,4,2,60
+snatch s4 50kg +10kg x2,#5 60+10x1,snatch,5,1,70
+snatch #5 60+10x1,s6 70x1,snatch,6,1,70
+snatch s6 70x1,+5 x1,snatch,7,1,75
+snatch set7 70+5 r1,#8 75kgx1,snatch,8,1,75
+snatch #8 75kgx1,75x1,snatch,9,1,75
+snatch s9 75kgx1,snatch s10 75 1r,snatch,10,1,75
+,fs #1 60x3,front_squat,1,3,60
+fs #1 60x3,+20 x3,front_squat,2,3,80
+fs s2 80x3,fs s3 80+10 3,front_squat,3,3,90
+fs s3 80+10 3,set4 90+10 3r,front_squat,4,3,100
+fs set4 90+10 3r,fs s5 100kgx3,front_squat,5,3,100
+fs s5 100kgx3,#6 100x3,front_squat,6,3,100
+fs #6 100x3,100x3,front_squat,7,3,100
+,abs s1 25,crunch,1,25,
+,gm s1 20x15,good_morning,1,15,20
+gm s1 20x15,psnatch s1 20 5,power_snatch,1,5,20
+psnatch s1 20 5,psnatch #2 40 r3,power_snatch,2,3,40
+psnatch #2 40 r3,40x3,power_snatch,3,3,40
+psnatch #3 40x3,+10 x5,power_snatch,4,5,50
+psnatch set4 40+10x5,+10 x4,power_snatch,5,4,60
+psnatch #5 60x4,#6 60x3,power_snatch,6,3,60
+psnatch #6 60x3,60x3,power_snatch,7,3,60
+psnatch set7 60kgx3,psnatch s8 65kgx4,power_snatch,8,4,65
+,pclean set1 50x3,power_clean,1,3,50
+pclean set1 50x3,pclean set2 50+10 3r,power_clean,2,3,60
+pclean set2 50+10 3r,s3 60+10x3,power_clean,3,3,70
+pclean s3 60+10x3,pclean set4 70 +10 3,power_clean,4,3,80
+pclean set4 70 +10 3,80x3,power_clean,5,3,80
+pclean #5 80 3reps,pclean #6 80kgx3,power_clean,6,3,80
+pclean #6 80kgx3,+10 x1,power_clean,7,1,90
+,crunch set1 r25,crunch,1,25,
+,gm set1 20kgx15,good_morning,1,15,20
+gm set1 20kgx15,snatch set1 20x5,snatch,1,5,20
+snatch set1 20x5,snatch set2 40x3,snatch,2,3,40
+snatch set2 40x3,40x3,snatch,3,3,40
+snatch s3 40 3r,+10 x3,snatch,4,3,50
+snatch #4 40+10x3,snatch #5 60 3r,snatch,5,3,60
+snatch #5 60 3r,snatch #6 60kgx3,snatch,6,3,60
+snatch #6 60kgx3,60x3,snatch,7,3,60
+snatch s7 60kgx3,+5 x1,snatch,8,1,65
+snatch #8 60+5 1reps,s9 65+5x1,snatch,9,1,70
+snatch s9 65+5x1,snatch s10 70x1,snatch,10,1,70
+snatch s10 70x1,#11 70kgx1,snatch,11,1,70
+,cj s1 20 r3,clean_and_jerk,1,3,20
+cj s1 20 r3,set2 50kgx3,clean_and_jerk,2,3,50
+cj set2 50kgx3,cj set3 50kg +20kg x3,clean_and_jerk,3,3,70
+cj set3 50kg +20kg x3,+10 x3,clean_and_jerk,4,3,80
+cj set4 70+10x3,cj s5 80kgx3,clean_and_jerk,5,3,80
+cj s5 80kgx3,80x3,clean_and_jerk,6,3,80
+cj s6 80kgx3,cj set7 90kgx1,clean_and_jerk,7,1,90
+cj set7 90kgx1,fs set1 70x3,front_squat,1,3,70
+fs set1 70x3,fs set2 70kg +20kg x3,front_squat,2,3,90
+fs set2 70kg +20kg x3,s3 105 r3,front_squat,3,3,105
+fs s3 105 r3,105x2,front_squat,4,2,105
+fs set4 105kgx2,105x1,front_squat,5,1,105
+fs s5 105x1,fs #6 105 2r,front_squat,6,2,105
+fs #6 105 2r,fs #7 105kgx1,front_squat,7,1,105
+,sj #1 50kgx3,split_jerk,1,3,50
+sj #1 50kgx3,50x3,split_jerk,2,3,50
+sj set2 50 r3,set3 50+10 3reps,split_jerk,3,3,60
+sj set3 50+10 3reps,sj s4 60kgx3,split_jerk,4,3,60
+sj s4 60kgx3,60x3,split_jerk,5,3,60
+,crunch set1 25r,crunch,1,25,
+,gm s1 20x15,good_morning,1,15,20
+gm s1 20x15,psnatch s1 20x5,power_snatch,1,5,20
+psnatch s1 20x5,+20 x3,power_snatch,2,3,40
+psnatch #2 40 3reps,psnatch s3 40x3,power_snatch,3,3,40
+psnatch s3 40x3,+10 x3,power_snatch,4,3,50
+psnatch #4 50x3,psnatch #5 50+10x3,power_snatch,5,3,60
+psnatch #5 50+10x3,set6 60 r3,power_snatch,6,3,60
+psnatch set6 60 r3,60x3,power_snatch,7,3,60
+psnatch s7 60kgx3,60x3,power_snatch,8,3,60
+,pclean s1 50kgx3,power_clean,1,3,50
+pclean s1 50kgx3,pclean #2 50 +20 3,power_clean,2,3,70
+pclean #2 50 +20 3,+10 x3,power_clean,3,3,80
+pclean #3 70kg +10kg x3,pclean #4 80 3reps,power_clean,4,3,80
+pclean #4 80 3reps,pclean set5 80 3reps,power_clean,5,3,80
+pclean set5 80 3reps,pclean #6 80+10x1,power_clean,6,1,90
+pclean #6 80+10x1,#7 90x1,power_clean,7,1,90
+,squat s1 50 5,squat,1,5,50
+squat s1 50 5,+20 x5,squat,2,5,70
+squat s2 50 +20 r5,squat s3 70kg +20kg x3,squat,3,3,90
+squat s3 70kg +20kg x3,squat #4 90kg +20kg x3,squat,4,3,110
+squat #4 90kg +20kg x3,squat #5 110kgx3,squat,5,3,110
+squat #5 110kgx3,squat set6 110x3,squat,6,3,110
+squat set6 110x3,110x3,squat,7,3,110
+squat #7 110x3,squat s8 110 +10 2r,squat,8,2,120
+squat s8 110 +10 2r,squat set9 120+10x1,squat,9,1,130
+squat set9 120+10x1,+5 x1,squat,10,1,135
+,ab #1 25r,crunch,1,25,
+ab #1 25r,gm #1 20kgx15,good_morning,1,15,20
+,snatch s1 20x5,snatch,1,5,20
+snatch s1 20x5,s2 20+20x3,snatch,2,3,40
+snatch s2 20+20x3,40x3,snatch,3,3,40
+snatch #3 40 3reps,snatch #4 50x3,snatch,4,3,50
+snatch #4 50x3,set5 60 3,snatch,5,3,60
+snatch set5 60 3,snatch #6 60kgx3,snatch,6,3,60
+snatch #6 60kgx3,snatch #7 60kgx3,snatch,7,3,60
+snatch #7 60kgx3,set8 60kgx3,snatch,8,3,60
+snatch set8 60kgx3,snatch set9 60 +5 1r,snatch,9,1,65
+,cj set1 20kgx3,clean_and_jerk,1,3,20
+cj set1 20kgx3,cj set2 45x3,clean_and_jerk,2,3,45
+cj set2 45x3,#3 60x3,clean_and_jerk,3,3,60
+cj #3 60x3,+10 x2,clean_and_jerk,4,2,70
+cj #4 60kg +10kg x2,cj #5 70+10 3,clean_and_jerk,5,3,80
+cj #5 70+10 3,cj s6 80kgx3,clean_and_jerk,6,3,80
+cj s6 80kgx3,cj set7 80kgx3,clean_and_jerk,7,3,80
+cj set7 80kgx3,80x3,clean_and_jerk,8,3,80
+,squat #1 60 5,squat,1,5,60
+squat #1 60 5,+20 x3,squat,2,3,80
+squat #2 60+20x3,+10 x1,squat,3,1,90
+squat s3 80+10x1,squat s4 100kgx3,squat,4,3,100
+squat s4 100kgx3,s5 100x3,squat,5,3,100
+squat s5 100x3,100x3,squat,6,3,100
+squat s6 100x3,100x3,squat,7,3,100
+squat #7 100x3,squat set8 100x3,squat,8,3,100
+,abs #1 r25,crunch,1,25,
+,gm set1 20x15,good_morning,1,15,20
+,snatch #1 20 5reps,snatch,1,5,20
+snatch #1 20 5reps,+20 x3,snatch,2,3,40
+snatch #2 20kg +20kg x3,s3 40 r2,snatch,3,2,40
+snatch s3 40 r2,snatch set4 40+10x2,snatch,4,2,50
+snatch set4 40+10x2,snatch s5 50kg +10kg x3,snatch,5,3,60
+snatch s5 50kg +10kg x3,+5 x3,snatch,6,3,65
+snatch #6 65kgx3,65x3,snatch,7,3,65
+snatch #7 65kgx3,snatch s8 65kgx3,snatch,8,3,65
+snatch s8 65kgx3,s9 70 r1,snatch,9,1,70
+snatch s9 70 r1,snatch #10 75x1,snatch,10,1,75
+snatch #10 75x1,cj #1 20x3,clean_and_jerk,1,3,20
+cj #1 20x3,cj #2 20+30x3,clean_and_jerk,2,3,50
+cj #2 20+30x3,#3 50+20 2,clean_and_jerk,3,2,70
+cj #3 50+20 2,#4 80 1,clean_and_jerk,4,1,80
+cj #4 80 1,cj set5 80 +5 3r,clean_and_jerk,5,3,85
+cj set5 80 +5 3r,cj s6 85x3,clean_and_jerk,6,3,85
+cj s6 85x3,85x3,clean_and_jerk,7,3,85
+,fs set1 50 3reps,front_squat,1,3,50
+fs set1 50 3reps,+20 x3,front_squat,2,3,70
+fs set2 70 3,s3 70+20x3,front_squat,3,3,90
+fs s3 70+20x3,+10 x2,front_squat,4,2,100
+fs #4 100 2,100x2,front_squat,5,2,100
+fs set5 100 2r,100x2,front_squat,6,2,100
+fs set6 100x2,100x2,front_squat,7,2,100
+fs s7 100 2,press s1 5x20,ohp,1,20,5
+press s1 5x20,press #2 5+35x4,ohp,2,4,40
+press #2 5+35x4,ohp s3 40kgx4,ohp,3,4,40
+ohp s3 40kgx4,ohp set4 40x4,ohp,4,4,40
+ohp set4 40x4,40x4,ohp,5,4,40
+ohp set5 40kgx4,#6 40+10x3,ohp,6,3,50
+,abs #1 25reps,crunch,1,25,
+,gm set1 20kgx15,good_morning,1,15,20
+gm set1 20kgx15,psnatch set1 20kgx10,power_snatch,1,10,20
+psnatch set1 20kgx10,psnatch s2 40x3,power_snatch,2,3,40
+psnatch s2 40x3,40x3,power_snatch,3,3,40
+psnatch s3 40 3r,psnatch set4 50 3,power_snatch,4,3,50
+psnatch set4 50 3,psnatch set5 50+10 3reps,power_snatch,5,3,60
+psnatch set5 50+10 3reps,psnatch s6 60kgx3,power_snatch,6,3,60
+psnatch s6 60kgx3,psnatch set7 60x3,power_snatch,7,3,60
+psnatch set7 60x3,psnatch set8 60 3,power_snatch,8,3,60
+,pclean #1 50 3r,power_clean,1,3,50
+pclean #1 50 3r,pclean #2 60kgx2,power_clean,2,2,60
+pclean #2 60kgx2,+10 x2,power_clean,3,2,70
+pclean set3 60+10 r2,+10 x3,power_clean,4,3,80
+pclean set4 80kgx3,set5 80x3,power_clean,5,3,80
+pclean set5 80x3,pclean #6 80kgx3,power_clean,6,3,80
+pclean #6 80kgx3,#7 80kgx3,power_clean,7,3,80
+pclean #7 80kgx3,+10 x1,power_clean,8,1,90
+,squat set1 60kgx5,squat,1,5,60
+squat set1 60kgx5,+20 x3,squat,2,3,80
+squat s2 80x3,squat s3 90 1,squat,3,1,90
+squat s3 90 1,+20 x3,squat,4,3,110
+squat #4 90+20 3r,squat #5 110 3reps,squat,5,3,110
+squat #5 110 3reps,110x3,squat,6,3,110
+squat set6 110 3,squat s7 110kgx3,squat,7,3,110
+squat s7 110kgx3,+10 x1,squat,8,1,120
+squat #8 110+10x1,bp #1 15 10r,bench,1,10,15
+bp #1 15 10r,+20 x8,bench,2,8,35
+bench set2 35x8,+10 x6,bench,3,6,45
+bp set3 45x6,#4 45kg +10kg x4,bench,4,4,55
+bench #4 45kg +10kg x4,bp s5 55 r4,bench,5,4,55
+bp s5 55 r4,#6 55 4reps,bench,6,4,55
+bp #6 55 4reps,55x4,bench,7,4,55
+bp s7 55x4,bp set8 65x3,bench,8,3,65
+,abs set1 25reps,crunch,1,25,
+,gm s1 20kgx15,good_morning,1,15,20
+,snatch set1 20 5r,snatch,1,5,20
+snatch set1 20 5r,+20 x2,snatch,2,2,40
+snatch #2 40x2,snatch #3 40 2r,snatch,3,2,40
+snatch #3 40 2r,snatch s4 50x2,snatch,4,2,50
+snatch s4 50x2,s5 60kgx2,snatch,5,2,60
+snatch s5 60kgx2,snatch #6 70x1,snatch,6,1,70
+snatch #6 70x1,+5 x1,snatch,7,1,75
+snatch #7 70+5 r1,75x1,snatch,8,1,75
+snatch set8 75kgx1,set9 70 1reps,snatch,9,1,70
+snatch set9 70 1reps,snatch s10 70+5x1,snatch,10,1,75
+,cj s1 20kgx3,clean_and_jerk,1,3,20
+cj s1 20kgx3,set2 50 2reps,clean_and_jerk,2,2,50
+cj set2 50 2reps,set3 60x2,clean_and_jerk,3,2,60
+cj set3 60x2,+10 x2,clean_and_jerk,4,2,70
+cj s4 60+10x2,+10 x2,clean_and_jerk,5,2,80
+cj s5 80kgx2,+10 x1,clean_and_jerk,6,1,90
+cj #6 90kgx1,cj set7 90 +10 1reps,clean_and_jerk,7,1,100
+,cpull set1 100kgx3,clean_pull,1,3,100
+cpull set1 100kgx3,#2 100kgx3,clean_pull,2,3,100
+cpull #2 100kgx3,cpull set3 100x3,clean_pull,3,3,100
+cpull set3 100x3,100x3,clean_pull,4,3,100
+cpull s4 100x3,fs set1 50kgx3,front_squat,1,3,50
+fs set1 50kgx3,fs #2 80 3,front_squat,2,3,80
+fs #2 80 3,set3 90kgx3,front_squat,3,3,90
+fs set3 90kgx3,90x3,front_squat,4,3,90
+fs set4 90kgx3,90x3,front_squat,5,3,90
+fs set5 90 3reps,fs #6 90 r3,front_squat,6,3,90
+fs #6 90 r3,90x3,front_squat,7,3,90

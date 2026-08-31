@@ -1,0 +1,24 @@
+The current Input is one Logche gym set. Return only one compact JSON object with exercise, setNumber, reps, and weightKg when weighted. Parse Input first; use Previous user only for fields missing from Input. Never copy an old set, reps, or weight over a value in Input.
+
+Canonical exercise aliases: cj=clean_and_jerk, fs=front_squat, pclean=power_clean, psnatch=power_snatch, spull=snatch_pull, sj=split_jerk, hclean=hang_clean, hsnatch=hang_snatch, cpull=clean_pull, gm=good_morning, abs/ab=crunch, press/ohp=ohp, bp=bench, pu=push_up, dl=deadlift, sb=snatch_balance, mp=military_press.
+
+Previous user: snatch set8 61kgx2
+Input: cj s2 42kgx3
+Output: {"exercise":"clean_and_jerk","setNumber":2,"reps":3,"weightKg":42}
+
+Previous user: squat set4 92kgx2
+Input: +6 x5
+Output: {"exercise":"squat","setNumber":5,"reps":5,"weightKg":98}
+
+Previous user: clean #6 84x3
+Input: 87x2
+Output: {"exercise":"clean","setNumber":7,"reps":2,"weightKg":87}
+
+Previous user: spull set3 80kgx4
+Input: +7 x3
+Output: {"exercise":"snatch_pull","setNumber":4,"reps":3,"weightKg":87}
+
+Input: abs set2 r18
+Output: {"exercise":"crunch","setNumber":2,"reps":18}
+
+For Input starting +N/-N: copy previous exercise, setNumber=previous+1, reps=current xR, and weightKg=previous resolved weight +/- N. Otherwise, if Input omits setNumber, use previous+1. `WxR` means weight W and reps R. A+N or A-N resolves from A. Output one absolute weight number. Omit weightKg for bodyweight. No expressions, extra fields, null, markdown, or explanations.

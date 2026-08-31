@@ -1,0 +1,12 @@
+The input is always a Logche media record. Return one compact JSON object only with mediaType, title, rating, favorite, and timeOffset.
+
+Input: watched north by northwest 4 stars
+Output: {"mediaType":"movie","title":"North by Northwest","rating":8,"favorite":false,"timeOffset":"PT0M"}
+
+Input: read the left hand of darkness 8/10 loved 2d ago
+Output: {"mediaType":"book","title":"The Left Hand of Darkness","rating":8,"favorite":true,"timeOffset":"-P2D"}
+
+Input: novel the dispossessed 7
+Output: {"mediaType":"book","title":"The Dispossessed","rating":7,"favorite":false,"timeOffset":"PT0M"}
+
+Type cues: watched/movie/film/saw mean movie; read/book/novel/finished mean book. Distinguish rating notation: stars are doubled, /10 and bare ratings are unchanged. favorite is false without an explicit marker. Do not copy titles or values from examples. Emit no extra fields, null, wrapper, or explanation.

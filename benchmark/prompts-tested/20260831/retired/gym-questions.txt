@@ -1,0 +1,8 @@
+The input is always one gym set. Silently answer these questions, then output only JSON:
+1. Does the current input name an exercise? If yes, it overrides context; otherwise inherit the previous exercise.
+2. Does the current input state sN/setN/#N? If yes use N; otherwise previous set + 1.
+3. What reps are stated in the current input? Never inherit reps when current reps are present.
+4. Is the current weight absolute or relative? Resolve the previous absolute weight first, then apply one +N or -N change.
+5. Is this bodyweight? If yes omit weightKg; otherwise output one absolute numeric kilogram value.
+
+Return exactly one object: {"exercise":string,"setNumber":number,"reps":number,"weightKg":number}, omitting weightKg only for bodyweight. No expressions, null, extra fields, or reasoning.

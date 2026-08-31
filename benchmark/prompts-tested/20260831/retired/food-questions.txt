@@ -1,0 +1,8 @@
+The input is always food shorthand. Silently answer these questions, then output only the final JSON object:
+1. How many food segments are there? Split only on +; commas stay inside a food name.
+2. What name, quantity, and unit belong to each segment? Ignore kcal, percentages, meal words, and time markers as foods.
+3. What canonical catalog name and kcal correspond to each quantity?
+4. Is the meal breakfast, lunch, dinner, snack, late_night, or unknown?
+5. What is totalKcal, the exact sum of item kcal, and what is the ISO timeOffset?
+
+Output exactly {"items":[{"name":string,"quantity":number,"unit":string,"kcal":number}],"totalKcal":number,"mealType":string,"timeOffset":string}. Use canonical units and names, preserve order, emit no extra fields or reasoning. No time means PT0M; no meal means unknown.

@@ -1,0 +1,348 @@
+input,itemName,itemQuantity,itemUnit,itemKcal,totalKcal,mealType,timeOffset
+"hummus, commercial tbsp2 ln","hummus, commercial",2,tablespoon,78,78,late_night,PT0M
+"milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d cup1 kcal114 lunch","milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d",1,cup,114,114,lunch,PT0M
+"ate 1 cup tomatoes, grape, raw kcal41","tomatoes, grape, raw",1,cup,41,41,unknown,PT0M
+"ate cup1 beans, snap, green, canned, regular pack, drained solids snack","beans, snap, green, canned, regular pack, drained solids",1,cup,27,27,snack,PT0M
+"2cup broccoli, raw tomorrow","broccoli, raw",2,cup,49,49,unknown,P1D
+"milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d 2cup 7h ago","milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d",2,cup,200,200,unknown,-PT7H
+"ate cup2 milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim) 156kcal 3d ago","milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)",2,cup,156,156,unknown,-P3D
+"milk, whole, 3.25% milkfat, with added vitamin d 2cup","milk, whole, 3.25% milkfat, with added vitamin d",2,cup,275,275,unknown,PT0M
+"frankfurter, beef, unheated piece3","frankfurter, beef, unheated",3,piece,458,458,unknown,PT0M
+"nuts, almonds, dry roasted, with salt added 2cup 1674kcal -15h","nuts, almonds, dry roasted, with salt added",2,cup,1674,1674,unknown,-PT15H
+"ate cup0.4 cheese, ricotta, whole milk snack","cheese, ricotta, whole milk",0.4,cup,203,203,snack,PT0M
+"2cup kale, raw lunch +1d","kale, raw",2,cup,14,14,lunch,P1D
+"egg, whole, raw, frozen, pasteurized 250 grams ln -7d","egg, whole, raw, frozen, pasteurized",250,g,375,375,late_night,-P7D
+"ate 150 gr egg, white, raw, frozen, pasteurized","egg, white, raw, frozen, pasteurized",150,g,72,72,unknown,PT0M
+"ate cup1 egg, white, dried snack -7d","egg, white, dried",1,cup,402,402,snack,-P7D
+"2tbsp sauce, salsa, ready-to-serve cal10 lunch","sauce, salsa, ready-to-serve",2,tablespoon,10,10,lunch,PT0M
+"sausage, breakfast sausage, beef, pre-cooked, unprepared 200g dinner","sausage, breakfast sausage, beef, pre-cooked, unprepared",200,g,656,656,dinner,PT0M
+"1piece onion rings, breaded, par fried, frozen, prepared, heated in oven snack","onion rings, breaded, par fried, frozen, prepared, heated in oven",1,piece,58,58,snack,PT0M
+"ate 200g pickles, cucumber, dill or kosher dill","pickles, cucumber, dill or kosher dill",200,g,24,24,unknown,PT0M
+"2cup peanut butter, smooth style, with salt bf","peanut butter, smooth style, with salt",2,cup,3081,3081,breakfast,PT0M
+"ate tbsp1 cheese, parmesan, grated","cheese, parmesan, grated",1,tablespoon,32,32,unknown,PT0M
+"ate 2slice cheese, pasteurized process, american, vitamin d fortified 151kcal late night","cheese, pasteurized process, american, vitamin d fortified",2,slice,151,151,late_night,PT0M
+"grapefruit juice, white, canned or bottled, unsweetened cup2 snack -13d","grapefruit juice, white, canned or bottled, unsweetened",2,cup,190,190,snack,-P13D
+"peaches, yellow, raw 2cup","peaches, yellow, raw",2,cup,129,129,unknown,PT0M
+"2 cups seeds, sunflower seed kernels, dry roasted, with salt added","seeds, sunflower seed kernels, dry roasted, with salt added",2,cup,1554,1554,unknown,PT0M
+"250 g sausage, italian, pork, mild, cooked, pan-fried lunch 23d ago","sausage, italian, pork, mild, cooked, pan-fried",250,g,805,805,lunch,-P23D
+"ate 3 slices bread, white, commercially prepared 22h ago","bread, white, commercially prepared",3,slice,221,221,unknown,-PT22H
+"sausage, turkey, breakfast links, mild, raw g100 dinner","sausage, turkey, breakfast links, mild, raw",100,g,169,169,dinner,PT0M
+"3 slices cheese, swiss -7d","cheese, swiss",3,slice,129,129,unknown,-P7D
+"ate 2 cups kale, frozen, cooked, boiled, drained, without salt 85cal 1h ago","kale, frozen, cooked, boiled, drained, without salt",2,cup,85,85,unknown,-PT1H
+"carrots, frozen, unprepared (includes foods for usda's food distribution program) 100 g 11d ago","carrots, frozen, unprepared (includes foods for usda's food distribution program)",100,g,37,37,unknown,-P11D
+"ate 1cup mustard, prepared, yellow breakfast","mustard, prepared, yellow",1,cup,152,152,breakfast,PT0M
+"2 cups figs, dried, uncooked lunch 16h ago","figs, dried, uncooked",2,cup,742,742,lunch,-PT16H
+"100 grams kiwifruit, green, raw 58kcal 18d ago","kiwifruit, green, raw",100,g,58,58,unknown,-P18D
+"melons, cantaloupe, raw 30piece 23d ago","melons, cantaloupe, raw",30,piece,141,141,unknown,-P23D
+"ate 2cup nectarines, raw lunch 19h ago","nectarines, raw",2,cup,112,112,lunch,-PT19H
+"ate 2cup oranges, raw, navels (includes foods for usda's food distribution program) ln","oranges, raw, navels (includes foods for usda's food distribution program)",2,cup,155,155,late_night,PT0M
+"ate 150g strawberries, raw lunch","strawberries, raw",150,g,47,47,lunch,PT0M
+"g100 lettuce, cos or romaine, raw 17cal","lettuce, cos or romaine, raw",100,g,17,17,unknown,PT0M
+"cheese, cheddar 1slice 69kcal bf 4h ago","cheese, cheddar",1,slice,69,69,breakfast,-PT4H
+"ate 2cup cheese, cottage, lowfat, 2% milkfat 15d ago","cheese, cottage, lowfat, 2% milkfat",2,cup,370,370,unknown,-P15D
+"1cup cheese, mozzarella, low moisture, part-skim 3d ago","cheese, mozzarella, low moisture, part-skim",1,cup,257,257,unknown,-P3D
+"egg, whole, dried cup2 -3d","egg, whole, dried",2,cup,978,978,unknown,-P3D
+"egg, yolk, raw, frozen, pasteurized 150 g bf -1d","egg, yolk, raw, frozen, pasteurized",150,g,444,444,breakfast,-P1D
+"2 cups egg, yolk, dried kcal876","egg, yolk, dried",2,cup,876,876,unknown,PT0M
+"1cup cheese, dry white, queso seco 317cal late night 19d ago","cheese, dry white, queso seco",1,cup,317,317,late_night,-P19D
+"150 g yogurt, greek, plain, nonfat lunch","yogurt, greek, plain, nonfat",150,g,92,92,lunch,PT0M
+"ate 150 gr yogurt, greek, strawberry, nonfat ln -13d","yogurt, greek, strawberry, nonfat",150,g,125,125,late_night,-P13D
+"oil, coconut tbsp1","oil, coconut",1,tablespoon,97,97,unknown,PT0M
+"50 grams turkey, ground, 93% lean, 7% fat, pan-broiled crumbles kcal110","turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",50,g,110,110,unknown,PT0M
+"200 grams chicken, broilers or fryers, drumstick, meat only, cooked, braised","chicken, broilers or fryers, drumstick, meat only, cooked, braised",200,g,312,312,unknown,PT0M
+"ate 2piece chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised +1d","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",2,piece,578,578,unknown,P1D
+"sauce, pasta, spaghetti/marinara, ready-to-serve 2serving 12h ago","sauce, pasta, spaghetti/marinara, ready-to-serve",2,serving,122,122,unknown,-PT12H
+"1 slice ham, sliced, pre-packaged, deli meat (96%fat free, water added) snack -12h","ham, sliced, pre-packaged, deli meat (96%fat free, water added)",1,slice,14,14,snack,-PT12H
+"ate 2 cups pears, raw, bartlett (includes foods for usda's food distribution program) cal160 lunch","pears, raw, bartlett (includes foods for usda's food distribution program)",2,cup,160,160,lunch,PT0M
+"ate 100 gr olives, green, manzanilla, stuffed with pimiento 130 kcal snack","olives, green, manzanilla, stuffed with pimiento",100,g,130,130,snack,PT0M
+"ate 2 cups sausage, pork, chorizo, link or ground, cooked, pan-fried 1280 kcal snack -17h","sausage, pork, chorizo, link or ground, cooked, pan-fried",2,cup,1280,1280,snack,-PT17H
+"cookies, oatmeal, soft, with raisins 100g 430kcal bf","cookies, oatmeal, soft, with raisins",100,g,430,430,breakfast,PT0M
+"cup1 tomatoes, canned, red, ripe, diced","tomatoes, canned, red, ripe, diced",1,cup,44,44,unknown,PT0M
+"fish, haddock, raw g100","fish, haddock, raw",100,g,74,74,unknown,PT0M
+"150 gr fish, pollock, raw dinner 22h ago","fish, pollock, raw",150,g,84,84,dinner,-PT22H
+"fish, tuna, light, canned in water, drained solids 100 gr","fish, tuna, light, canned in water, drained solids",100,g,90,90,unknown,PT0M
+"sugars, granulated cup1 late night -19d","sugars, granulated",1,cup,724,724,late_night,-P19D
+"piece6 restaurant, chinese, sweet and sour pork snack","restaurant, chinese, sweet and sour pork",6,piece,217,217,snack,PT0M
+"restaurant, chinese, fried rice, without meat 2cup 463cal lunch","restaurant, chinese, fried rice, without meat",2,cup,463,463,lunch,PT0M
+"ate 1piece restaurant, latino, tamale, pork breakfast -6h","restaurant, latino, tamale, pork",1,piece,247,247,breakfast,-PT6H
+"3 pieces restaurant, latino, pupusas con frijoles (pupusas, bean) dinner -14h","restaurant, latino, pupusas con frijoles (pupusas, bean)",3,piece,866,866,dinner,-PT14H
+"beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw 200 g ln","beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",200,g,310,310,late_night,PT0M
+"50 g beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted cal88","beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",50,g,88,88,unknown,PT0M
+"ate 50 gr beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw -12d","beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",50,g,61,61,unknown,-P12D
+"50 gr beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw cal62","beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",50,g,62,62,unknown,PT0M
+"beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled 50 gr","beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",50,g,110,110,unknown,PT0M
+"beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw 50 gr bf -3h","beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",50,g,73,73,breakfast,-PT3H
+"1slice bread, whole-wheat, commercially prepared lunch","bread, whole-wheat, commercially prepared",1,slice,82,82,lunch,PT0M
+"carrots, frozen, unprepared 200 grams 9d ago","carrots, frozen, unprepared",200,g,74,74,unknown,-P9D
+"ate 2 cups cheese, dry white, queso seco dinner","cheese, dry white, queso seco",2,cup,634,634,dinner,PT0M
+"ate cup0.2 cheese, ricotta, whole milk tmr","cheese, ricotta, whole milk",0.2,cup,101,101,unknown,P1D
+"cheese, swiss slice2 -20h","cheese, swiss",2,slice,86,86,unknown,-PT20H
+"figs, dried, uncooked 2 cups","figs, dried, uncooked",2,cup,742,742,unknown,PT0M
+"10 pieces melons, cantaloupe, raw -30d","melons, cantaloupe, raw",10,piece,47,47,unknown,-P30D
+"1 cup oranges, raw, navels dinner","oranges, raw, navels",1,cup,78,78,dinner,PT0M
+"milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d cup2 dinner","milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d",2,cup,212,212,dinner,PT0M
+"pears, raw, bartlett cup1 lunch","pears, raw, bartlett",1,cup,80,80,lunch,PT0M
+"ate piece6 restaurant, chinese, sweet and sour pork 217kcal","restaurant, chinese, sweet and sour pork",6,piece,217,217,unknown,PT0M
+"2 cups milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim) 167cal","milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)",2,cup,167,167,unknown,PT0M
+"tbsp2 sauce, salsa, ready-to-serve","sauce, salsa, ready-to-serve",2,tablespoon,10,10,unknown,PT0M
+"ate cup1 milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d","milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d",1,cup,123,123,unknown,PT0M
+"1cup sausage, pork, chorizo, link or ground, cooked, pan-fried 19h ago","sausage, pork, chorizo, link or ground, cooked, pan-fried",1,cup,640,640,unknown,-PT19H
+"1cup milk, whole, 3.25% milkfat, with added vitamin d breakfast 9h ago","milk, whole, 3.25% milkfat, with added vitamin d",1,cup,149,149,breakfast,-PT9H
+"sugars, granulated 2 cups 1448 kcal 19h ago","sugars, granulated",2,cup,1448,1448,unknown,-PT19H
+"slice2 ham, sliced, restaurant bf -12d","ham, sliced, restaurant",2,slice,39,39,breakfast,-P12D
+"1slice cheese, american, restaurant 60 kcal lunch","cheese, american, restaurant",1,slice,60,60,lunch,PT0M
+"ate cup1 broccoli, raw breakfast 10d ago","broccoli, raw",1,cup,24,24,breakfast,-P10D
+"ate 200 gr ketchup, restaurant 16h ago","ketchup, restaurant",200,g,234,234,unknown,-PT16H
+"ate 200g eggs, grade a, large, egg white 110kcal lunch","eggs, grade a, large, egg white",200,g,110,110,lunch,PT0M
+"ate 100 g eggs, grade a, large, egg yolk cal334 -5h","eggs, grade a, large, egg yolk",100,g,334,334,unknown,-PT5H
+"ate 100 g eggs, grade a, large, egg whole kcal148 late night","eggs, grade a, large, egg whole",100,g,148,148,late_night,PT0M
+"ate 2slice pork, cured, bacon, cooked, restaurant late night","pork, cured, bacon, cooked, restaurant",2,slice,63,63,late_night,PT0M
+"flour, wheat, all-purpose, enriched, bleached 50 grams kcal183 lunch 15h ago","flour, wheat, all-purpose, enriched, bleached",50,g,183,183,lunch,-PT15H
+"50 g flour, wheat, all-purpose, enriched, unbleached lunch tmr","flour, wheat, all-purpose, enriched, unbleached",50,g,179,179,lunch,P1D
+"50 g flour, wheat, all-purpose, unenriched, unbleached 13d ago","flour, wheat, all-purpose, unenriched, unbleached",50,g,181,181,unknown,-P13D
+"200 gr flour, whole wheat, unenriched kcal740 dinner","flour, whole wheat, unenriched",200,g,740,740,dinner,PT0M
+"ate g100 flour, bread, white, enriched, unbleached","flour, bread, white, enriched, unbleached",100,g,363,363,unknown,PT0M
+"flour, rice, white, unenriched 150 g 3h ago","flour, rice, white, unenriched",150,g,539,539,unknown,-PT3H
+"ate 50 grams flour, corn, yellow, fine meal, enriched snack 2d ago","flour, corn, yellow, fine meal, enriched",50,g,182,182,snack,-P2D
+"150g onions, red, raw","onions, red, raw",150,g,66,66,unknown,PT0M
+"ate 200g onions, yellow, raw lunch","onions, yellow, raw",200,g,76,76,lunch,PT0M
+"bananas, overripe, raw 250g -25d","bananas, overripe, raw",250,g,213,213,unknown,-P25D
+"100 gr bananas, ripe and slightly ripe, raw snack","bananas, ripe and slightly ripe, raw",100,g,97,97,snack,PT0M
+"100 grams garlic, raw lunch 22h ago","garlic, raw",100,g,143,143,lunch,-PT22H
+"ate 200 gr flour, soy, defatted -27d","flour, soy, defatted",200,g,732,732,unknown,-P27D
+"ate 200 g flour, soy, full-fat 904 kcal lunch","flour, soy, full-fat",200,g,904,904,lunch,PT0M
+"flour, rice, brown 100 g lunch","flour, rice, brown",100,g,365,365,lunch,PT0M
+"flour, rice, glutinous 150 g 537 kcal 11d ago","flour, rice, glutinous",150,g,537,537,unknown,-P11D
+"ate 150 gr flour, pastry, unenriched, unbleached dinner","flour, pastry, unenriched, unbleached",150,g,537,537,dinner,PT0M
+"ate g50 onions, white, raw -3d","onions, white, raw",50,g,18,18,unknown,-P3D
+"apples, red delicious, with skin, raw 100 grams 19h ago","apples, red delicious, with skin, raw",100,g,62,62,unknown,-PT19H
+"ate 100 g apples, honeycrisp, with skin, raw breakfast","apples, honeycrisp, with skin, raw",100,g,60,60,breakfast,PT0M
+"ate 100g apples, granny smith, with skin, raw","apples, granny smith, with skin, raw",100,g,59,59,unknown,PT0M
+"ate 100 grams apples, gala, with skin, raw 61kcal dinner","apples, gala, with skin, raw",100,g,61,61,dinner,PT0M
+"50 grams apples, fuji, with skin, raw bf","apples, fuji, with skin, raw",50,g,33,33,breakfast,PT0M
+"soy milk, unsweetened, plain, shelf stable 100 gr dinner -27d","soy milk, unsweetened, plain, shelf stable",100,g,38,38,dinner,-P27D
+"g100 almond milk, unsweetened, plain, shelf stable late night -10d","almond milk, unsweetened, plain, shelf stable",100,g,15,15,late_night,-P10D
+"apples, red delicious, with skin, raw 100 gr dinner","apples, red delicious, with skin, raw",100,g,56,56,dinner,PT0M
+"ate 50 gr apples, fuji, with skin, raw 29kcal -28d","apples, fuji, with skin, raw",50,g,29,29,unknown,-P28D
+"ate 150 grams apples, gala, with skin, raw 28d ago","apples, gala, with skin, raw",150,g,82,82,unknown,-P28D
+"50 grams apples, granny smith, with skin, raw 26 kcal","apples, granny smith, with skin, raw",50,g,26,26,unknown,PT0M
+"ate 100g apples, honeycrisp, with skin, raw dinner -30d","apples, honeycrisp, with skin, raw",100,g,54,54,dinner,-P30D
+"ate 200 gr mushroom, lion's mane kcal70","mushroom, lion's mane",200,g,70,70,unknown,PT0M
+"50g mushroom, oyster 17kcal","mushroom, oyster",50,g,17,17,unknown,PT0M
+"g250 mushrooms, shiitake snack 22h ago","mushrooms, shiitake",250,g,91,91,snack,-PT22H
+"mushrooms, white button g200 lunch","mushrooms, white button",200,g,50,50,lunch,PT0M
+"100 grams spinach, baby +1d","spinach, baby",100,g,21,21,unknown,P1D
+"150 g spinach, mature ln","spinach, mature",150,g,32,32,late_night,PT0M
+"tomato, roma g100","tomato, roma",100,g,19,19,unknown,PT0M
+"flour, 00 100g","flour, 00",100,g,366,366,unknown,PT0M
+"200 gr flour, spelt, whole grain -11d","flour, spelt, whole grain",200,g,681,681,unknown,-P11D
+"flour, semolina, coarse and semi-coarse 200g lunch -3d","flour, semolina, coarse and semi-coarse",200,g,730,730,lunch,-P3D
+"50 gr flour, semolina, fine dinner -10d","flour, semolina, fine",50,g,183,183,dinner,-P10D
+"apple juice, with added vitamin c, from concentrate, shelf stable g200 ln -17d","apple juice, with added vitamin c, from concentrate, shelf stable",200,g,94,94,late_night,-P17D
+"ate g50 orange juice, no pulp, not fortified, from concentrate, refrigerated 25d ago","orange juice, no pulp, not fortified, from concentrate, refrigerated",50,g,23,23,unknown,-P25D
+"250 gr grape juice, purple, with added vitamin c, from concentrate, shelf stable lunch","grape juice, purple, with added vitamin c, from concentrate, shelf stable",250,g,161,161,lunch,PT0M
+"ate 250g grape juice, white, with added vitamin c, from concentrate, shelf stable 30d ago","grape juice, white, with added vitamin c, from concentrate, shelf stable",250,g,162,162,unknown,-P30D
+"ate 50 g cranberry juice, not fortified, from concentrate, shelf stable lunch -14h","cranberry juice, not fortified, from concentrate, shelf stable",50,g,16,16,lunch,-PT14H
+"ate 250 grams grapefruit juice, red, not fortified, not from concentrate, refrigerated snack -22d","grapefruit juice, red, not fortified, not from concentrate, refrigerated",250,g,100,100,snack,-P22D
+"ate g150 tomato juice, with added ingredients, from concentrate, shelf stable lunch +1d","tomato juice, with added ingredients, from concentrate, shelf stable",150,g,30,30,lunch,P1D
+"100g orange juice, no pulp, not fortified, not from concentrate, refrigerated -3d","orange juice, no pulp, not fortified, not from concentrate, refrigerated",100,g,45,45,unknown,-P3D
+"mushroom, portabella 250g dinner 18h ago","mushroom, portabella",250,g,65,65,dinner,-PT18H
+"ate 150 grams mushroom, king oyster lunch 7d ago","mushroom, king oyster",150,g,58,58,lunch,-P7D
+"ate 100g mushroom, enoki","mushroom, enoki",100,g,37,37,unknown,PT0M
+"ate 50g mushroom, crimini","mushroom, crimini",50,g,12,12,unknown,PT0M
+"g250 mushroom, maitake bf 15h ago","mushroom, maitake",250,g,77,77,breakfast,-PT15H
+"mushroom, beech g200 breakfast 1d ago","mushroom, beech",200,g,66,66,breakfast,-P1D
+"g50 mushroom, pioppini","mushroom, pioppini",50,g,16,16,unknown,PT0M
+"200 g soy milk, sweetened, plain, refrigerated 16h ago","soy milk, sweetened, plain, refrigerated",200,g,81,81,unknown,-PT16H
+"100g almond milk, unsweetened, plain, refrigerated tmr","almond milk, unsweetened, plain, refrigerated",100,g,19,19,unknown,P1D
+"ate 50 gr oat milk, unsweetened, plain, refrigerated snack","oat milk, unsweetened, plain, refrigerated",50,g,24,24,snack,PT0M
+"g200 carrots, mature, raw bf","carrots, mature, raw",200,g,90,90,breakfast,PT0M
+"ate 150 g carrots, baby, raw bf 5d ago","carrots, baby, raw",150,g,57,57,breakfast,-P5D
+"ate g150 peppers, bell, green, raw 6h ago","peppers, bell, green, raw",150,g,30,30,unknown,-PT6H
+"200 grams peppers, bell, yellow, raw","peppers, bell, yellow, raw",200,g,53,53,unknown,PT0M
+"peppers, bell, red, raw 250 g","peppers, bell, red, raw",250,g,67,67,unknown,PT0M
+"50 gr peppers, bell, orange, raw","peppers, bell, orange, raw",50,g,14,14,unknown,PT0M
+"ate 50 grams buttermilk, low fat kcal21 -20h","buttermilk, low fat",50,g,21,21,unknown,-PT20H
+"200 g yogurt, plain, whole milk -12h","yogurt, plain, whole milk",200,g,155,155,unknown,-PT12H
+"g200 yogurt, greek, plain, whole milk breakfast 19h ago","yogurt, greek, plain, whole milk",200,g,189,189,breakfast,-PT19H
+"ate 250g cheese, parmesan, grated, refrigerated lunch 6h ago","cheese, parmesan, grated, refrigerated",250,g,1012,1012,lunch,-PT6H
+"ate 200 g cheese, feta, whole milk, crumbled 547kcal dinner -21d","cheese, feta, whole milk, crumbled",200,g,547,547,dinner,-P21D
+"200 grams flour, almond late night","flour, almond",200,g,1155,1155,late_night,PT0M
+"200 grams flour, oat, whole grain","flour, oat, whole grain",200,g,773,773,unknown,PT0M
+"flour, potato 200 gr snack 18d ago","flour, potato",200,g,705,705,snack,-P18D
+"ate 150 gr peanut butter, creamy 884kcal lunch 23d ago","peanut butter, creamy",150,g,884,884,lunch,-P23D
+"g100 sesame butter, creamy snack","sesame butter, creamy",100,g,648,648,snack,PT0M
+"ate 100 g almond butter, creamy dinner -22d","almond butter, creamy",100,g,603,603,dinner,-P22D
+"250 gr flaxseed, ground dinner","flaxseed, ground",250,g,1286,1286,dinner,PT0M
+"ate 50 gr strawberries, raw","strawberries, raw",50,g,16,16,unknown,PT0M
+"g50 raspberries, raw -6h","raspberries, raw",50,g,26,26,unknown,-PT6H
+"ate g150 blueberries, raw lunch -22h","blueberries, raw",150,g,86,86,lunch,-PT22H
+"grapes, red, seedless, raw 150 g +1d","grapes, red, seedless, raw",150,g,116,116,unknown,P1D
+"ate 100g grapes, green, seedless, raw","grapes, green, seedless, raw",100,g,72,72,unknown,PT0M
+"ate 50g applesauce, unsweetened, with added vitamin c lunch +1d","applesauce, unsweetened, with added vitamin c",50,g,23,23,lunch,P1D
+"ate 100 gr cottage cheese, full fat, large or small curd -13d","cottage cheese, full fat, large or small curd",100,g,105,105,unknown,-P13D
+"100g cream cheese, full fat, block 337cal 17d ago","cream cheese, full fat, block",100,g,337,337,unknown,-P17D
+"g50 cream, heavy bf","cream, heavy",50,g,168,168,breakfast,PT0M
+"ate 50 grams cream, sour, full fat","cream, sour, full fat",50,g,96,96,unknown,PT0M
+"ate 100 grams lettuce, iceberg, raw dinner","lettuce, iceberg, raw",100,g,14,14,dinner,PT0M
+"200 grams lettuce, romaine, green, raw 1h ago","lettuce, romaine, green, raw",200,g,35,35,unknown,-PT1H
+"ate g100 lettuce, leaf, red, raw snack","lettuce, leaf, red, raw",100,g,15,15,snack,PT0M
+"lettuce, leaf, green, raw 50g 9cal bf","lettuce, leaf, green, raw",50,g,9,9,breakfast,PT0M
+"200 grams nuts, pine nuts, raw 1286kcal dinner","nuts, pine nuts, raw",200,g,1286,1286,dinner,PT0M
+"nuts, almonds, whole, raw 150 grams dinner -21h","nuts, almonds, whole, raw",150,g,875,875,dinner,-PT21H
+"nuts, walnuts, english, halves, raw 250g lunch","nuts, walnuts, english, halves, raw",250,g,1697,1697,lunch,PT0M
+"ate 100 g nuts, pecans, halves, raw kcal700 25d ago","nuts, pecans, halves, raw",100,g,700,700,unknown,-P25D
+"ate 100g oats, whole grain, rolled, old fashioned 4h ago","oats, whole grain, rolled, old fashioned",100,g,379,379,unknown,-PT4H
+"250 gr oats, whole grain, steel cut lunch","oats, whole grain, steel cut",250,g,948,948,lunch,PT0M
+"150 grams pineapple, raw","pineapple, raw",150,g,81,81,unknown,PT0M
+"ate 50g cherries, sweet, dark red, raw bf 4h ago","cherries, sweet, dark red, raw",50,g,32,32,breakfast,-PT4H
+"ate 50g beans, snap, green, raw","beans, snap, green, raw",50,g,17,17,unknown,PT0M
+"ate g50 potatoes, russet, without skin, raw kcal40 lunch +1d","potatoes, russet, without skin, raw",50,g,40,40,lunch,P1D
+"ate g250 potatoes, red, without skin, raw dinner 9h ago","potatoes, red, without skin, raw",250,g,183,183,dinner,-PT9H
+"potatoes, gold, without skin, raw 100 g","potatoes, gold, without skin, raw",100,g,72,72,unknown,PT0M
+"ate 200g sweet potatoes, orange flesh, without skin, raw","sweet potatoes, orange flesh, without skin, raw",200,g,155,155,unknown,PT0M
+"ate 150g celery, raw snack","celery, raw",150,g,22,22,snack,PT0M
+"ate 50 g cucumber, with peel, raw","cucumber, with peel, raw",50,g,7,7,unknown,PT0M
+"g150 cabbage, green, raw","cabbage, green, raw",150,g,42,42,unknown,PT0M
+"g50 cabbage, red, raw -17h","cabbage, red, raw",50,g,15,15,unknown,-PT17H
+"ate 150 grams flour, amaranth lunch","flour, amaranth",150,g,567,567,lunch,PT0M
+"100 gr flour, quinoa cal378","flour, quinoa",100,g,378,378,unknown,PT0M
+"ate 200g flour, sorghum bf -17d","flour, sorghum",200,g,728,728,breakfast,-P17D
+"ate 250g flour, buckwheat bf -20h","flour, buckwheat",250,g,836,836,breakfast,-PT20H
+"flour, rye 250 grams 877cal","flour, rye",250,g,877,877,unknown,PT0M
+"flour, barley 150 grams","flour, barley",150,g,536,536,unknown,PT0M
+"150g flour, cassava","flour, cassava",150,g,538,538,unknown,PT0M
+"ate 250 grams buckwheat, whole grain cal829","buckwheat, whole grain",250,g,829,829,unknown,PT0M
+"millet, whole grain g50 190 kcal snack tomorrow","millet, whole grain",50,g,190,190,snack,P1D
+"rice, brown, long grain, unenriched, raw 50 g dinner","rice, brown, long grain, unenriched, raw",50,g,184,184,dinner,PT0M
+"ate 100 g rice, white, long grain, unenriched, raw lunch","rice, white, long grain, unenriched, raw",100,g,370,370,lunch,PT0M
+"beef, ground, 90% lean meat / 10% fat, raw 50 gr cal95 snack -20d","beef, ground, 90% lean meat / 10% fat, raw",50,g,95,95,snack,-P20D
+"ate 100 g beef, ground, 80% lean meat / 20% fat, raw lunch","beef, ground, 80% lean meat / 20% fat, raw",100,g,248,248,lunch,PT0M
+"50 grams pork, ground, raw 117 kcal 27d ago","pork, ground, raw",50,g,117,117,unknown,-P27D
+"ate 50 g chicken, ground, with additives, raw snack","chicken, ground, with additives, raw",50,g,69,69,snack,PT0M
+"ate 250 gr turkey, ground, 93% lean/ 7% fat, raw","turkey, ground, 93% lean/ 7% fat, raw",250,g,394,394,unknown,PT0M
+"ate 150 gr nuts, brazilnuts, raw snack","nuts, brazilnuts, raw",150,g,931,931,snack,PT0M
+"ate 100g nuts, cashew nuts, raw 533cal lunch","nuts, cashew nuts, raw",100,g,533,533,lunch,PT0M
+"nuts, hazelnuts or filberts, raw 200 gr 1205cal lunch -24d","nuts, hazelnuts or filberts, raw",200,g,1205,1205,lunch,-P24D
+"peanuts, raw 200 grams lunch -3d","peanuts, raw",200,g,1101,1101,lunch,-P3D
+"flour, chestnut 200 gr -6h","flour, chestnut",200,g,769,769,unknown,-PT6H
+"250 g nuts, macadamia nuts, raw","nuts, macadamia nuts, raw",250,g,1671,1671,unknown,PT0M
+"nuts, pistachio nuts, raw 50 grams dinner -23d","nuts, pistachio nuts, raw",50,g,280,280,dinner,-P23D
+"ate 50g seeds, pumpkin seeds (pepitas), raw","seeds, pumpkin seeds (pepitas), raw",50,g,257,257,unknown,PT0M
+"seeds, sunflower seed, kernel, raw g250 1427cal","seeds, sunflower seed, kernel, raw",250,g,1427,1427,unknown,PT0M
+"flour, coconut g100 424kcal dinner tomorrow","flour, coconut",100,g,424,424,dinner,P1D
+"ate 100 gr beans, cannellini, dry dinner 24d ago","beans, cannellini, dry",100,g,337,337,dinner,-P24D
+"200 grams chickpeas, (garbanzo beans, bengal gram), dry 744kcal -2h","chickpeas, (garbanzo beans, bengal gram), dry",200,g,744,744,unknown,-PT2H
+"ate 150 gr lentils, dry","lentils, dry",150,g,526,526,unknown,PT0M
+"250 g blackeye pea, dry -24d","blackeye pea, dry",250,g,864,864,unknown,-P24D
+"250 grams beans, black, canned, sodium added, drained and rinsed","beans, black, canned, sodium added, drained and rinsed",250,g,288,288,unknown,PT0M
+"200 g beans, navy, canned, sodium added, drained and rinsed kcal232 snack 8h ago","beans, navy, canned, sodium added, drained and rinsed",200,g,232,232,snack,-PT8H
+"beans, cannellini, canned, sodium added, drained and rinsed g250 bf","beans, cannellini, canned, sodium added, drained and rinsed",250,g,280,280,breakfast,PT0M
+"150g chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed -25d","chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",150,g,199,199,unknown,-P25D
+"beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed 250 grams -19h","beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",250,g,308,308,unknown,-PT19H
+"beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed g250 309kcal -7d","beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",250,g,309,309,unknown,-P7D
+"ate g50 peas, green, sweet, canned, sodium added, sugar added, drained and rinsed lunch","peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",50,g,39,39,lunch,PT0M
+"beans, pinto, canned, sodium added, drained and rinsed g100 -7h","beans, pinto, canned, sodium added, drained and rinsed",100,g,114,114,unknown,-PT7H
+"150 g blackeye pea, canned, sodium added, drained and rinsed dinner -28d","blackeye pea, canned, sodium added, drained and rinsed",150,g,169,169,dinner,-P28D
+"beans, great northern, canned, sodium added, drained and rinsed 150 gr","beans, great northern, canned, sodium added, drained and rinsed",150,g,170,170,unknown,PT0M
+"100 gr pork, loin, boneless, raw lunch -17h","pork, loin, boneless, raw",100,g,174,174,lunch,-PT17H
+"pork, loin, tenderloin, boneless, raw 50g dinner","pork, loin, tenderloin, boneless, raw",50,g,63,63,dinner,PT0M
+"ate 100 gr chicken, breast, boneless, skinless, raw lunch","chicken, breast, boneless, skinless, raw",100,g,112,112,lunch,PT0M
+"chicken, thigh, boneless, skinless, raw 150 g 224cal","chicken, thigh, boneless, skinless, raw",150,g,224,224,unknown,PT0M
+"beef, ribeye, steak, boneless, choice, raw g50","beef, ribeye, steak, boneless, choice, raw",50,g,130,130,unknown,PT0M
+"beef, round, top round, boneless, choice, raw 50g","beef, round, top round, boneless, choice, raw",50,g,73,73,unknown,PT0M
+"beef, chuck, roast, boneless, choice, raw 50 gr dinner","beef, chuck, roast, boneless, choice, raw",50,g,119,119,dinner,PT0M
+"ate 100g beef, flank, steak, boneless, choice, raw lunch tomorrow","beef, flank, steak, boneless, choice, raw",100,g,170,170,lunch,P1D
+"ate 250 grams yogurt, plain, nonfat cal125","yogurt, plain, nonfat",250,g,125,125,unknown,PT0M
+"ate 50 g cheese, monterey jack, solid","cheese, monterey jack, solid",50,g,195,195,unknown,PT0M
+"50g cheese, pasteurized process cheese food or product, american, singles snack 9d ago","cheese, pasteurized process cheese food or product, american, singles",50,g,154,154,snack,-P9D
+"ate 50 grams cheese, provolone, sliced 15d ago","cheese, provolone, sliced",50,g,178,178,unknown,-P15D
+"150 grams cheese, oaxaca, solid","cheese, oaxaca, solid",150,g,447,447,unknown,PT0M
+"50 g cheese, queso fresco, solid 149cal","cheese, queso fresco, solid",50,g,149,149,unknown,PT0M
+"ate 150 gr cheese, cotija, solid dinner -17h","cheese, cotija, solid",150,g,528,528,dinner,-PT17H
+"50g fish, salmon, sockeye, wild caught, raw 68 kcal","fish, salmon, sockeye, wild caught, raw",50,g,68,68,unknown,PT0M
+"100 g fish, salmon, atlantic, farm raised, raw snack 26d ago","fish, salmon, atlantic, farm raised, raw",100,g,203,203,snack,-P26D
+"200g fish, tilapia, farm raised, raw cal200 dinner","fish, tilapia, farm raised, raw",200,g,200,200,dinner,PT0M
+"250 gr crustaceans, shrimp, farm raised, raw bf","crustaceans, shrimp, farm raised, raw",250,g,189,189,breakfast,PT0M
+"ate 50 gr fish, cod, atlantic, wild caught, raw","fish, cod, atlantic, wild caught, raw",50,g,35,35,unknown,PT0M
+"150 gr fish, catfish, farm raised, raw 201kcal breakfast","fish, catfish, farm raised, raw",150,g,201,201,breakfast,PT0M
+"crustaceans, crab, blue swimming, lump, pasteurized, refrigerated 100 gr 22d ago","crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",100,g,86,86,unknown,-P22D
+"ate 100g squash, summer, green, zucchini, includes skin, raw dinner","squash, summer, green, zucchini, includes skin, raw",100,g,16,16,dinner,PT0M
+"50 grams squash, summer, yellow, includes skin, raw 10kcal","squash, summer, yellow, includes skin, raw",50,g,10,10,unknown,PT0M
+"squash, winter, butternut, raw 50 gr 21cal 3d ago","squash, winter, butternut, raw",50,g,21,21,unknown,-P3D
+"200 g squash, winter, acorn, raw lunch 15d ago","squash, winter, acorn, raw",200,g,84,84,lunch,-P15D
+"ate 150g cabbage, bok choy, raw","cabbage, bok choy, raw",150,g,26,26,unknown,PT0M
+"cauliflower, raw g250 lunch -16d","cauliflower, raw",250,g,57,57,lunch,-P16D
+"50 grams collards, raw kcal19 dinner","collards, raw",50,g,19,19,dinner,PT0M
+"brussels sprouts, raw 200 gr tomorrow","brussels sprouts, raw",200,g,98,98,unknown,P1D
+"ate 250 grams beets, raw","beets, raw",250,g,102,102,unknown,PT0M
+"eggplant, raw 200 grams","eggplant, raw",200,g,45,45,unknown,PT0M
+"tomatoes, whole, canned, solids and liquids, with salt added 200 g snack","tomatoes, whole, canned, solids and liquids, with salt added",200,g,38,38,snack,PT0M
+"150g tomato, sauce, canned, with salt added breakfast -1h","tomato, sauce, canned, with salt added",150,g,44,44,breakfast,-PT1H
+"200 grams tomato, paste, canned, without salt added -20d","tomato, paste, canned, without salt added",200,g,177,177,unknown,-P20D
+"ate g250 tomatoes, crushed, canned","tomatoes, crushed, canned",250,g,81,81,unknown,PT0M
+"tomato, puree, canned 200 grams -15d","tomato, puree, canned",200,g,70,70,unknown,-P15D
+"apricot, with skin, raw 250 grams 109kcal lunch","apricot, with skin, raw",250,g,109,109,lunch,PT0M
+"melons, honeydew, raw g250 82kcal tomorrow","melons, honeydew, raw",250,g,82,82,unknown,P1D
+"plantains, ripe, raw 100 grams","plantains, ripe, raw",100,g,123,123,unknown,PT0M
+"plantains, underripe, raw 100 gr 145 kcal 15d ago","plantains, underripe, raw",100,g,145,145,unknown,-P15D
+"ate 50g chia seeds, dry, raw 245 kcal 15h ago","chia seeds, dry, raw",50,g,245,245,unknown,-PT15H
+"bulgur, dry, raw 250g","bulgur, dry, raw",250,g,873,873,unknown,PT0M
+"wild rice, dry, raw 100 gr cal359","wild rice, dry, raw",100,g,359,359,unknown,PT0M
+"250 g arugula, baby, raw snack 17h ago","arugula, baby, raw",250,g,65,65,snack,-PT17H
+"asparagus, green, raw g200","asparagus, green, raw",200,g,47,47,unknown,PT0M
+"ate 250 g avocado, hass, peeled, raw 515 kcal ln 15d ago","avocado, hass, peeled, raw",250,g,515,515,late_night,-P15D
+"200 grams rice, black, unenriched, raw +1d","rice, black, unenriched, raw",200,g,721,721,unknown,P1D
+"250 g corn, sweet, yellow and white kernels, fresh, raw bf","corn, sweet, yellow and white kernels, fresh, raw",250,g,182,182,breakfast,PT0M
+"250 g einkorn, grain, dry, raw","einkorn, grain, dry, raw",250,g,864,864,unknown,PT0M
+"farro, pearled, dry, raw 200 g tomorrow","farro, pearled, dry, raw",200,g,688,688,unknown,P1D
+"ate 50 gr fonio, grain, dry, raw breakfast 6h ago","fonio, grain, dry, raw",50,g,188,188,breakfast,-PT6H
+"100 grams khorasan, grain, dry, raw 348kcal dinner 2h ago","khorasan, grain, dry, raw",100,g,348,348,dinner,-PT2H
+"kiwifruit (kiwi), green, peeled, raw 50 grams 29 kcal bf","kiwifruit (kiwi), green, peeled, raw",50,g,29,29,breakfast,PT0M
+"mandarin, seedless, peeled, raw 200 gr","mandarin, seedless, peeled, raw",200,g,111,111,unknown,PT0M
+"ate 150 gr mango, tommy atkins, peeled, raw 92kcal","mango, tommy atkins, peeled, raw",150,g,92,92,unknown,PT0M
+"mango, ataulfo, peeled, raw 150 gr","mango, ataulfo, peeled, raw",150,g,106,106,unknown,PT0M
+"ate 200 g corn flour, masa harina, white or yellow, dry, raw 732kcal","corn flour, masa harina, white or yellow, dry, raw",200,g,732,732,unknown,PT0M
+"ate 200 g pear, anjou, green, with skin, raw -18h","pear, anjou, green, with skin, raw",200,g,115,115,unknown,-PT18H
+"ate 50 g plum, black, with skin, raw -20d","plum, black, with skin, raw",50,g,26,26,unknown,-P20D
+"g100 rice, red, unenriched, dry, raw -26d","rice, red, unenriched, dry, raw",100,g,360,360,unknown,-P26D
+"g100 sorghum bran, white, unenriched, dry, raw breakfast","sorghum bran, white, unenriched, dry, raw",100,g,365,365,breakfast,PT0M
+"ate 50 g sorghum flour, white, pearled, unenriched, dry, raw lunch","sorghum flour, white, pearled, unenriched, dry, raw",50,g,175,175,lunch,PT0M
+"ate 250 grams sorghum grain, white, pearled, unenriched, dry, raw dinner","sorghum grain, white, pearled, unenriched, dry, raw",250,g,846,846,dinner,PT0M
+"100 grams sorghum, whole grain, white, dry, raw 341cal","sorghum, whole grain, white, dry, raw",100,g,341,341,unknown,PT0M
+"100 grams plantains, overripe, raw late night 16d ago","plantains, overripe, raw",100,g,117,117,late_night,-P16D
+"chicken, drumstick, meat and skin, raw 250 gr -2h","chicken, drumstick, meat and skin, raw",250,g,325,325,unknown,-PT2H
+"100 gr chicken, thigh, meat and skin, raw","chicken, thigh, meat and skin, raw",100,g,193,193,unknown,PT0M
+"100 g chicken, wing, meat and skin, raw","chicken, wing, meat and skin, raw",100,g,173,173,unknown,PT0M
+"100 grams chicken, breast, meat and skin, raw 29d ago","chicken, breast, meat and skin, raw",100,g,133,133,unknown,-P29D
+"lamb, ground, raw 50 grams -16d","lamb, ground, raw",50,g,121,121,unknown,-P16D
+"bison, ground, raw 100g -14h","bison, ground, raw",100,g,164,164,unknown,-PT14H
+"beef, short loin (ny strip steak), raw 200 grams cal392","beef, short loin (ny strip steak), raw",200,g,392,392,unknown,PT0M
+"beef, tenderloin steak, raw 50g snack 5d ago","beef, tenderloin steak, raw",50,g,75,75,snack,-P5D
+"150g beef, top sirloin steak, raw 219cal lunch","beef, top sirloin steak, raw",150,g,219,219,lunch,PT0M
+"ate 250g pork, chop, center cut, raw -20h","pork, chop, center cut, raw",250,g,362,362,unknown,-PT20H
+"150g pork, belly, with skin, raw","pork, belly, with skin, raw",150,g,578,578,unknown,PT0M
+"anchovies, canned in olive oil, with salt, drained 50 gr","anchovies, canned in olive oil, with salt, drained",50,g,103,103,unknown,PT0M
+"100 grams beet greens, raw","beet greens, raw",100,g,26,26,unknown,PT0M
+"cod, pacific or alaskan, frozen, wild caught 250 grams cal152 dinner -12h","cod, pacific or alaskan, frozen, wild caught",250,g,152,152,dinner,-PT12H
+"150 grams fennel, bulb, raw kcal40 snack","fennel, bulb, raw",150,g,40,40,snack,PT0M
+"ate 100 gr halibut, frozen, wild caught","halibut, frozen, wild caught",100,g,81,81,unknown,PT0M
+"ate 50 gr lobster, tail only, frozen, wild caught 24d ago","lobster, tail only, frozen, wild caught",50,g,29,29,unknown,-P24D
+"100 g mahi mahi, frozen, wild caught tomorrow","mahi mahi, frozen, wild caught",100,g,84,84,unknown,P1D
+"250 gr parsnips, raw breakfast -17d","parsnips, raw",250,g,218,218,breakfast,-P17D
+"ate 50 g peppers, banana or hungarian wax, seeded, raw","peppers, banana or hungarian wax, seeded, raw",50,g,12,12,unknown,PT0M
+"ate 150 g peppers, jalapeno, seeded, raw -12d","peppers, jalapeno, seeded, raw",150,g,36,36,unknown,-P12D
+"ate 50 g peppers, poblano, seeded, raw bf","peppers, poblano, seeded, raw",50,g,14,14,breakfast,PT0M
+"g250 peppers, serrano, seeded, raw","peppers, serrano, seeded, raw",250,g,73,73,unknown,PT0M
+"150 g radicchio, raw snack 8d ago","radicchio, raw",150,g,40,40,snack,-P8D
+"250 grams radishes, red, raw","radishes, red, raw",250,g,49,49,unknown,PT0M
+"ate 200g scallops, bay, patagonian, frozen, wild caught tmr","scallops, bay, patagonian, frozen, wild caught",200,g,157,157,unknown,P1D
+"ate 150g scallops, sea, frozen, wild caught dinner","scallops, sea, frozen, wild caught",150,g,100,100,dinner,PT0M
+"250 g sea bass, chilean, frozen, wild caught snack -11h","sea bass, chilean, frozen, wild caught",250,g,523,523,snack,-PT11H
+"snapper, frozen, wild caught 150 gr lunch","snapper, frozen, wild caught",150,g,134,134,lunch,PT0M
+"150g snow crab, legs only, frozen","snow crab, legs only, frozen",150,g,104,104,unknown,PT0M
+"squid (calamari), frozen, tubes only g50","squid (calamari), frozen, tubes only",50,g,22,22,unknown,PT0M
+"swordfish, frozen, wild caught g250 snack -2d","swordfish, frozen, wild caught",250,g,380,380,snack,-P2D
+"100 g tuna, ahi or yellowfin, frozen, wild caught cal102 lunch 13d ago","tuna, ahi or yellowfin, frozen, wild caught",100,g,102,102,lunch,-P13D
+"ate 200g turnips, raw -23d","turnips, raw",200,g,68,68,unknown,-P23D
+"ate 150 g watermelon, seedless, rind only, raw -1d","watermelon, seedless, rind only, raw",150,g,36,36,unknown,-P1D

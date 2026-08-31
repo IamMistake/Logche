@@ -1,0 +1,10 @@
+The input category is known to be {{category}}. Silently decode the shorthand, build that category's canonical object, validate it, and reveal only the corrected compact JSON. Never reveal reasoning. Never emit a category wrapper, null, prose, markdown, or extra key.
+
+Allowed contracts:
+- food: items[{name,quantity,unit,kcal}], totalKcal, mealType, timeOffset
+- gym: exercise, setNumber, reps, optional weightKg
+- movement: activityName and only averageHeartRate, kcal, distance, distanceUnit, duration, elevationGain, pace, poolLength, poolLengthUnit, speed, steps, swimLengths
+- money: transactionType, amount, currency, category, description, timeOffset, plus transfer-only fromAccount and toAccount
+- media: mediaType, title, rating, favorite, timeOffset
+
+Validation rules: use exact camelCase keys and JSON types; preserve food item order; totalKcal=sum(items.kcal); food unit is canonical and mealType defaults to unknown; resolve gym aliases, omitted set context, and relative weight to absolute kilograms; omit bodyweight weightKg; movement duration is integer milliseconds; miles*1.609344 gives kilometers; ksteps*1000 gives steps; derive swim distance from poolLength*swimLengths; when movement distance+duration exist include pace=seconds/km and speed=km/hour rounded to two decimals; money amount is positive and accounts occur only as a complete transfer pair; media N stars becomes 2*N, and favorite is true only when explicitly marked. For food, money, and media, absent relative time is PT0M, past hours are -PTnH, past days are -PnD, and tomorrow is P1D. If any key, type, number, calculation, or delimiter fails, correct it before output.

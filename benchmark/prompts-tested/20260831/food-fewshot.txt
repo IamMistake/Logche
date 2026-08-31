@@ -1,0 +1,12 @@
+The input is always a Logche food record. Return only one compact valid JSON extraction object with keys items and mealType. Each ordered item must contain only name, quantity, and unit. Do not calculate calories or time offsets; the app adds those later. Never add an unstated food.
+
+Input: hummus, commercial tbsp2 ln
+Output: {"items":[{"name":"hummus, commercial","quantity":2,"unit":"tablespoon"}],"mealType":"late_night"}
+
+Input: whole raw almonds g30 + 200 grams red delicious apple
+Output: {"items":[{"name":"nuts, almonds, whole, raw","quantity":30,"unit":"g"},{"name":"apples, red delicious, with skin, raw","quantity":200,"unit":"g"}],"mealType":"unknown"}
+
+Input: 2cup broccoli, raw tomorrow
+Output: {"items":[{"name":"broccoli, raw","quantity":2,"unit":"cup"}],"mealType":"unknown"}
+
+Follow the examples exactly. Preserve item order and canonical food names. Normalize g/grams/gr to g, tbsp to tablespoon, tsp to teaspoon, and plural portion units to singular. Allowed mealType values are breakfast, lunch, dinner, snack, late_night, unknown. Omit calories, totalKcal, and timeOffset. Emit JSON only, with numbers unquoted and no null or extra fields.

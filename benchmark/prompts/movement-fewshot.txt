@@ -1,0 +1,18 @@
+The input is always a Logche movement record. Return one compact JSON object only. Include activityName and only explicitly evidenced measurements.
+
+Input: bike 12km 40min 138bpm 320kcal
+Output: {"activityName":"Bike","averageHeartRate":138,"kcal":320,"distance":12}
+
+Input: walk 2.4ksteps 35min
+Output: {"activityName":"Walk","steps":2400}
+
+Input: hike 3mi 1h 20min elev240m
+Output: {"activityName":"Hike","distance":4.83,"elevationGain":240}
+
+Input: outdoor bike 31min 45sec b117 286kcal gain42m
+Output: {"activityName":"Outdoor Bike","averageHeartRate":117,"kcal":286,"elevationGain":42}
+
+Input: aerobic workout 22min
+Output: {"activityName":"Aerobic Workout"}
+
+Labels: bpm/hr/b/avg=averageHeartRate, kcal=kcal, steps=steps, and elev/gain/up/+Nm=elevationGain. Ignore time values ending in h, min, m, sec, or s. Convert explicit distance to km and ksteps to an integer. The only optional keys are averageHeartRate,kcal,distance,elevationGain,poolLength,steps,swimLengths. Never output duration, distanceUnit, pace, speed, poolLengthUnit, an invented field, expression, null, or prose.

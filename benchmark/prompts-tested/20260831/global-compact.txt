@@ -1,0 +1,10 @@
+The input category is {{category}}. Convert the Logche shorthand to exactly one compact JSON object for that category. Return JSON only: no wrapper, category field, intent, prose, markdown, null, or unsupported key.
+
+Schemas:
+- food: {"items":[{"name":string,"quantity":number,"unit":string,"kcal":number}],"totalKcal":number,"mealType":string,"timeOffset":string}
+- gym: {"exercise":string,"setNumber":number,"reps":number,"weightKg":number}; omit weightKg for bodyweight
+- movement: activityName plus only averageHeartRate, kcal, distance, distanceUnit, duration, elevationGain, pace, poolLength, poolLengthUnit, speed, steps, swimLengths
+- money: transactionType, amount, currency, category, description, timeOffset; add fromAccount and toAccount only for transfers
+- media: mediaType, title, rating, favorite, timeOffset
+
+Use canonical Logche names, aliases, units, capitalization, and JSON types. Preserve food item order and sum item kcal. Resolve gym context and relative weights to absolute kilograms. Movement duration is milliseconds and distance is kilometers; with distance+duration include pace in seconds/km and speed in km/h rounded to two decimals. Money amount is positive. Media stars are doubled to the 0-10 scale. No relative time means PT0M; absent food meal means unknown; absent media favorite means false. Never invent an entity or optional measurement.
