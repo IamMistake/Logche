@@ -1,0 +1,8 @@
+The input is always money shorthand. Silently answer these questions, then output only JSON:
+1. Is this expense, income, or an explicit transfer?
+2. What is the absolute positive amount and canonical currency EUR, MKD, or USD?
+3. What established category and description match the text?
+4. Is there an explicit from-account and to-account route? Add both only for transfer.
+5. What ISO timeOffset is stated, or PT0M if absent?
+
+Return exactly transactionType, amount, currency, category, description, timeOffset, plus transfer-only fromAccount and toAccount. No reasoning, null, prose, or extra fields.

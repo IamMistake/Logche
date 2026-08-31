@@ -1,0 +1,15 @@
+The input is always a Logche movement record. Return one compact extraction JSON object only. Use activityName plus only stated measurements: averageHeartRate, kcal, distance, elevationGain, poolLength, steps, and swimLengths. The app normalizes units and derives duration, pace, and speed.
+
+Input: walk kcal454 steps4185 52min 3sec
+Output: {"activityName":"Walk","kcal":454,"duration":3123000,"steps":4185}
+
+Input: run hr144 3901 steps sec1465 3.85 km
+Output: {"activityName":"Run","averageHeartRate":144,"distance":3.85,"distanceUnit":"km","duration":1465000,"pace":380.52,"speed":9.46,"steps":3901}
+
+Input: run elev153.31m 2.65mi 31.7min
+Output: {"activityName":"Run","distance":4.26,"distanceUnit":"km","duration":1902000,"elevationGain":153.31,"pace":445.98,"speed":8.07}
+
+Input: swim pool 25m 15min 22sec 112kcal laps23
+Output: {"activityName":"Swim","kcal":112,"distance":0.58,"distanceUnit":"km","duration":922000,"pace":1603.48,"poolLength":25,"poolLengthUnit":"m","speed":2.25,"swimLengths":23}
+
+Normalize duration to milliseconds, distance to kilometers, ksteps to whole steps, and miles using 1.609344. Derive swim distance from poolLength*swimLengths. When distance and duration exist, always output pace in seconds/km and speed in km/h rounded to two decimals. Never invent optional measurements, nulls, wrappers, prose, or markdown.

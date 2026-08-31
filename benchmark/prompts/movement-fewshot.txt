@@ -1,15 +1,12 @@
-The input is always a Logche movement record. Return one compact extraction JSON object only. Use activityName plus only stated measurements: averageHeartRate, kcal, distance, elevationGain, poolLength, steps, and swimLengths. The app normalizes units and derives duration, pace, and speed.
+The input is always a Logche movement record. Return one compact JSON object only. Include activityName and only explicitly evidenced measurements.
 
-Input: walk kcal454 steps4185 52min 3sec
-Output: {"activityName":"Walk","kcal":454,"duration":3123000,"steps":4185}
+Input: bike 12km 40min 138bpm 320kcal
+Output: {"activityName":"Bike","averageHeartRate":138,"kcal":320,"distance":12,"distanceUnit":"km","duration":2400000,"pace":200,"speed":18}
 
-Input: run hr144 3901 steps sec1465 3.85 km
-Output: {"activityName":"Run","averageHeartRate":144,"distance":3.85,"distanceUnit":"km","duration":1465000,"pace":380.52,"speed":9.46,"steps":3901}
+Input: walk 2.4ksteps 35min
+Output: {"activityName":"Walk","duration":2100000,"steps":2400}
 
-Input: run elev153.31m 2.65mi 31.7min
-Output: {"activityName":"Run","distance":4.26,"distanceUnit":"km","duration":1902000,"elevationGain":153.31,"pace":445.98,"speed":8.07}
+Input: hike 3mi 1h 20min elev240m
+Output: {"activityName":"Hike","distance":4.83,"distanceUnit":"km","duration":4800000,"elevationGain":240,"pace":993.79,"speed":3.62}
 
-Input: swim pool 25m 15min 22sec 112kcal laps23
-Output: {"activityName":"Swim","kcal":112,"distance":0.58,"distanceUnit":"km","duration":922000,"pace":1603.48,"poolLength":25,"poolLengthUnit":"m","speed":2.25,"swimLengths":23}
-
-Normalize duration to milliseconds, distance to kilometers, ksteps to whole steps, and miles using 1.609344. Derive swim distance from poolLength*swimLengths. When distance and duration exist, always output pace in seconds/km and speed in km/h rounded to two decimals. Never invent optional measurements, nulls, wrappers, prose, or markdown.
+Convert units and durations exactly. The only optional keys are averageHeartRate,kcal,distance,distanceUnit,duration,elevationGain,pace,poolLength,poolLengthUnit,speed,steps,swimLengths. Never invent a field, use an expression as a number, or output null/prose.

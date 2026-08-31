@@ -95,7 +95,59 @@ def load(dataset, path):
             rows.append(item)
     if len({r["id"] for r in rows}) != len(rows):
         raise ValueError(f"{path}: duplicate ids")
+    _repair_row_unique_groups(rows, dataset)
     return rows
+
+
+def _repair_row_unique_groups(rows, dataset):
+    """Keep related generated records together when legacy IDs are row-level."""
+    if len({row["group_id"] for row in rows}) != len(rows):
+        return
+    name = dataset.removesuffix(".csv")
+    if name == "gym-data":
+        _repair_gym_groups(rows)
+        return
+    for row in rows:
+        expected = row["expected"]
+        if name in {"food-data", "multi-food-data"}:
+            key = tuple(item.get("name") for item in expected.get("items", []))
+        elif name == "media-data":
+            key = (expected.get("mediaType"), expected.get("title"))
+        elif name == "money-data":
+            key = tuple(expected.get(field) for field in ("transactionType", "category", "description", "fromAccount", "toAccount"))
+        else:
+            continue
+        serialized_key = json.dumps(key, ensure_ascii=True, separators=(",", ":"))
+        row["group_id"] = f"{name}:{serialized_key}"
+
+
+def _repair_gym_groups(rows):
+    parents = list(range(len(rows)))
+    inputs = {}
+    for index, row in enumerate(rows):
+        inputs.setdefault(row["input"], []).append(index)
+
+    def root(index):
+        while parents[index] != index:
+            parents[index] = parents[parents[index]]
+            index = parents[index]
+        return index
+
+    def join(left, right):
+        left, right = root(left), root(right)
+        if left != right:
+            parents[right] = left
+
+    for index, row in enumerate(rows):
+        context = row.get("context", [])
+        if not context:
+            continue
+        previous = context[-1].get("content") if isinstance(context[-1], dict) else None
+        for previous_index in inputs.get(previous, []):
+            join(index, previous_index)
+            break
+    for index, row in enumerate(rows):
+        row["group_id"] = f"gym-session:{root(index):06d}"
 
 
 def split(rows, dataset, seed=42):

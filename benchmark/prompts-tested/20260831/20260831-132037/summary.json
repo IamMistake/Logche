@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-08-31T13:20:37.756464+00:00",
+  "winner": {
+    "modelId": "qwen3.5-0.8b",
+    "promptId": "gym-fewshot",
+    "macroFieldF1": 0.6775,
+    "macroExtractionF1": 0.6775,
+    "cases": 100,
+    "datasets": {
+      "gym-data.csv": 0.6775
+    },
+    "extractionDatasets": {
+      "gym-data.csv": 0.6775
+    }
+  },
+  "results": [
+    {
+      "modelId": "qwen3.5-0.8b",
+      "promptId": "gym-fewshot",
+      "macroFieldF1": 0.6775,
+      "macroExtractionF1": 0.6775,
+      "cases": 100,
+      "datasets": {
+        "gym-data.csv": 0.6775
+      },
+      "extractionDatasets": {
+        "gym-data.csv": 0.6775
+      }
+    },
+    {
+      "modelId": "qwen3.5-0.8b",
+      "promptId": "money-fewshot",
+      "macroFieldF1": 0.6297622377622377,
+      "macroExtractionF1": 0.6916190476190477,
+      "cases": 100,
+      "datasets": {
+        "money-data.csv": 0.6297622377622377
+      },
+      "extractionDatasets": {
+        "money-data.csv": 0.6916190476190477
+      }
+    },
+    {
+      "modelId": "qwen3.5-0.8b",
+      "promptId": "media-fewshot",
+      "macroFieldF1": 0.6,
+      "macroExtractionF1": 0.675,
+      "cases": 100,
+      "datasets": {
+        "media-data.csv": 0.6
+      },
+      "extractionDatasets": {
+        "media-data.csv": 0.675
+      }
+    },
+    {
+      "modelId": "qwen3.5-0.8b",
+      "promptId": "food-fewshot",
+      "macroFieldF1": 0.4695192519039268,
+      "macroExtractionF1": 0.6055135084027006,
+      "cases": 152,
+      "datasets": {
+        "food-data.csv": 0.45887935593817947,
+        "multi-food-data.csv": 0.4801591478696741
+      },
+      "extractionDatasets": {
+        "food-data.csv": 0.6070804195804196,
+        "multi-food-data.csv": 0.6039465972249816
+      }
+    },
+    {
+      "modelId": "qwen3.5-0.8b",
+      "promptId": "movement-fewshot",
+      "macroFieldF1": 0.4430278179852483,
+      "macroExtractionF1": 0.5933903318903319,
+      "cases": 100,
+      "datasets": {
+        "movement-data.csv": 0.4430278179852483
+      },
+      "extractionDatasets": {
+        "movement-data.csv": 0.5933903318903319
+      }
+    }
+  ]
+}

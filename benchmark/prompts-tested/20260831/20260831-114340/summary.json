@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-08-31T11:43:40.223088+00:00",
+  "winner": {
+    "modelId": "qwen3-0.6b",
+    "promptId": "gym-fewshot",
+    "macroFieldF1": 0.69953231292517,
+    "macroExtractionF1": 0.69953231292517,
+    "cases": 280,
+    "datasets": {
+      "gym-data.csv": 0.69953231292517
+    },
+    "extractionDatasets": {
+      "gym-data.csv": 0.69953231292517
+    }
+  },
+  "results": [
+    {
+      "modelId": "qwen3-0.6b",
+      "promptId": "gym-fewshot",
+      "macroFieldF1": 0.69953231292517,
+      "macroExtractionF1": 0.69953231292517,
+      "cases": 280,
+      "datasets": {
+        "gym-data.csv": 0.69953231292517
+      },
+      "extractionDatasets": {
+        "gym-data.csv": 0.69953231292517
+      }
+    },
+    {
+      "modelId": "qwen3-0.6b",
+      "promptId": "money-fewshot",
+      "macroFieldF1": 0.6821699011048123,
+      "macroExtractionF1": 0.7499013806706115,
+      "cases": 169,
+      "datasets": {
+        "money-data.csv": 0.6821699011048123
+      },
+      "extractionDatasets": {
+        "money-data.csv": 0.7499013806706115
+      }
+    },
+    {
+      "modelId": "qwen3-0.6b",
+      "promptId": "media-fewshot",
+      "macroFieldF1": 0.5447202521670607,
+      "macroExtractionF1": 0.6128419452887538,
+      "cases": 282,
+      "datasets": {
+        "media-data.csv": 0.5447202521670607
+      },
+      "extractionDatasets": {
+        "media-data.csv": 0.6128419452887538
+      }
+    },
+    {
+      "modelId": "qwen3-0.6b",
+      "promptId": "food-fewshot",
+      "macroFieldF1": 0.4552544231358639,
+      "macroExtractionF1": 0.5932713213540404,
+      "cases": 202,
+      "datasets": {
+        "food-data.csv": 0.46238399609440334,
+        "multi-food-data.csv": 0.44812485017732445
+      },
+      "extractionDatasets": {
+        "food-data.csv": 0.6203171828171828,
+        "multi-food-data.csv": 0.5662254598908978
+      }
+    },
+    {
+      "modelId": "qwen3-0.6b",
+      "promptId": "movement-fewshot",
+      "macroFieldF1": 0.4255432873210845,
+      "macroExtractionF1": 0.5626742199442496,
+      "cases": 337,
+      "datasets": {
+        "movement-data.csv": 0.4255432873210845
+      },
+      "extractionDatasets": {
+        "movement-data.csv": 0.5626742199442496
+      }
+    }
+  ]
+}

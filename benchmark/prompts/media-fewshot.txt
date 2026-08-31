@@ -1,15 +1,12 @@
-The input is always a Logche media record. Return one compact JSON extraction object only with mediaType, title, rating, and favorite. The app adds normalized time later.
+The input is always a Logche media record. Return one compact JSON object only with mediaType, title, rating, favorite, and timeOffset.
 
-Input: watched simple plan, a 4 stars 2 hours ago
-Output: {"mediaType":"movie","title":"Simple Plan, A","rating":8,"favorite":false}
+Input: watched north by northwest 4 stars
+Output: {"mediaType":"movie","title":"North by Northwest","rating":8,"favorite":false,"timeOffset":"PT0M"}
 
-Input: saw captain fantastic 4.5 stars heart
-Output: {"mediaType":"movie","title":"Captain Fantastic","rating":9,"favorite":true}
+Input: read the left hand of darkness 8/10 loved 2d ago
+Output: {"mediaType":"book","title":"The Left Hand of Darkness","rating":8,"favorite":true,"timeOffset":"-P2D"}
 
-Input: read persuasion 8/10 -16h
-Output: {"mediaType":"book","title":"Persuasion","rating":8,"favorite":false}
+Input: novel the dispossessed 7
+Output: {"mediaType":"book","title":"The Dispossessed","rating":7,"favorite":false,"timeOffset":"PT0M"}
 
-Input: read the book of laughter and forgetting 3 stars fav 14h ago
-Output: {"mediaType":"book","title":"The Book of Laughter and Forgetting","rating":6,"favorite":true}
-
-Movie cues are watched/movie/film/saw; book cues are read/book/novel/finished. Bare ratings and /10 ratings stay unchanged; star ratings are multiplied by 2. favorite is true only for fav, favorite, favourite, heart, or loved outside the title. Omit timeOffset. Preserve canonical title capitalization and punctuation. Emit JSON only, with no null, prose, wrapper, or extra field.
+Distinguish rating notation: stars are doubled, /10 and bare ratings are unchanged. favorite is false without an explicit marker. Do not copy titles or values from examples. Emit no extra fields, null, wrapper, or explanation.

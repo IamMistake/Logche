@@ -1,8 +1,10 @@
 {
   "local": {
     "base_url": "http://localhost:8080/v1",
-    "model": "local-model",
-    "api_key_env": "OPENAI_API_KEY"
+    "model": "Qwen3-0.6B",
+    "api_key_env": "OPENAI_API_KEY",
+    "chat_template_kwargs": {"enable_thinking": false},
+    "response_format": {"type": "json_object"}
   },
   "qwen2.5-0.5b-instruct": {
     "base_url": "http://localhost:8080/v1",
@@ -12,7 +14,9 @@
   "qwen3-0.6b": {
     "base_url": "http://localhost:8080/v1",
     "model": "Qwen3-0.6B",
-    "api_key_env": "OPENAI_API_KEY"
+    "api_key_env": "OPENAI_API_KEY",
+    "chat_template_kwargs": {"enable_thinking": false},
+    "response_format": {"type": "json_object"}
   },
   "qwen3.5-0.8b": {
     "base_url": "http://localhost:8080/v1",

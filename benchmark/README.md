@@ -8,7 +8,8 @@ selected model x every prompt x every discovered dataset x selected cases
 ```
 
 The benchmark does not start model servers. A model must already be available through
-an OpenAI-compatible `/chat/completions` endpoint.
+an OpenAI-compatible `/chat/completions` endpoint. The configured `local` model is
+Qwen3-0.6B.
 
 ## Quick Start
 
@@ -20,7 +21,7 @@ python -m benchmark
 
 The wizard asks for the model, dataset folder, CSV filename, datasets or all,
 prompts or all, validation/test/all-row evaluation, an optional case limit,
-second-look review, parallel workers from 1 to 3, and the output directory.
+parallel workers from 1 to 3, and the output directory.
 
 See what is available before running anything:
 
@@ -168,9 +169,10 @@ benchmark/prompts/my-prompt.txt     -> my-prompt
 
 Add or remove prompt files without changing the Python code.
 
-The category-specific prompts have `strict` and `fewshot` variants for food, gym,
-movement, money, and media. They use extraction-only contracts; deterministic app
-code handles calorie lookup, totals, unit/time normalization, and derived values.
+The category-specific prompts have `strict`, `fewshot`, and `questions` variants for
+food, gym, movement, money, and media. They use extraction-only contracts;
+deterministic app code handles calorie lookup, totals, unit/time normalization, and
+derived values.
 The food prompts support both `food-data.csv` and
 `multi-food-data.csv` because they share one output schema. Select matching prompts
 with repeatable `--prompt` options when the input category is known:
@@ -181,20 +183,9 @@ python -m benchmark run --model qwen3-0.6b \
   --prompt money-strict --prompt money-fewshot
 ```
 
-An unknown prompt ID is rejected. Omitting `--prompt` runs global prompts against
-every dataset and automatically routes category prompts only to matching datasets.
-Explicitly selecting a prompt does not bypass routing.
-
-Global prompt variants use a `{{category}}` placeholder. At runtime the benchmark
-replaces it with the known dataset category; both food datasets resolve to `food`.
-This keeps comparison fair because global prompts do not need to reclassify an input
-whose category the app already knows:
-
-```bash
-python -m benchmark run --model qwen3-0.6b \
-  --prompt global-compact --prompt global-schema \
-  --prompt global-fewshot --prompt global-verify
-```
+An unknown prompt ID is rejected. Omitting `--prompt` runs all matching category
+prompts for each discovered dataset. Explicitly selecting a prompt does not bypass
+category routing. Global prompts are intentionally not active.
 
 ## Evaluation Modes
 
@@ -227,24 +218,15 @@ python -m benchmark split --output benchmark-results/splits.json
 `group_id` keeps related examples together. This prevents cases such as gym sets
 from one session from being spread across multiple splits.
 
-## Second Look
+When a legacy dataset has only row-unique group IDs, the loader derives stable
+groups from food item signatures, media titles, money transaction signatures, and
+gym context chains before splitting. This reduces leakage for the current datasets;
+source-level provenance IDs remain preferable for future dataset regeneration.
 
-The normal benchmark uses one model response per case. Second-look review is off by
-default and can be enabled explicitly:
+## Inference
 
-```bash
-python -m benchmark run --model qwen3-0.6b --second-look
-```
-
-With this option:
-
-1. The model produces the first JSON answer.
-2. That answer is sent back in the conversation.
-3. The model is asked to review and correct it.
-4. Both answers are retained and scored.
-5. The second answer becomes the official score.
-
-The report can therefore show whether the review pass improved or worsened results.
+The benchmark uses one model response per case. Generic second-opinion inference was
+removed because it doubled latency and did not improve the recorded results.
 
 ## Limit and Dry Run
 
@@ -326,7 +308,16 @@ python -m benchmark split
 python -m benchmark run --model MODEL
 python -m benchmark run --model MODEL --dataset DATASET --prompt PROMPT
 python -m benchmark run --model MODEL --scope all
-python -m benchmark run --model MODEL --second-look
 python -m benchmark run --model MODEL --workers 3
 python -m benchmark report benchmark-results/run
 ```
+
+For Qwen3, start the server with thinking disabled and Jinja templates enabled:
+
+```bash
+llama-server -m /path/to/Qwen3-0.6B.gguf --jinja --reasoning off
+```
+
+The client also sends `chat_template_kwargs` with `enable_thinking: false` and
+requests JSON mode. JSON mode constrains syntax; application validation must still
+check field values and calculations.

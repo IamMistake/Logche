@@ -7,9 +7,8 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
-- Added category extraction contracts, separate extraction and end-to-end scoring layers, extraction-oriented category prompts, and automatic routing that avoids evaluating category prompts against unrelated datasets.
-- Added category-specific strict and few-shot prompts for food, gym, movement, money, and media, global comparison prompts with known-category substitution, and repeatable benchmark `--prompt` selection.
-- Added a self-contained benchmark harness under `benchmark/` with dataset discovery, model and prompt registration, one-model-at-a-time evaluation, deterministic splits or full-dataset evaluation, JSON scoring, optional second-look review, resumable JSONL results, and documentation.
+- Added a self-contained benchmark harness under `benchmark/` with dataset discovery, model and prompt registration, one-model-at-a-time evaluation, deterministic splits or full-dataset evaluation, layered JSON scoring, resumable JSONL results, and documentation.
+- Selected Qwen3-0.6B as the current working model, disabled thinking for local serving, removed global prompts and generic second-opinion inference, and added category-specific question-checklist prompts.
 - Prepared the movie and book rating datasets: 1,878 shorthand training examples for ratings and favorites.
 - Prepared the USDA FoodData Central Foundation Foods dataset: 347 shorthand training examples for food and calorie logging.
 - Prepared a curated USDA multi-food dataset: 1,000 shorthand training examples with source-grounded item lists and calorie totals.

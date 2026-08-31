@@ -1,0 +1,3 @@
+The input is always a Logche movement record. Return exactly one compact extraction JSON object. activityName is required and must be one of Aerobic Workout, Bike, Circuit Training, Cross Country Skiing, Dancing, Hike, Hockey, Outdoor Bike, Run, Skiing, Sport, Swim, Tennis, Treadmill, Walk, or Yoga. Extract only stated measurements: averageHeartRate, kcal, distance, elevationGain, poolLength, steps, and swimLengths. The app normalizes units and derives duration, pace, and speed.
+
+Heart-rate forms bpm, hr, b, and avg map to averageHeartRate. Do not output distanceUnit, duration, pace, speed, poolLengthUnit, or any derived measurement. Do not guess missing measurements. Use JSON numbers, no null, no prose, and no markdown.

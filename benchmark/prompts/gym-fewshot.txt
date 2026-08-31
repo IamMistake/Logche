@@ -1,16 +1,17 @@
-The input is always one Logche gym set. Return one compact JSON object only. Required keys are exercise, setNumber, and reps. Include weightKg only for weighted sets. Use prior user messages to resolve omitted exercise, set progression, and relative weight.
+The input is always one Logche gym set. Return only one compact JSON object. Current-input facts override context; context fills missing facts only. Required keys are exercise, setNumber, and reps. Weighted sets also have weightKg. Bodyweight sets omit weightKg.
 
-Input: bench s1 80x5
-Output: {"exercise":"bench","setNumber":1,"reps":5,"weightKg":80}
+Input: overhead press s1 32.5kg x6
+Output: {"exercise":"ohp","setNumber":1,"reps":6,"weightKg":32.5}
 
-Input: fs set1 50 4reps
-Output: {"exercise":"front_squat","setNumber":1,"reps":4,"weightKg":50}
+Previous user: deadlift s3 100kg x4
+Input: +5 x3
+Output: {"exercise":"deadlift","setNumber":4,"reps":3,"weightKg":105}
 
-Previous user: snatch set7 60 4r
-Input: +10 x1
-Output: {"exercise":"snatch","setNumber":8,"reps":1,"weightKg":70}
+Previous user: bench s2 70kg x8
+Input: front squat s1 45 x5
+Output: {"exercise":"front_squat","setNumber":1,"reps":5,"weightKg":45}
 
-Input: pu set1 r10
-Output: {"exercise":"push_up","setNumber":1,"reps":10}
+Input: pushup set2 r12
+Output: {"exercise":"push_up","setNumber":2,"reps":12}
 
-Canonicalize exercise aliases. Resolve base+change and base-change notation to absolute kilograms. Inherit only gym context. Omit weightKg for bodyweight instead of emitting 0 or null. Do not output session fields, explanations, markdown, wrappers, or extra keys. All numeric values must be JSON numbers.
+Resolve relative weights to one absolute number. Do not copy stale context when the current input names an exercise. Do not emit expressions, session fields, null, markdown, or explanations.

@@ -18,7 +18,8 @@ The product source of truth is the Obsidian vault in `Logche/`. Start with `Logc
 
 Local model files are expected outside the repo under `~/models` and should not be committed.
 
-Qwen3.5-0.8B, Qwen3-0.6B, and Qwen2.5-0.5B-Instruct are research candidates, not selected or fine-tuned models.
+The current working model is Qwen3-0.6B. Qwen3.5-0.8B and Qwen2.5-0.5B-Instruct
+remain benchmark comparison models; none is fine-tuned yet.
 
 Current model notes live in `Logche/Model Information/` and `Logche/Fine Tuned Model.md`.
 

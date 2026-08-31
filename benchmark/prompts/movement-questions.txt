@@ -1,0 +1,7 @@
+The input is always movement shorthand. Silently answer these questions, then output only JSON:
+1. What canonical activity is named?
+2. Which optional measurements have explicit cues: heart rate, kcal, distance, duration, elevation, pool length, steps, or swim lengths?
+3. What are their numeric values after unit conversion? Duration is integer ms, distance km, pool length m, and ksteps whole steps.
+4. If distance and duration exist, what are pace seconds/km and speed km/h rounded to two decimals?
+
+Return activityName plus only evidenced keys from averageHeartRate,kcal,distance,distanceUnit,duration,elevationGain,pace,poolLength,poolLengthUnit,speed,steps,swimLengths. Output JSON only. Never output arithmetic expressions, zero defaults, null, or reasoning.

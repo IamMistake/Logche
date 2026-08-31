@@ -95,7 +95,6 @@ def _interactive():
             limit = int(limit_text)
             break
         print("Enter a positive whole number or leave it empty.")
-    second_look = input("Enable second-look review? [y/N]: ").strip().lower() in {"y", "yes"}
     output = input("Output directory, or press Enter for timestamped default: ").strip() or "benchmark-results/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     while True:
         workers_text = input("Parallel workers, 1-3 [1]: ").strip() or "1"
@@ -105,7 +104,7 @@ def _interactive():
         print("Choose 1, 2, or 3.")
     prepared = {name: split(rows, name) for name, rows in datasets.items()}
     print(f"\nStarting {model_id} with {len(selected_prompts)} prompt(s) on {len(datasets)} dataset(s), workers={workers}.")
-    run(model_id, models[model_id], prepared, ROOT / "prompts", output, split_name, scope, limit, second_look, 0.0, 400, 120, set(selected_prompts), workers)
+    run(model_id, models[model_id], prepared, ROOT / "prompts", output, split_name, scope, limit, 0.0, 400, 120, set(selected_prompts), workers)
     result = report(output)
     print(json.dumps({"winner": result[0] if result else None, "output": output}, indent=2))
 
@@ -139,7 +138,6 @@ def main():
     run_cmd.add_argument("--prompt", action="append", help="only use this prompt ID; repeatable")
     run_cmd.add_argument("--scope", choices=["all", "split"], default="split", help="use every row or one deterministic split")
     run_cmd.add_argument("--split", dest="split_name", choices=["train", "validation", "test"], default="validation", help="split to run when scope is split")
-    run_cmd.add_argument("--second-look", action="store_true", help="send the first answer back for one review pass")
     run_cmd.add_argument("--limit", type=int, metavar="N", help="smoke-test only: run at most N cases per dataset")
     run_cmd.add_argument("--temperature", type=float, default=0.0, help="sampling temperature (default: 0)")
     run_cmd.add_argument("--max-tokens", type=int, default=400, help="maximum generated tokens (default: 400)")
@@ -229,6 +227,6 @@ def main():
                 counts[name] = {prompt: count if prompt_applies(prompt, name) else 0 for prompt in selected_prompts}
             print(json.dumps({"model": args.model, "prompts": selected_prompts, "datasets": counts, "note": "no inference performed"}, indent=2))
             return
-        run(args.model, models[args.model], prepared, ROOT / "prompts", args.output, args.split_name, "all" if args.scope == "all" else None, args.limit, args.second_look, args.temperature, args.max_tokens, args.timeout, prompt_ids, args.workers)
+        run(args.model, models[args.model], prepared, ROOT / "prompts", args.output, args.split_name, "all" if args.scope == "all" else None, args.limit, args.temperature, args.max_tokens, args.timeout, prompt_ids, args.workers)
         result = report(args.output)
         print(json.dumps({"winner": result[0] if result else None, "output": args.output}, indent=2))

@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-08-31T10:44:52.320413+00:00",
+  "winner": {
+    "modelId": "qwen2.5-0.5b-instruct",
+    "promptId": "media-fewshot",
+    "macroFieldF1": 0.6246650906225374,
+    "macroExtractionF1": 0.7030141843971631,
+    "cases": 282,
+    "datasets": {
+      "media-data.csv": 0.6246650906225374
+    },
+    "extractionDatasets": {
+      "media-data.csv": 0.7030141843971631
+    }
+  },
+  "results": [
+    {
+      "modelId": "qwen2.5-0.5b-instruct",
+      "promptId": "media-fewshot",
+      "macroFieldF1": 0.6246650906225374,
+      "macroExtractionF1": 0.7030141843971631,
+      "cases": 282,
+      "datasets": {
+        "media-data.csv": 0.6246650906225374
+      },
+      "extractionDatasets": {
+        "media-data.csv": 0.7030141843971631
+      }
+    },
+    {
+      "modelId": "qwen2.5-0.5b-instruct",
+      "promptId": "gym-fewshot",
+      "macroFieldF1": 0.511734693877551,
+      "macroExtractionF1": 0.511734693877551,
+      "cases": 280,
+      "datasets": {
+        "gym-data.csv": 0.511734693877551
+      },
+      "extractionDatasets": {
+        "gym-data.csv": 0.511734693877551
+      }
+    },
+    {
+      "modelId": "qwen2.5-0.5b-instruct",
+      "promptId": "money-fewshot",
+      "macroFieldF1": 0.422324224099372,
+      "macroExtractionF1": 0.46417211979342166,
+      "cases": 169,
+      "datasets": {
+        "money-data.csv": 0.422324224099372
+      },
+      "extractionDatasets": {
+        "money-data.csv": 0.46417211979342166
+      }
+    },
+    {
+      "modelId": "qwen2.5-0.5b-instruct",
+      "promptId": "food-fewshot",
+      "macroFieldF1": 0.37643427614320946,
+      "macroExtractionF1": 0.48476940997228235,
+      "cases": 202,
+      "datasets": {
+        "food-data.csv": 0.3438044703345706,
+        "multi-food-data.csv": 0.4090640819518483
+      },
+      "extractionDatasets": {
+        "food-data.csv": 0.4536821398812349,
+        "multi-food-data.csv": 0.5158566800633297
+      }
+    },
+    {
+      "modelId": "qwen2.5-0.5b-instruct",
+      "promptId": "movement-fewshot",
+      "macroFieldF1": 0.32274667129700246,
+      "macroExtractionF1": 0.48211709161264055,
+      "cases": 337,
+      "datasets": {
+        "movement-data.csv": 0.32274667129700246
+      },
+      "extractionDatasets": {
+        "movement-data.csv": 0.48211709161264055
+      }
+    }
+  ]
+}

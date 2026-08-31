@@ -18,33 +18,20 @@ def messages(prompt, case):
     return [{"role": "system", "content": prompt}] + case["context"] + [{"role": "user", "content": case["input"]}]
 
 
-def render_prompt(prompt, dataset_id):
-    category = category_for_dataset(dataset_id)
-    return prompt.replace("{{category}}", category)
-
-
 def prompt_applies(prompt_id, dataset_id):
-    """Global prompts are cross-category; category prompts are routed."""
-    if prompt_id.startswith("global-"):
-        return True
+    """Run a prompt only against its matching dataset category."""
     return prompt_id.split("-", 1)[0] == category_for_dataset(dataset_id)
 
 
-def _evaluate(model_id, model, prompt_id, prompt, prompt_hash, dataset_id, case, evaluation_scope, second_look, temperature, max_tokens, timeout):
+def _evaluate(model_id, model, prompt_id, prompt, prompt_hash, dataset_id, case, evaluation_scope, temperature, max_tokens, timeout):
     first, first_ms, error = call(model, messages(prompt, case), temperature, max_tokens, timeout)
     first_parsed = parse_output(first)
     contract = contract_for_dataset(dataset_id)
     passes = [{"output": first, "parsedOutput": first_parsed, "latencyMs": first_ms, "scores": score_layers(case["expected"], first_parsed, contract)}]
-    if second_look and not error:
-        review = "Review your previous answer against the original input and instructions. Correct missing, incorrect, or invented fields. Return only the final JSON object."
-        second, second_ms, second_error = call(model, messages(prompt, case) + [{"role": "assistant", "content": first}, {"role": "user", "content": review}], temperature, max_tokens, timeout)
-        second_parsed = parse_output(second)
-        passes.append({"output": second, "parsedOutput": second_parsed, "latencyMs": second_ms, "scores": score_layers(case["expected"], second_parsed, contract)})
-        error = second_error
     return {"modelId": model_id, "promptId": prompt_id, "promptSha256": prompt_hash, "datasetId": dataset_id, "caseId": case["id"], "evaluationScope": evaluation_scope, "expected": case["expected"], "passes": passes, "officialPass": len(passes), "status": "error" if error else "ok", "error": error}
 
 
-def run(model_id, model, datasets, prompt_dir, output_dir, split_name="validation", scope=None, limit=None, second_look=False, temperature=0.0, max_tokens=400, timeout=120, prompt_ids=None, workers=1):
+def run(model_id, model, datasets, prompt_dir, output_dir, split_name="validation", scope=None, limit=None, temperature=0.0, max_tokens=400, timeout=120, prompt_ids=None, workers=1):
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     result_file = output_dir / "results.jsonl"
@@ -63,18 +50,17 @@ def run(model_id, model, datasets, prompt_dir, output_dir, split_name="validatio
     tasks = []
     for prompt_id, prompt in prompt_list:
         for dataset_id, rows in datasets.items():
-            rendered_prompt = render_prompt(prompt, dataset_id)
-            prompt_hash = hashlib.sha256(rendered_prompt.encode()).hexdigest()
+            prompt_hash = hashlib.sha256(prompt.encode()).hexdigest()
             cases = [case for part in rows.values() for case in part] if scope == "all" else rows[split_name]
             if limit:
                 cases = cases[:limit]
             if prompt_applies(prompt_id, dataset_id):
-                tasks.extend((prompt_id, rendered_prompt, prompt_hash, dataset_id, case) for case in cases if (prompt_id, dataset_id, case["id"]) not in done)
+                tasks.extend((prompt_id, prompt, prompt_hash, dataset_id, case) for case in cases if (prompt_id, dataset_id, case["id"]) not in done)
     total = len(tasks) + len(done)
     completed = len(done)
     print(f"Progress: {completed}/{total} cases already complete; workers={workers}", flush=True)
     with result_file.open("a", encoding="utf-8") as output, ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = [pool.submit(_evaluate, model_id, model, prompt_id, prompt, prompt_hash, dataset_id, case, scope or split_name, second_look, temperature, max_tokens, timeout) for prompt_id, prompt, prompt_hash, dataset_id, case in tasks]
+        futures = [pool.submit(_evaluate, model_id, model, prompt_id, prompt, prompt_hash, dataset_id, case, scope or split_name, temperature, max_tokens, timeout) for prompt_id, prompt, prompt_hash, dataset_id, case in tasks]
         for future in as_completed(futures):
             record = future.result()
             output.write(json.dumps(record, ensure_ascii=True) + "\n")

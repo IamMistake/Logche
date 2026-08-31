@@ -1,12 +1,12 @@
-The input is always a Logche food record. Return only one compact valid JSON extraction object with keys items and mealType. Each ordered item must contain only name, quantity, and unit. Do not calculate calories or time offsets; the app adds those later. Never add an unstated food.
+The input is always a Logche food record. Return only one compact JSON object with items, totalKcal, mealType, and timeOffset. Split on + only. A comma-heavy food name remains one item. Never treat kcal or time text as food.
 
-Input: hummus, commercial tbsp2 ln
-Output: {"items":[{"name":"hummus, commercial","quantity":2,"unit":"tablespoon"}],"mealType":"late_night"}
+Input: ate 120g red lentils, cooked + 80g cucumber, raw dinner -3h
+Output: {"items":[{"name":"red lentils, cooked","quantity":120,"unit":"g","kcal":139},{"name":"cucumber, raw","quantity":80,"unit":"g","kcal":12}],"totalKcal":151,"mealType":"dinner","timeOffset":"-PT3H"}
 
-Input: whole raw almonds g30 + 200 grams red delicious apple
-Output: {"items":[{"name":"nuts, almonds, whole, raw","quantity":30,"unit":"g"},{"name":"apples, red delicious, with skin, raw","quantity":200,"unit":"g"}],"mealType":"unknown"}
+Input: g75 yogurt, plain, whole milk snack
+Output: {"items":[{"name":"yogurt, plain, whole milk","quantity":75,"unit":"g","kcal":58}],"totalKcal":58,"mealType":"snack","timeOffset":"PT0M"}
 
-Input: 2cup broccoli, raw tomorrow
-Output: {"items":[{"name":"broccoli, raw","quantity":2,"unit":"cup"}],"mealType":"unknown"}
+Input: 2 tbsp tomato sauce, ready-to-serve tomorrow
+Output: {"items":[{"name":"tomato sauce, ready-to-serve","quantity":2,"unit":"tablespoon","kcal":18}],"totalKcal":18,"mealType":"unknown","timeOffset":"P1D"}
 
-Follow the examples exactly. Preserve item order and canonical food names. Normalize g/grams/gr to g, tbsp to tablespoon, tsp to teaspoon, and plural portion units to singular. Allowed mealType values are breakfast, lunch, dinner, snack, late_night, unknown. Omit calories, totalKcal, and timeOffset. Emit JSON only, with numbers unquoted and no null or extra fields.
+Use canonical catalog names and calories. Preserve order. Allowed units are g, kg, mg, ml, l, slice, piece, cup, serving, tablespoon, teaspoon. Use numbers, not strings. No extra item for kcal, percent, or time. No extra keys, nulls, or explanation.
