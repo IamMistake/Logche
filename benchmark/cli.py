@@ -1,5 +1,4 @@
 import argparse
-import csv
 import json
 from pathlib import Path
 from datetime import datetime
@@ -9,8 +8,7 @@ from .runner import prompt_applies
 from .runner import report, run
 
 ROOT = Path(__file__).parent
-SOURCE_DATASETS = ROOT.parent / "datasets"
-GENERATED_DATASETS = ROOT / "generated-datasets"
+DATASETS = ROOT.parent / "datasets"
 
 
 def _datasets(args):
@@ -65,7 +63,7 @@ def _interactive():
         raise SystemExit("interactive mode requires a terminal; use --help for command-line usage")
     models = _models()
     model_id = _choose_model(models)
-    dataset_root = input(f"\nDataset folder [{GENERATED_DATASETS}]: ").strip() or str(GENERATED_DATASETS)
+    dataset_root = input(f"\nDataset folder [{DATASETS}]: ").strip() or str(DATASETS)
     csv_name = input("CSV filename [training.csv]: ").strip() or "training.csv"
     found = discover(dataset_root, csv_name)
     if not found:
@@ -122,17 +120,13 @@ def main():
     )
     sub = parser.add_subparsers(dest="command")
     common = argparse.ArgumentParser(add_help=False)
-    common.add_argument("--datasets", default=str(GENERATED_DATASETS), help="root folder searched recursively (default: benchmark/generated-datasets/)")
+    common.add_argument("--datasets", default=str(DATASETS), help="root folder searched recursively (default: datasets/)")
     common.add_argument("--csv-name", default="training.csv", help="CSV filename to discover (default: training.csv)")
     common.add_argument("--csv", action="append", help="use an explicit CSV path instead; repeatable")
     common.add_argument("--dataset", action="append", help="only use this dataset ID; repeatable")
     sub.add_parser("validate", parents=[common], help="find and validate dataset CSV files")
     split_cmd = sub.add_parser("split", parents=[common], help="create deterministic train/validation/test splits")
     split_cmd.add_argument("--output", default="benchmark-results/splits.json", help="split manifest output path")
-    prepare_cmd = sub.add_parser("prepare", help="convert source CSVs into standard generated datasets")
-    prepare_cmd.add_argument("--source", default=str(SOURCE_DATASETS), help="source dataset folder")
-    prepare_cmd.add_argument("--csv-name", default="training.csv", help="source CSV filename")
-    prepare_cmd.add_argument("--output", default=str(GENERATED_DATASETS), help="generated dataset folder")
     run_cmd = sub.add_parser("run", parents=[common], help="run one model across prompts and datasets")
     run_cmd.add_argument("--model", help="model ID from benchmark/models.json; omit for interactive selection")
     run_cmd.add_argument("--prompt", action="append", help="only use this prompt ID; repeatable")
@@ -149,7 +143,7 @@ def main():
     report_cmd.add_argument("output_dir", help="result directory containing results.jsonl")
     list_cmd = sub.add_parser("list", help="list configured models, prompts, or discovered datasets")
     list_cmd.add_argument("target", choices=["models", "prompts", "datasets"], help="what to list")
-    list_cmd.add_argument("--datasets", default=str(GENERATED_DATASETS), help="root folder searched for datasets")
+    list_cmd.add_argument("--datasets", default=str(DATASETS), help="root folder searched for datasets")
     list_cmd.add_argument("--csv-name", default="training.csv", help="CSV filename to discover")
     list_cmd.add_argument("--csv", action="append", help="explicit CSV path; repeatable")
     args = parser.parse_args()
@@ -170,28 +164,6 @@ def main():
         else:
             for name, path in discover(args.datasets, args.csv_name, args.csv):
                 print(f"{name}: {path}")
-        return
-    if args.command == "prepare":
-        found = discover(args.source, args.csv_name)
-        if not found:
-            raise SystemExit(f"no {args.csv_name} files found under {args.source}")
-        output_root = Path(args.output)
-        for dataset_id, source_path in found:
-            rows = load(dataset_id, source_path)
-            output_path = output_root / dataset_id.removesuffix(".csv") / "training.csv"
-            output_path.parent.mkdir(parents=True, exist_ok=True)
-            with output_path.open("w", newline="", encoding="utf-8") as handle:
-                writer = csv.DictWriter(handle, fieldnames=["id", "input", "context", "expected", "group_id"])
-                writer.writeheader()
-                for row in rows:
-                    writer.writerow({
-                        "id": row["id"],
-                        "input": row["input"],
-                        "context": json.dumps(row["context"], ensure_ascii=True, separators=(",", ":")),
-                        "expected": json.dumps(row["expected"], ensure_ascii=True, separators=(",", ":")),
-                        "group_id": row["group_id"],
-                    })
-            print(f"{dataset_id}: {len(rows)} rows -> {output_path}")
         return
     datasets, found = _datasets(args)
     if args.command == "validate":

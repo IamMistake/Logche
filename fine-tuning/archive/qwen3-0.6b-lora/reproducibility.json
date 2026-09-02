@@ -1,0 +1,40 @@
+{
+  "model": "Qwen/Qwen3-0.6B",
+  "method": "LoRA",
+  "sourceRun": "first Qwen3-0.6B Logche LoRA run",
+  "trainingCommand": "python -m training.train --data training-artifacts/qwen3-0.6b/train.jsonl --validation-data training-artifacts/qwen3-0.6b/validation.jsonl --output training-runs/qwen3-0.6b-lora --batch-size 2 --gradient-accumulation 16 --gradient-checkpointing --epochs 3 --warmup-ratio 0.05 --save-strategy epoch",
+  "configuration": {
+    "precision": "bfloat16",
+    "epochs": 3,
+    "batchSize": 2,
+    "gradientAccumulation": 16,
+    "effectiveBatchSize": 32,
+    "maxLength": 512,
+    "learningRate": 0.0002,
+    "warmupRatio": 0.05,
+    "loraRank": 16,
+    "loraAlpha": 32,
+    "loraDropout": 0.05,
+    "targetModules": "all-linear",
+    "thinking": false,
+    "seed": 42
+  },
+  "dataset": {
+    "trainRows": 5932,
+    "validationRows": 1368,
+    "testRows": 1168,
+    "trainSha256": "5977aa6150fc4004b2df42c016f6196b99d80b96359af76d93aab80eb87d8241",
+    "validationSha256": "8a0939414b2eee8737b81bfb816ae3c81d74b084f57f836da958cea6807c89a4",
+    "testSha256": "f07aba8709ea72472bb46e797a50c9b2830d007cbaf13a91604b0d6f9e427721"
+  },
+  "environment": {
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "torch": "2.13.0+cu130",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "peft": "0.20.0",
+    "datasets": "5.0.1",
+    "accelerate": "1.14.0",
+    "safetensors": "0.8.0"
+  }
+}

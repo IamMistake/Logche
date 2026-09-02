@@ -34,7 +34,9 @@ venv/
 *.sqlite3
 *.gguf
 *.safetensors
+!/fine-tuning/archive/**/*.safetensors
 /models/
+/processed-good/
 
 # OS/editor noise
 .DS_Store
@@ -42,5 +44,4 @@ Thumbs.db
 *.swp
 *.swo
 *~
-quant-test/*
 Logche/*

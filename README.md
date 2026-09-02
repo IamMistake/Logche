@@ -11,6 +11,8 @@ The product source of truth is the Obsidian vault in `Logche/`. Start with `Logc
 - `Logche/` contains the Obsidian product documentation.
 - `scripts/` contains helper scripts for prompt, hardware, and thesis workflows.
 - `benchmark/` contains the prompt and dataset benchmark harness.
+- `datasets/` contains one final `training.csv` per source dataset.
+- `fine-tuning/` contains dataset splitting, LoRA training, and adapter archives.
 - `thesis/` contains the local LaTeX bachelor thesis material.
 - `CHANGES.md` tracks meaningful development progress for thesis evidence.
 
@@ -18,8 +20,9 @@ The product source of truth is the Obsidian vault in `Logche/`. Start with `Logc
 
 Local model files are expected outside the repo under `~/models` and should not be committed.
 
-The current working model is Qwen3-0.6B. Qwen3.5-0.8B and Qwen2.5-0.5B-Instruct
-remain benchmark comparison models; none is fine-tuned yet.
+The current working model is Qwen3-0.6B. Its first LoRA adapter is archived under
+`fine-tuning/archive/qwen3-0.6b-lora/`. Qwen3.5-0.8B and Qwen2.5-0.5B-Instruct
+remain benchmark comparison models.
 
 Current model notes live in `Logche/Model Information/` and `Logche/Fine Tuned Model.md`.
 
@@ -46,4 +49,6 @@ Agent-specific rules live in `AGENTS.md`.
 
 ## Status
 
-This is a design and research repository. The mobile app, fine-tuned model, and Rust inference/quantization engine are not implemented here. The Python benchmark harness is implemented under `benchmark/`; generated benchmark results are not committed.
+This is a design and research repository. The Python benchmark harness and first
+Qwen3-0.6B LoRA training run are implemented; the mobile app and local inference
+integration are not.

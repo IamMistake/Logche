@@ -52,24 +52,15 @@ Run the full validation split:
 python -m benchmark run --model qwen3-0.6b
 ```
 
-The default dataset folder is `benchmark/generated-datasets/`. The default
+The default dataset folder is `datasets/`. The default
 split is `validation`. When `--output` is omitted, `run` creates a timestamped result
 directory. If
 `--model` is omitted in an interactive terminal, the CLI presents a model menu.
 
 ## Datasets
 
-Generate standardized copies of the source datasets with:
-
-```bash
-python -m benchmark prepare
-```
-
-This reads source files from `datasets/` and writes copies to
-`benchmark/generated-datasets/`. Re-run it after changing a source CSV. Use
-`--source`, `--csv-name`, or `--output` when the layout changes.
-
-The runner recursively searches for `training.csv` files. The dataset name is the
+The runner reads the source files directly and recursively searches for
+`training.csv` files. The dataset name is the
 parent directory followed by `.csv`:
 
 ```text
@@ -304,7 +295,6 @@ precision, field recall, hallucinated fields, and latency.
 ```bash
 python -m benchmark --help
 python -m benchmark validate
-python -m benchmark prepare
 python -m benchmark split
 python -m benchmark run --model MODEL
 python -m benchmark run --model MODEL --dataset DATASET --prompt PROMPT

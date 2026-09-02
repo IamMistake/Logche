@@ -7,6 +7,9 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
+- Simplified model training into `fine-tuning/`, reduced each source dataset to its final `training.csv`, moved reusable processing assets out of the Git repository, removed obsolete Colab and quantization-test folders, and consolidated the trained LoRA archive.
+- Trained and archived the first Qwen3-0.6B LoRA adapter with its tokenizer, configuration, and reproducibility metadata.
+- Added the first Qwen3-0.6B fine-tuning data pipeline on the `fine-tuning` branch: deterministic grouped splits, model-owned target projection, category-specific conversational prompts, dataset hashes, and validation metadata.
 - Added a self-contained benchmark harness under `benchmark/` with dataset discovery, model and prompt registration, one-model-at-a-time evaluation, deterministic splits or full-dataset evaluation, layered JSON scoring, resumable JSONL results, and documentation.
 - Selected Qwen3-0.6B as the current working model, disabled thinking for local serving, removed global prompts and generic second-opinion inference, retired non-few-shot prompt variants, and improved category few-shot prompts from validation findings.
 - Prepared the movie and book rating datasets: 1,878 shorthand training examples for ratings and favorites.
