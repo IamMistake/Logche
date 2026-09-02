@@ -7,6 +7,7 @@ Each meaningful commit should update this file or a related development-log entr
 
 ## Unreleased
 
+- Added concise Macedonian thesis chapters for dataset preparation, fine-tuning, benchmark setup, and preliminary model results.
 - Simplified model training into `fine-tuning/`, reduced each source dataset to its final `training.csv`, moved reusable processing assets out of the Git repository, removed obsolete Colab and quantization-test folders, and consolidated the trained LoRA archive.
 - Trained and archived the first Qwen3-0.6B LoRA adapter with its tokenizer, configuration, and reproducibility metadata.
 - Added the first Qwen3-0.6B fine-tuning data pipeline on the `fine-tuning` branch: deterministic grouped splits, model-owned target projection, category-specific conversational prompts, dataset hashes, and validation metadata.

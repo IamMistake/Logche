@@ -32,9 +32,10 @@
 \makeatother
 
 \onehalfspacing
+\setlength{\emergencystretch}{3em}
 
 \title{Интелигентен локален систем за структурирано лично логирање со fine-tuned LLM модел и Rust механизам за квантизација}
-\author{Име Презиме}
+\author{Никола Јагуриноски}
 \date{Скопје, \the\year}
 
 \begin{document}
@@ -48,9 +49,9 @@
   {\Large Дипломски труд\\[3cm]}
 
   \begin{flushleft}
-    \textbf{Студент:} Име Презиме\\
-    \textbf{Индекс:} XXXXX\\[0.5cm]
-    \textbf{Ментор:} проф. д-р XXXXX
+    \textbf{Студент:} Никола Јагуриноски\\
+    \textbf{Индекс:} 221208\\[0.5cm]
+    \textbf{Ментор:} Бојан Илијоски
   \end{flushleft}
 
   \vfill
@@ -73,19 +74,27 @@
 \input{chapters/05-metodologija}
 \input{chapters/06-arhitektura-na-sistemot}
 \input{chapters/07-implementacija}
+\input{chapters/07-fine-tuning}
+\input{chapters/07-benchmark}
 \input{chapters/08-evaluacija}
 \input{chapters/09-zaklucok}
 \input{chapters/10-idna-rabota}
 
 \appendix
-\input{appendices/razvojna-istorija}
 \input{appendices/recnik-na-poimi}
 
 \begin{thebibliography}{9}
 \addcontentsline{toc}{chapter}{Користена литература}
 
-\bibitem{placeholder}
-Референците ќе бидат додадени во следните верзии на трудот.
+\bibitem{hu2021lora}
+Edward J. Hu et al.
+\textit{LoRA: Low-Rank Adaptation of Large Language Models}.
+arXiv:2106.09685, 2021.
+
+\bibitem{dettmers2023qlora}
+Tim Dettmers et al.
+\textit{QLoRA: Efficient Finetuning of Quantized LLMs}.
+arXiv:2305.14314, 2023.
 
 \end{thebibliography}
 

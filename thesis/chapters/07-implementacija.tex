@@ -1,9 +1,76 @@
-\chapter{Имплементација}
+\chapter{Подготовка на податочни множества}
 
-Ова поглавје ќе ја опише имплементацијата на главните компоненти на системот.
-Првиот дел ќе се фокусира на парсерот за кратка нотација и правилата со кои суровиот внес се претвора во структуриран запис.
+За шесте категории се избрани постоечки извори, исчистени се невалидните записи и се создадени кратки внесови со структурирани излези.
 
-Потоа ќе биде опишано локалното чување на податоци, вклучувајќи го односот помеѓу оригиналниот внес, проширеното толкување и структурираниот резултат.
-Дополнително ќе се разгледаат можностите за меморија на корекции, каде системот учи од корекциите на корисникот и ги користи за подобра персонализација.
+\section{Movement}
 
-Ако во проектот се користи локален јазичен модел, во ова поглавје ќе се опишат избраните модели, форматите на моделите, квантизацијата, локалната инференција и ограничувањата на извршување на уред.
+Извор е PMData export со 2\,298 активности.
+По проверка на вредностите за пулс, времетраење и брзина се задржани 2\,246 редови.
+Колоните се:
+
+\begin{center}
+  \small
+  \texttt{input, activityName, averageHeartRate, kcal, distance, distanceUnit, duration, elevationGain, pace, poolLength, poolLengthUnit, speed, steps, swimLengths}
+\end{center}
+
+Пример: \texttt{walk 192kcal 22.2min 94bpm} се претвора во активност \texttt{Walk}, 192 kcal, 94 bpm и 1\,332\,000 ms.
+
+\section{Gym}
+
+Извор е Strong App Analytics export со 1\,903 set записи.
+По отстранување на non-strength и сомнителните записи се задржани 1\,868 редови.
+Колоните се:
+
+\begin{center}
+  \texttt{previousInput, input, exercise, setNumber, reps, weightKg}
+\end{center}
+
+Пример: \texttt{snatch \#1 40 3reps} се претвора во \texttt{snatch}, сет 1, три повторувања и 40 kg.
+
+\section{Money}
+
+Извор е Expenses\_2024 со 1\,155 финансиски записи.
+По отстранување на записите без употреблив наслов или износ се задржани 1\,129 редови.
+Колоните се:
+
+\begin{center}
+  \texttt{input, transactionType, amount, currency, category, description, timeOffset, fromAccount, toAccount}
+\end{center}
+
+Пример: \texttt{juice 0.44€} се претвора во трошок од 0,44 EUR со категорија \texttt{food\_drink} и опис \texttt{Juice}.
+
+\section{Food}
+
+Извор е USDA FoodData Central Foundation Foods со 436 избрани food записи.
+По отстранување на записите без употреблива energy вредност и точните дупликати се задржани 347 редови.
+Колоните се:
+
+\begin{center}
+  \texttt{input, itemName, itemQuantity, itemUnit, itemKcal, totalKcal, mealType, timeOffset}
+\end{center}
+
+Пример: \texttt{hummus, commercial tbsp2 ln} се претвора во две tablespoons hummus, 78 kcal и meal type \texttt{late\_night}.
+
+\section{Multi-food}
+
+Извор се 347-те исчистени USDA food записи.
+Од нив се генерирани 1\,000 контролирани комбинации со две до четири ставки.
+Колоните се:
+
+\begin{center}
+  \texttt{input, itemsJson, totalKcal, mealType, timeOffset}
+\end{center}
+
+Пример: \texttt{100 g raspberries + raw peanuts 30 grams breakfast} се претвора во две ставки со вкупно 216 kcal и meal type \texttt{breakfast}.
+
+\section{Media}
+
+Извори се MovieLens со 100\,836 movie ratings и Goodbooks-10k со 5\,976\,479 book ratings.
+По поврзување со насловите, земање примерок и отстранување дупликати се задржани 1\,878 редови.
+Колоните се:
+
+\begin{center}
+  \texttt{input, mediaType, title, rating, favorite, timeOffset}
+\end{center}
+
+Пример: \texttt{saw deep impact 3 stars} се претвора во movie запис за \texttt{Deep Impact} со оценка 6 од 10.

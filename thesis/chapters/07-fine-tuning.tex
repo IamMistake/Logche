@@ -1,0 +1,25 @@
+\chapter{Fine-tuning}
+
+Fine-tuning процесот е организиран така што подоцна може да се додадат и споредат повеќе модели.
+Податоците се делат на training, validation и test дел, а test примерите се чуваат за конечна споредба.
+
+Тековниот експеримент користи LoRA, метод за параметарски ефикасно дообучување со low-rank матрици \cite{hu2021lora}.
+QLoRA, кој го комбинира овој пристап со квантизиран основен модел, е планиран како следна варијанта за споредба \cite{dettmers2023qlora}.
+
+\begin{table}[ht]
+  \centering
+  \small
+  \begin{tabular}{llll}
+    \toprule
+    Модел & Метод & Епохи & Статус \\
+    \midrule
+    Qwen3-0.6B & LoRA, rank 16 & 3 & Обучен адаптер \\
+    Друг модел & Не е утврден & Не е утврден & Планиран \\
+    \bottomrule
+  \end{tabular}
+  \caption{Fine-tuning експерименти}
+\end{table}
+
+За Qwen3-0.6B се користени batch size 2, gradient accumulation 16, maximum sequence length 512 и learning rate $2\times10^{-4}$.
+Обуката е извршена со bfloat16 precision на NVIDIA GeForce RTX 5080.
+Зачувани се LoRA адаптерот, tokenizer-от и конфигурацијата потребна за негово повторно вчитување.
